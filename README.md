@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4410** |
+| **\***                       | **\***                                                | **4491** |
 | **AI The Somnium Files**     | **\***                                                | **29**   |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21       |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8        |
@@ -45,8 +45,8 @@
 | Akame ga Kill!               | Akame ga Kill!                                        | 102      |
 | Akame ga Kill!               | Akame ga Kill! Zero                                   | 36       |
 | Akame ga Kill!               | Hinowa ga Crush!                                      | 10       |
-| **Alice in Borderland**      | **\***                                                | **57**   |
-| Alice in Borderland          | Alice in Borderland                                   | 45       |
+| **Alice in Borderland**      | **\***                                                | **138**  |
+| Alice in Borderland          | Alice in Borderland                                   | 126      |
 | Alice in Borderland          | Alice in Borderland Retry                             | 3        |
 | Alice in Borderland          | Alice on Border Road                                  | 9        |
 | **Assassin's Creed**         | **\***                                                | **90**   |
