@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4491** |
+| **\***                       | **\***                                                | **4775** |
 | **AI The Somnium Files**     | **\***                                                | **29**   |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21       |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8        |
@@ -61,8 +61,8 @@
 | Attack on Titan              | Lost in the Cruel World                               | 4        |
 | **Attorney of the Arcane**   | **\***                                                | **14**   |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                | 14       |
-| **Barry**                    | **\***                                                | **47**   |
-| Barry                        | Barry                                                 | 47       |
+| **Barry**                    | **\***                                                | **145**  |
+| Barry                        | Barry                                                 | 145      |
 | **Blasphemous**              | **\***                                                | **62**   |
 | Blasphemous                  | Blasphemous                                           | 39       |
 | Blasphemous                  | Blasphemous 2                                         | 21       |
@@ -151,8 +151,8 @@
 | Nasuverse                    | Fate Zero                                             | 26       |
 | Nasuverse                    | Fate stay night                                       | 143      |
 | Nasuverse                    | [servants lore]                                       | 60       |
-| **Ozark**                    | **\***                                                | **39**   |
-| Ozark                        | Ozark                                                 | 39       |
+| **Ozark**                    | **\***                                                | **225**  |
+| Ozark                        | Ozark                                                 | 225      |
 | **Project Moon**             | **\***                                                | **310**  |
 | Project Moon                 | Library of Ruina                                      | 134      |
 | Project Moon                 | Limbus Company                                        | 164      |
