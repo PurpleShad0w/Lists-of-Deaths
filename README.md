@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **1635385061** |
+| **\***                       | **\***                                                | **6035385414** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -56,8 +56,8 @@
 | Assassin's Creed             | Assassin's Creed II                                   | 27             |
 | Assassin's Creed             | Assassin's Creed Novelizations                        | 6              |
 | Assassin's Creed             | Assassin's Creed Revelations                          | 20             |
-| **Attack on Titan**          | **\***                                                | **1600000138** |
-| Attack on Titan              | Attack on Titan                                       | 1600000134     |
+| **Attack on Titan**          | **\***                                                | **138**        |
+| Attack on Titan              | Attack on Titan                                       | 134            |
 | Attack on Titan              | Lost in the Cruel World                               | 4              |
 | **Attorney of the Arcane**   | **\***                                                | **14**         |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                | 14             |
@@ -87,18 +87,18 @@
 | Danganronpa                  | Danganronpa V3 Killing Harmony                        | 25             |
 | Danganronpa                  | Danganronpa Zero                                      | 11             |
 | Danganronpa                  | Kirigiriso                                            | 6              |
-| **Dark Souls**               | **\***                                                | **376**        |
-| Dark Souls                   | Dark Souls                                            | 113            |
-| Dark Souls                   | Dark Souls II                                         | 130            |
-| Dark Souls                   | Dark Souls III                                        | 133            |
+| **Dark Souls**               | **\***                                                | **524**        |
+| Dark Souls                   | Dark Souls                                            | 192            |
+| Dark Souls                   | Dark Souls II                                         | 165            |
+| Dark Souls                   | Dark Souls III                                        | 167            |
 | **Dr. Stone**                | **\***                                                | **13**         |
 | Dr. Stone                    | Dr. Stone                                             | 13             |
 | **Dragon's Dogma**           | **\***                                                | **45**         |
 | Dragon's Dogma               | Dragon's Dogma Dark Arisen                            | 45             |
-| **Elden Ring**               | **\***                                                | **434**        |
-| Elden Ring                   | Elden Ring                                            | 434            |
-| **Final Fantasy**            | **\***                                                | **122**        |
-| Final Fantasy                | Final Fantasy XIII                                    | 122            |
+| **Elden Ring**               | **\***                                                | **511**        |
+| Elden Ring                   | Elden Ring                                            | 511            |
+| **Final Fantasy**            | **\***                                                | **235**        |
+| Final Fantasy                | Final Fantasy XIII                                    | 235            |
 | **Future Diary**             | **\***                                                | **44**         |
 | Future Diary                 | Future Diary                                          | 44             |
 | **Gantz**                    | **\***                                                | **131**        |
@@ -185,7 +185,7 @@
 | Watch Dogs                   | Watch Dogs 2                                          | 8              |
 | Watch Dogs                   | Watch Dogs Dark Clouds                                | 4              |
 | Watch Dogs                   | Watch Dogs Legion                                     | 26             |
-| **Zero Escape**              | **\***                                                | **206**        |
+| **Zero Escape**              | **\***                                                | **6000000221** |
 | Zero Escape                  | Zero Escape Nine Hours, Nine Persons, Nine Doors      | 24             |
 | Zero Escape                  | Zero Escape Virtue's Last Reward                      | 51             |
-| Zero Escape                  | Zero Escape Zero Time Dilemma                         | 131            |
+| Zero Escape                  | Zero Escape Zero Time Dilemma                         | 6000000146     |
