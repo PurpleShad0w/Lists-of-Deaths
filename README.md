@@ -6,6 +6,7 @@
 - - **reincarnated** - this death was nullified when the character was reborn with their memories.
 - - **undone**       - this death was nullified via time travel.
 - - **non-canon**    - this death happened, but is not considered canon when it comes to the character's status.
+- - **alternate**    - this death happened to a different version of the character, usually within an alternate universe.
 - **dependent** - the character may or may not be deceased depending on certain factors.
 - - **determinant** - this death happening depends upon a player's choice.
 - - **continuant**  - this death exists but not in every adaptation of a story, and the character's canonical status is unspecified.
@@ -14,7 +15,6 @@
 - - **physical**   - this death concerns only a character's body, leaving their mind or soul alive.
 - - **brain-dead** - this death left the character only physically alive, with no brain activity possible.
 - - **undead**     - this death turned the character into an undead being such as a zombie or a ghost.
-- **variants** - the 'character' refers here to a cumulative summary of all different versions of a character.
 
 
 ### Status of Incomplete Entries
@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **6035385414** |
+| **\***                       | **\***                                                | **6035391220** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -45,8 +45,8 @@
 | Akame ga Kill!               | Akame ga Kill!                                        | 102            |
 | Akame ga Kill!               | Akame ga Kill! Zero                                   | 36             |
 | Akame ga Kill!               | Hinowa ga Crush!                                      | 10             |
-| **Alice in Borderland**      | **\***                                                | **138**        |
-| Alice in Borderland          | Alice in Borderland                                   | 126            |
+| **Alice in Borderland**      | **\***                                                | **142**        |
+| Alice in Borderland          | Alice in Borderland                                   | 130            |
 | Alice in Borderland          | Alice in Borderland Retry                             | 3              |
 | Alice in Borderland          | Alice on Border Road                                  | 9              |
 | **Assassin's Creed**         | **\***                                                | **150**        |
@@ -57,8 +57,7 @@
 | Assassin's Creed             | Assassin's Creed Novelizations                        | 6              |
 | Assassin's Creed             | Assassin's Creed Revelations                          | 20             |
 | **Attack on Titan**          | **\***                                                | **138**        |
-| Attack on Titan              | Attack on Titan                                       | 134            |
-| Attack on Titan              | Lost in the Cruel World                               | 4              |
+| Attack on Titan              | Attack on Titan                                       | 138            |
 | **Attorney of the Arcane**   | **\***                                                | **14**         |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                | 14             |
 | **Barry**                    | **\***                                                | **145**        |
@@ -67,8 +66,8 @@
 | Blasphemous                  | Blasphemous                                           | 39             |
 | Blasphemous                  | Blasphemous 2                                         | 21             |
 | Blasphemous                  | Blasphemous The Kneeling                              | 2              |
-| **Bloodstained**             | **\***                                                | **44**         |
-| Bloodstained                 | Bloodstained Ritual of the Night                      | 44             |
+| **Bloodstained**             | **\***                                                | **167**        |
+| Bloodstained                 | Bloodstained Ritual of the Night                      | 167            |
 | **Claymore**                 | **\***                                                | **80**         |
 | Claymore                     | Claymore                                              | 80             |
 | **Code Geass**               | **\***                                                | **35000058**   |
@@ -93,8 +92,8 @@
 | Dark Souls                   | Dark Souls III                                        | 167            |
 | **Dr. Stone**                | **\***                                                | **13**         |
 | Dr. Stone                    | Dr. Stone                                             | 13             |
-| **Dragon's Dogma**           | **\***                                                | **45**         |
-| Dragon's Dogma               | Dragon's Dogma Dark Arisen                            | 45             |
+| **Dragon's Dogma**           | **\***                                                | **934**        |
+| Dragon's Dogma               | Dragon's Dogma Dark Arisen                            | 934            |
 | **Elden Ring**               | **\***                                                | **511**        |
 | Elden Ring                   | Elden Ring                                            | 511            |
 | **Final Fantasy**            | **\***                                                | **235**        |
@@ -105,9 +104,9 @@
 | Gantz                        | Gantz                                                 | 131            |
 | **Golden Kamuy**             | **\***                                                | **77**         |
 | Golden Kamuy                 | Golden Kamuy                                          | 77             |
-| **Hollow Knight**            | **\***                                                | **174**        |
-| Hollow Knight                | Hollow Knight                                         | 108            |
-| Hollow Knight                | Hollow Knight Silksong                                | 66             |
+| **Hollow Knight**            | **\***                                                | **4962**       |
+| Hollow Knight                | Hollow Knight                                         | 2105           |
+| Hollow Knight                | Hollow Knight Silksong                                | 2857           |
 | **Hunter × Hunter**          | **\***                                                | **143**        |
 | Hunter × Hunter              | Hisoka's Past                                         | 1              |
 | Hunter × Hunter              | Hunter × Hunter                                       | 130            |
@@ -144,11 +143,11 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                            | 87             |
 | **Mobile Suit Gundam**       | **\***                                                | **37**         |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans               | 37             |
-| **Nasuverse**                | **\***                                                | **346**        |
+| **Nasuverse**                | **\***                                                | **348**        |
 | Nasuverse                    | Fate Apocrypha                                        | 31             |
 | Nasuverse                    | Fate Grand Order                                      | 70             |
 | Nasuverse                    | Fate Prototype Fragments of Sky Silver                | 16             |
-| Nasuverse                    | Fate Zero                                             | 26             |
+| Nasuverse                    | Fate Zero                                             | 28             |
 | Nasuverse                    | Fate stay night                                       | 143            |
 | Nasuverse                    | [servants lore]                                       | 60             |
 | **Ozark**                    | **\***                                                | **225**        |
