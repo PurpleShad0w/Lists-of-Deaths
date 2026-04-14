@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **6035391220** |
+| **\***                       | **\***                                                | **6061892800** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -56,8 +56,8 @@
 | Assassin's Creed             | Assassin's Creed II                                   | 27             |
 | Assassin's Creed             | Assassin's Creed Novelizations                        | 6              |
 | Assassin's Creed             | Assassin's Creed Revelations                          | 20             |
-| **Attack on Titan**          | **\***                                                | **138**        |
-| Attack on Titan              | Attack on Titan                                       | 138            |
+| **Attack on Titan**          | **\***                                                | **20837951**   |
+| Attack on Titan              | Attack on Titan                                       | 20837951       |
 | **Attorney of the Arcane**   | **\***                                                | **14**         |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                | 14             |
 | **Barry**                    | **\***                                                | **145**        |
@@ -107,12 +107,8 @@
 | **Hollow Knight**            | **\***                                                | **4962**       |
 | Hollow Knight                | Hollow Knight                                         | 2105           |
 | Hollow Knight                | Hollow Knight Silksong                                | 2857           |
-| **Hunter × Hunter**          | **\***                                                | **143**        |
-| Hunter × Hunter              | Hisoka's Past                                         | 1              |
-| Hunter × Hunter              | Hunter × Hunter                                       | 130            |
-| Hunter × Hunter              | Hunter × Hunter Phantom Rouge                         | 2              |
-| Hunter × Hunter              | Hunter × Hunter The Last Mission                      | 4              |
-| Hunter × Hunter              | Kurapika's Memories                                   | 6              |
+| **Hunter × Hunter**          | **\***                                                | **5663910**    |
+| Hunter × Hunter              | Hunter × Hunter                                       | 5663910        |
 | **Infamous**                 | **\***                                                | **39**         |
 | Infamous                     | Infamous                                              | 10             |
 | Infamous                     | Infamous 2                                            | 13             |
