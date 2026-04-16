@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **6061892866** |
+| **\***                       | **\***                                                | **6061892928** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -86,10 +86,10 @@
 | Danganronpa                  | Danganronpa V3 Killing Harmony                        | 25             |
 | Danganronpa                  | Danganronpa Zero                                      | 11             |
 | Danganronpa                  | Kirigiriso                                            | 6              |
-| **Dark Souls**               | **\***                                                | **524**        |
+| **Dark Souls**               | **\***                                                | **525**        |
 | Dark Souls                   | Dark Souls                                            | 192            |
 | Dark Souls                   | Dark Souls II                                         | 165            |
-| Dark Souls                   | Dark Souls III                                        | 167            |
+| Dark Souls                   | Dark Souls III                                        | 168            |
 | **Dr. Stone**                | **\***                                                | **13**         |
 | Dr. Stone                    | Dr. Stone                                             | 13             |
 | **Dragon's Dogma**           | **\***                                                | **934**        |
@@ -129,10 +129,10 @@
 | **Just Cause**               | **\***                                                | **28**         |
 | Just Cause                   | Just Cause 3                                          | 15             |
 | Just Cause                   | Just Cause 4                                          | 13             |
-| **Little Nightmares**        | **\***                                                | **17**         |
-| Little Nightmares            | Little Nightmares                                     | 5              |
-| Little Nightmares            | Little Nightmares II                                  | 5              |
-| Little Nightmares            | The Sounds of Nightmares                              | 1              |
+| **Little Nightmares**        | **\***                                                | **78**         |
+| Little Nightmares            | Little Nightmares                                     | 22             |
+| Little Nightmares            | Little Nightmares II                                  | 48             |
+| Little Nightmares            | The Sounds of Nightmares                              | 2              |
 | Little Nightmares            | Very Little Nightmares                                | 3              |
 | Little Nightmares            | [comics]                                              | 3              |
 | **Lords of the Fallen**      | **\***                                                | **87**         |
@@ -170,11 +170,7 @@
 | **The Golden Idol**          | **\***                                                | **32**         |
 | The Golden Idol              | The Case of the Golden Idol                           | 32             |
 | **Tokyo Ghoul**              | **\***                                                | **140**        |
-| Tokyo Ghoul                  | Tokyo Ghoul                                           | 124            |
-| Tokyo Ghoul                  | Tokyo Ghoul Days                                      | 4              |
-| Tokyo Ghoul                  | Tokyo Ghoul Jack                                      | 4              |
-| Tokyo Ghoul                  | Tokyo Ghoul Past                                      | 3              |
-| Tokyo Ghoul                  | Tokyo Ghoul Void                                      | 5              |
+| Tokyo Ghoul                  | Tokyo Ghoul                                           | 140            |
 | **Tomb Raider**              | **\***                                                | **19**         |
 | Tomb Raider                  | Tomb Raider (2013)                                    | 19             |
 | **Watch Dogs**               | **\***                                                | **88**         |

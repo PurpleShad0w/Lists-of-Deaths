@@ -7,6 +7,13 @@ character	killed by	death	type
 <1> Crystal Lizard (Iron Keep)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <1> Crystal Lizard (No-man's Wharf)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <1> Crystal Lizard (Shaded Woods)	Bearer of the Curse	Slain by the Bearer of the Curse	
+<1> Dragonrider	Bearer of the Curse | Masterless Glencour | Devotee Scarlett	Slain by the Bearer of the Curse, assisted by Masterless Glencour or Devotee Scarlett	
+<1> Dragonrider (Bow)	Bearer of the Curse | Pilgrim Bellclaire	Slain by the Bearer of the Curse, assisted by Pilgrim Bellclaire	
+<1> Dragonrider (Halberd)	Bearer of the Curse | Pilgrim Bellclaire	Slain by the Bearer of the Curse, assisted by Pilgrim Bellclaire	
+<1> Dragonrider (Shrine of Amana)	Bearer of the Curse	Slain by the Bearer of the Curse	
+<1> Dragonrider (Undead Crypt)	Bearer of the Curse	Slain by the Bearer of the Curse	
+<1> Guardian Dragon	Bearer of the Curse | Sellsword Luet	Slain by the Bearer of the Curse, assisted by Sellsword Luet	
+<1> Guardian Dragon (Heide's Tower of Flame)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <1> Mimic (Brightstone Cove Tseldora)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <1> Mimic (Doors of Pharros)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <1> Mimic (Dragon Shrine)	Bearer of the Curse	Slain by the Bearer of the Curse	
@@ -14,6 +21,8 @@ character	killed by	death	type
 <1> Mimic (Earthen Peak)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <1> Mimic (Majula)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <1> Mimic (The Gutter)	Bearer of the Curse	Slain by the Bearer of the Curse	
+<1> Smelter Demon	Bearer of the Curse | Lucatiel of Mirrah	Slain by the Bearer of the Curse, assisted by Lucatiel of Mirrah	
+<1> Smelter Demon (Iron Passage)	Bearer of the Curse | Steel-willed Lorrie | Drifter Swordsman Aidel	Slain by the Bearer of the Curse, assisted by Steel-willed Lorrie or Drifter Swordsman Aidel	
 <2> Crystal Lizards (Brightstone Cove Tseldora)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <2> Crystal Lizards (Forest of Fallen Giants)	Bearer of the Curse	Slain by the Bearer of the Curse	
 <2> Crystal Lizards (Huntsman's Copse)	Bearer of the Curse	Slain by the Bearer of the Curse	
@@ -50,11 +59,6 @@ Creighton the Wanderer	Bearer of the Curse | Mild-Mannered Pate	Slain by the Bea
 Darklurker	Bearer of the Curse	Slain by the Bearer of the Curse	
 Demon of Song	Bearer of the Curse | Felicia the Brave | Lone Hunter Schmidt	Slain by the Bearer of the Curse, assisted by Felicia the Brave or Lone Hunter Schmidt	
 Dragonfang Villard	Bearer of the Curse	Slain by the Bearer of the Curse	
-Dragonrider	Bearer of the Curse | Masterless Glencour | Devotee Scarlett	Slain by the Bearer of the Curse, assisted by Masterless Glencour or Devotee Scarlett	
-Dragonrider (Bow)	Bearer of the Curse | Pilgrim Bellclaire	Slain by the Bearer of the Curse, assisted by Pilgrim Bellclaire	
-Dragonrider (Halberd)	Bearer of the Curse | Pilgrim Bellclaire	Slain by the Bearer of the Curse, assisted by Pilgrim Bellclaire	
-Dragonrider (Shrine of Amana)	Bearer of the Curse	Slain by the Bearer of the Curse	
-Dragonrider (Undead Crypt)	Bearer of the Curse	Slain by the Bearer of the Curse	
 Duke Tseldora	Bearer of the Curse	Slain by the Bearer of the Curse	
 Elana, the Squalid Queen	Bearer of the Curse | Steelheart Ellie | Benhart of Jugo	Slain by the Bearer of the Curse, assisted by Steelheart Ellie or Benhart of Jugo	
 Executioner Dark Spirit	Bearer of the Curse	Slain by the Bearer of the Curse	
@@ -66,8 +70,6 @@ Full Moon Sickle Phantom	Bearer of the Curse	Slain by the Bearer of the Curse
 Fume Knight	Bearer of the Curse | Steelheart Ellie | Carhillion of the Fold	Slain by the Bearer of the Curse, assisted by Steelheart Ellie or Carhillion of the Fold	
 Giant Lord	Bearer of the Curse | Captain Drummond | Benhart of Jugo	Slain by the Bearer of the Curse, assisted by Captain Drummond or Benhart of Jugo	
 Greatsword Phantom	Bearer of the Curse	Slain by the Bearer of the Curse	
-Guardian Dragon	Bearer of the Curse | Sellsword Luet	Slain by the Bearer of the Curse, assisted by Sellsword Luet	
-Guardian Dragon (Heide's Tower of Flame)	Bearer of the Curse	Slain by the Bearer of the Curse	
 Gutter Denizen	Bearer of the Curse	Slain by the Bearer of the Curse	
 Heavy Crossbow Dark Spirit	Bearer of the Curse	Slain by the Bearer of the Curse	
 Heide Sword Knight Dark Spirit	Bearer of the Curse	Slain by the Bearer of the Curse	
@@ -115,8 +117,6 @@ Sinh, the Slumbering Dragon	Bearer of the Curse | Transcendent Edde | Abbess Fee
 Sir Alonne	Bearer of the Curse | Steel-willed Lorrie | Drifter Swordsman Aidel	Slain by the Bearer of the Curse, assisted by Steel-willed Lorrie or Drifter Swordsman Aidel	
 Sir Fabian	Flame of Chaos	Consumed by the Flame of Chaos	
 Sir Yorgh	Sinh, the Slumbering Dragon	Poisoned by Sinh, the Slumbering Dragon	
-Smelter Demon	Bearer of the Curse | Lucatiel of Mirrah	Slain by the Bearer of the Curse, assisted by Lucatiel of Mirrah	
-Smelter Demon (Iron Passage)	Bearer of the Curse | Steel-willed Lorrie | Drifter Swordsman Aidel	Slain by the Bearer of the Curse, assisted by Steel-willed Lorrie or Drifter Swordsman Aidel	
 Sunken King	Yorgh	Slain by Yorgh	
 Syan Knight Dark Spirit	Bearer of the Curse	Slain by the Bearer of the Curse	
 The Duke's Dear Freja	Bearer of the Curse | Ashen Knight Boyd | Manhunter O'Harrah | Bashful Ray	Slain by the Bearer of the Curse, assisted by Ashen Knight Boyd, Manhunter O'Harrah or Bashful Ray	

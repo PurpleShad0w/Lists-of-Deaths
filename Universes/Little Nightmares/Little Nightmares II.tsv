@@ -1,6 +1,21 @@
 character	killed by	death	type
-The Doctor	Mono	Trapped into a furnace and incinerated by Mono (dependent on player choice)	determinant
+<17> Bullies	Mono	Head smashed by Mono	
+<1> Bully	Six	Head smashed against the ground by Six	
+<1> Patient	Mono	Life support shut down by Mono	
+<1> Viewer		Smashed his head through a television	
+<1> Viewer	Mono	Lured off a building by Mono	
+<1> buried victim	The Hunter	Murdered by the Hunter	
+<1> girl with a sou'wester	The Hunter	Murdered by the Hunter	
+<1> taxidermy boy	The Hunter	Murdered by the Hunter	
+<1> taxidermy man	The Hunter	Murdered by the Hunter	
+<1> taxidermy woman at the dinner table	The Hunter	Murdered by the Hunter	
+<1> taxidermy woman in the attic	The Hunter	Murdered by the Hunter	
+<2> Viewers	Mono	Electrocuted by Mono	
+<3> Living Hands	Mono	Beaten with a hammer by Mono	
+<3> corpses in a bag	The Hunter	Murdered by the Hunter	
+<4> attic corpses	The Hunter	Murdered by the Hunter	
+<5> Viewers		Jumped off a building	
+The Doctor	Mono | Six	Trapped into a furnace by Six and incinerated by Mono (dependent on player choice)	determinant
 The Hunter	Mono | Six	Shot with a shotgun by Mono and Six	
-The Hunter's Victims	The Hunter	Murdered and stuffed by the Hunter	
-The Lunch Lady	The Bullies	Murdered by the Bullies	
+The Lunch Lady		Murdered by the Bullies	
 The Thin Man	Mono	Disintegrated by Mono	
