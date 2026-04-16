@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **6061892800** |
+| **\***                       | **\***                                                | **6061892866** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -154,6 +154,8 @@
 | Project Moon                 | Lobotomy Corporation                                  | 12             |
 | **Re Zero**                  | **\***                                                | **36**         |
 | Re Zero                      | Re Zero -Starting Life in Another World-              | 36             |
+| **Return of the Obra Dinn**  | **\***                                                | **66**         |
+| Return of the Obra Dinn      | Return of the Obra Dinn                               | 66             |
 | **Science Adventure**        | **\***                                                | **27**         |
 | Science Adventure            | Steins;Gate                                           | 27             |
 | **Staffer Series**           | **\***                                                | **15**         |
