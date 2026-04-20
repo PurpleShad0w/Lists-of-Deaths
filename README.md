@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **6061892928** |
+| **\***                       | **\***                                                | **6061893891** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -110,12 +110,12 @@
 | **Hunter × Hunter**          | **\***                                                | **5663910**    |
 | Hunter × Hunter              | Hunter × Hunter                                       | 5663910        |
 | **Infamous**                 | **\***                                                | **39**         |
+| Infamous                     | Comics                                                | 4              |
 | Infamous                     | Infamous                                              | 10             |
 | Infamous                     | Infamous 2                                            | 13             |
 | Infamous                     | Infamous Festival of Blood                            | 4              |
 | Infamous                     | Infamous First Light                                  | 3              |
 | Infamous                     | Infamous Second Son                                   | 5              |
-| Infamous                     | [comics]                                              | 4              |
 | **Jojo's Bizarre Adventure** | **\***                                                | **175**        |
 | Jojo's Bizarre Adventure     | Battle Tendency                                       | 13             |
 | Jojo's Bizarre Adventure     | Diamond is Unbreakable                                | 32             |
@@ -130,22 +130,25 @@
 | Just Cause                   | Just Cause 3                                          | 15             |
 | Just Cause                   | Just Cause 4                                          | 13             |
 | **Little Nightmares**        | **\***                                                | **78**         |
+| Little Nightmares            | Comics                                                | 3              |
 | Little Nightmares            | Little Nightmares                                     | 22             |
 | Little Nightmares            | Little Nightmares II                                  | 48             |
 | Little Nightmares            | The Sounds of Nightmares                              | 2              |
 | Little Nightmares            | Very Little Nightmares                                | 3              |
-| Little Nightmares            | [comics]                                              | 3              |
 | **Lords of the Fallen**      | **\***                                                | **87**         |
 | Lords of the Fallen          | Lords of the Fallen (2023)                            | 87             |
 | **Mobile Suit Gundam**       | **\***                                                | **37**         |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans               | 37             |
-| **Nasuverse**                | **\***                                                | **348**        |
+| **Nasuverse**                | **\***                                                | **1311**       |
 | Nasuverse                    | Fate Apocrypha                                        | 31             |
-| Nasuverse                    | Fate Grand Order                                      | 70             |
 | Nasuverse                    | Fate Prototype Fragments of Sky Silver                | 16             |
 | Nasuverse                    | Fate Zero                                             | 28             |
 | Nasuverse                    | Fate stay night                                       | 143            |
-| Nasuverse                    | [servants lore]                                       | 60             |
+| Nasuverse                    | Fuyuki - Main Quests                                  | 124            |
+| Nasuverse                    | Lore                                                  | 60             |
+| Nasuverse                    | Okeanos - Main Quests                                 | 284            |
+| Nasuverse                    | Orleans - Main Quests                                 | 337            |
+| Nasuverse                    | Septem - Main Quests                                  | 288            |
 | **Ozark**                    | **\***                                                | **225**        |
 | Ozark                        | Ozark                                                 | 225            |
 | **Project Moon**             | **\***                                                | **380503**     |
@@ -164,9 +167,9 @@
 | **Star Wars**                | **\***                                                | **56**         |
 | Star Wars                    | Star Wars Jedi Fallen Order                           | 56             |
 | **The Evil Within**          | **\***                                                | **57**         |
+| The Evil Within              | Comics                                                | 6              |
 | The Evil Within              | The Evil Within                                       | 28             |
 | The Evil Within              | The Evil Within 2                                     | 23             |
-| The Evil Within              | [comics]                                              | 6              |
 | **The Golden Idol**          | **\***                                                | **32**         |
 | The Golden Idol              | The Case of the Golden Idol                           | 32             |
 | **Tokyo Ghoul**              | **\***                                                | **140**        |
