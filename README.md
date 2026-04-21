@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **6061893891** |
+| **\***                       | **\***                                                | **6061894159** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -139,11 +139,12 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                            | 87             |
 | **Mobile Suit Gundam**       | **\***                                                | **37**         |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans               | 37             |
-| **Nasuverse**                | **\***                                                | **1311**       |
+| **Nasuverse**                | **\***                                                | **1579**       |
 | Nasuverse                    | Fate Apocrypha                                        | 31             |
 | Nasuverse                    | Fate Prototype Fragments of Sky Silver                | 16             |
 | Nasuverse                    | Fate Zero                                             | 28             |
 | Nasuverse                    | Fate stay night                                       | 143            |
+| Nasuverse                    | Fuyuki - Interludes                                   | 268            |
 | Nasuverse                    | Fuyuki - Main Quests                                  | 124            |
 | Nasuverse                    | Lore                                                  | 60             |
 | Nasuverse                    | Okeanos - Main Quests                                 | 284            |
