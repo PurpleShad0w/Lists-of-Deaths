@@ -20,18 +20,15 @@
 ### Status of Incomplete Entries
 
 - Dr. Stone - missing characters revived via petrification
-- Fate Grand Order - up to and including the **Third Singularity - Okeanos**
 - Gantz - up to and including the **Dinosaur Alien Mission Arc**
 - Hunter × Hunter - up to and including the **13th Hunter Chairman Election Arc**
-- Limbus Company - up to and including **Intervallo VI: Spring Cultivation**
-- Re:Zero - up to and including **Arc 3 - Return to the Royal Capital**
 
 
 ### Summary of Universes and Entries
 
 | universe                     | entry                                                 | deaths         |
 |------------------------------|-------------------------------------------------------|----------------|
-| **\***                       | **\***                                                | **6061894159** |
+| **\***                       | **\***                                                | **6043899682** |
 | **AI The Somnium Files**     | **\***                                                | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8              |
@@ -54,10 +51,10 @@
 | Assassin's Creed             | Assassin's Creed Brotherhood                          | 23             |
 | Assassin's Creed             | Assassin's Creed Embers                               | 1              |
 | Assassin's Creed             | Assassin's Creed II                                   | 27             |
-| Assassin's Creed             | Assassin's Creed Novelizations                        | 6              |
 | Assassin's Creed             | Assassin's Creed Revelations                          | 20             |
-| **Attack on Titan**          | **\***                                                | **20837951**   |
-| Attack on Titan              | Attack on Titan                                       | 20837951       |
+| Assassin's Creed             | Novelizations                                         | 6              |
+| **Attack on Titan**          | **\***                                                | **2837951**    |
+| Attack on Titan              | Attack on Titan                                       | 2837951        |
 | **Attorney of the Arcane**   | **\***                                                | **14**         |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                | 14             |
 | **Barry**                    | **\***                                                | **145**        |
@@ -75,14 +72,14 @@
 | Code Geass                   | Code Geass Lelouch of the Rebellion                   | 35000050       |
 | **Code Vein**                | **\***                                                | **46**         |
 | Code Vein                    | Code Vein                                             | 46             |
-| **Danganronpa**              | **\***                                                | **182**        |
+| **Danganronpa**              | **\***                                                | **2572**       |
 | Danganronpa                  | Danganronpa 2 Goodbye Despair                         | 15             |
-| Danganronpa                  | Danganronpa 3 The End of Hope's Peak High School      | 27             |
+| Danganronpa                  | Danganronpa 3 The End of Hope's Peak High School      | 2384           |
 | Danganronpa                  | Danganronpa Another Episode Ultra Despair Girls       | 4              |
 | Danganronpa                  | Danganronpa Gaiden Killer Killer                      | 10             |
 | Danganronpa                  | Danganronpa Kirigiri                                  | 40             |
 | Danganronpa                  | Danganronpa Togami                                    | 24             |
-| Danganronpa                  | Danganronpa Trigger Happy Havoc                       | 20             |
+| Danganronpa                  | Danganronpa Trigger Happy Havoc                       | 53             |
 | Danganronpa                  | Danganronpa V3 Killing Harmony                        | 25             |
 | Danganronpa                  | Danganronpa Zero                                      | 11             |
 | Danganronpa                  | Kirigiriso                                            | 6              |
@@ -139,7 +136,7 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                            | 87             |
 | **Mobile Suit Gundam**       | **\***                                                | **37**         |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans               | 37             |
-| **Nasuverse**                | **\***                                                | **1579**       |
+| **Nasuverse**                | **\***                                                | **1900**       |
 | Nasuverse                    | Fate Apocrypha                                        | 31             |
 | Nasuverse                    | Fate Prototype Fragments of Sky Silver                | 16             |
 | Nasuverse                    | Fate Zero                                             | 28             |
@@ -148,16 +145,40 @@
 | Nasuverse                    | Fuyuki - Main Quests                                  | 124            |
 | Nasuverse                    | Lore                                                  | 60             |
 | Nasuverse                    | Okeanos - Main Quests                                 | 284            |
+| Nasuverse                    | Orleans - Interludes                                  | 321            |
 | Nasuverse                    | Orleans - Main Quests                                 | 337            |
 | Nasuverse                    | Septem - Main Quests                                  | 288            |
 | **Ozark**                    | **\***                                                | **225**        |
 | Ozark                        | Ozark                                                 | 225            |
-| **Project Moon**             | **\***                                                | **380503**     |
-| Project Moon                 | Library of Ruina                                      | 380327         |
-| Project Moon                 | Limbus Company                                        | 164            |
+| **Project Moon**             | **\***                                                | **383315**     |
+| Project Moon                 | Canto I The Outcast                                   | 157            |
+| Project Moon                 | Canto II The Unloving                                 | 230            |
+| Project Moon                 | Canto III The Unconfronting                           | 244            |
+| Project Moon                 | Canto IV The Unchanging                               | 244            |
+| Project Moon                 | Canto IX The Unsevering                               | 109            |
+| Project Moon                 | Canto V The Evil Defining                             | 350            |
+| Project Moon                 | Canto VI The Heartbreaking                            | 275            |
+| Project Moon                 | Canto VII The Dream Ending                            | 261            |
+| Project Moon                 | Canto VIII The Surrendered Witnessing                 | 284            |
+| Project Moon                 | Identity Stories                                      | 1              |
+| Project Moon                 | Intervallo I Hell's Chicken                           | 72             |
+| Project Moon                 | Intervallo II S.E.A.                                  | 56             |
+| Project Moon                 | Intervallo III Miracle in District 20                 | 93             |
+| Project Moon                 | Intervallo III Yield My Flesh to Claim Their Bones    | 96             |
+| Project Moon                 | Intervallo IV Murder on the WARP Express              | 88             |
+| Project Moon                 | Intervallo IV Timekilling Time                        | 44             |
+| Project Moon                 | Intervallo V LCB Regular Check-up                     | 70             |
+| Project Moon                 | Intervallo V Nocturnal Sweeping                       | 72             |
+| Project Moon                 | Intervallo VI Spring Cultivation                      | 7              |
+| Project Moon                 | Intervallo VII Twining Threads                        | 73             |
+| Project Moon                 | Library of Ruina                                      | 380408         |
 | Project Moon                 | Lobotomy Corporation                                  | 12             |
+| Project Moon                 | Observation Logs                                      | 39             |
+| Project Moon                 | Prologue Selva Oscura                                 | 30             |
 | **Re Zero**                  | **\***                                                | **36**         |
-| Re Zero                      | Re Zero -Starting Life in Another World-              | 36             |
+| Re Zero                      | Arc 1 The Tumultuous First Day                        | 7              |
+| Re Zero                      | Arc 2 The Turbulent Week                              | 5              |
+| Re Zero                      | Arc 3 Return to the Royal Capital                     | 24             |
 | **Return of the Obra Dinn**  | **\***                                                | **66**         |
 | Return of the Obra Dinn      | Return of the Obra Dinn                               | 66             |
 | **Science Adventure**        | **\***                                                | **27**         |
