@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6043899682** |
+| **\***                       | **\***                                                                       | **6043899913** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -194,6 +194,9 @@
 | The Evil Within              | The Evil Within 2                                                            | 23             |
 | **The Golden Idol**          | **\***                                                                       | **32**         |
 | The Golden Idol              | The Case of the Golden Idol                                                  | 32             |
+| **The World Ends with You**  | **\***                                                                       | **231**        |
+| The World Ends with You      | NEO The World Ends with You                                                  | 118            |
+| The World Ends with You      | The World Ends with You                                                      | 113            |
 | **Tokyo Ghoul**              | **\***                                                                       | **140**        |
 | Tokyo Ghoul                  | Tokyo Ghoul                                                                  | 140            |
 | **Tomb Raider**              | **\***                                                                       | **19**         |
