@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6043899913** |
+| **\***                       | **\***                                                                       | **6043900366** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -65,6 +65,8 @@
 | Blasphemous                  | Blasphemous The Kneeling                                                     | 2              |
 | **Bloodstained**             | **\***                                                                       | **167**        |
 | Bloodstained                 | Bloodstained Ritual of the Night                                             | 167            |
+| **Clair Obscur**             | **\***                                                                       | **453**        |
+| Clair Obscur                 | Clair Obscur Expedition 33                                                   | 453            |
 | **Claymore**                 | **\***                                                                       | **80**         |
 | Claymore                     | Claymore                                                                     | 80             |
 | **Code Geass**               | **\***                                                                       | **35000058**   |
