@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6043900502** |
+| **\***                       | **\***                                                                       | **6043901112** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -128,6 +128,9 @@
 | **Just Cause**               | **\***                                                                       | **28**         |
 | Just Cause                   | Just Cause 3                                                                 | 15             |
 | Just Cause                   | Just Cause 4                                                                 | 13             |
+| **Kingdom Hearts**           | **\***                                                                       | **610**        |
+| Kingdom Hearts               | Kingdom Hearts                                                               | 595            |
+| Kingdom Hearts               | Kingdom Hearts Chain of Memories                                             | 15             |
 | **Little Nightmares**        | **\***                                                                       | **78**         |
 | Little Nightmares            | Comics                                                                       | 3              |
 | Little Nightmares            | Little Nightmares                                                            | 22             |

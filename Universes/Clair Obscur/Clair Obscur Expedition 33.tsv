@@ -206,16 +206,16 @@ character	killed by	death	type
 <1> Échassier	Expedition 33 (Monoco)	Slain by Expedition 33 (Endless Tower)	
 <1> Évêque	Expedition 33 (Lune)	Slain by Expedition 33 (Spring Meadows)	
 <1> Évêque	Expedition 33 (Monoco)	Slain by Expedition 33 (The Monolith)	
+<2+> animals	Pons	Euthanized with a plant tincture by Pons (some animals mentioned)	
 <2> Duollistes	Expedition 33 (Monoco)	Slain by Expedition 33 (Endless Tower)	
 <2> Mime	Expedition 33 (Monoco)	Slain by Expedition 33 (The Continent)	
-<2> animals	Pons	Euthanized with a plant tincture by Pons (some animals mentioned)	
+<3+> Nevrons	Emilie	Slain by Emilie ('all my kills' mentioned)	
 <3> Chromatic Ballet	Expedition 33 (Monoco)	Slain by Expedition 33 (Endless Tower)	
 <3> Chromatic Ballet	Expedition 33 (Monoco)	Slain by Expedition 33 (Falling Leaves)	
 <3> Chromatic Orphelin	Expedition 33 (Sciel)	Slain by Expedition 33 (Yellow Harvest)	
 <3> Gestral Pots	Painted Verso	Erased after the Canvas was destroyed by Verso (dependent on player choice)	determinant
-<3> Nevrons	Emilie	Slain by Emilie ('all my kills' mentioned)	
-<49> Nevrons	Virgile	Slain by Virgile (97 points mentioned, Nevrons being worth 1 or 2 points each)	
-<50> Nevrons	Eugène	Slain by Eugène (100 points mentioned, Nevrons being worth 1 or 2 points each)	
+<49+> Nevrons	Virgile	Slain by Virgile (97 points mentioned, Nevrons being worth 1 or 2 points each)	
+<50+> Nevrons	Eugène	Slain by Eugène (100 points mentioned, Nevrons being worth 1 or 2 points each)	
 <5> members of Expedition 48		Perished as part of Expedition 48	
 <7> Armoured Nevrons	Estelle (Expedition 41)	Slain by Estelle	
 Adrien	Renoir Dessendre	Gommaged by Renoir Dessendre (potentially resurrected by Maelle, dependent on player choice)	determinant
