@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6043901112** |
+| **\***                       | **\***                                                                       | **6043901898** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -85,9 +85,9 @@
 | Danganronpa                  | Danganronpa V3 Killing Harmony                                               | 25             |
 | Danganronpa                  | Danganronpa Zero                                                             | 11             |
 | Danganronpa                  | Kirigiriso                                                                   | 6              |
-| **Dark Souls**               | **\***                                                                       | **525**        |
+| **Dark Souls**               | **\***                                                                       | **529**        |
 | Dark Souls                   | Dark Souls                                                                   | 192            |
-| Dark Souls                   | Dark Souls II                                                                | 165            |
+| Dark Souls                   | Dark Souls II                                                                | 169            |
 | Dark Souls                   | Dark Souls III                                                               | 168            |
 | **Dr. Stone**                | **\***                                                                       | **13**         |
 | Dr. Stone                    | Dr. Stone                                                                    | 13             |
@@ -128,8 +128,9 @@
 | **Just Cause**               | **\***                                                                       | **28**         |
 | Just Cause                   | Just Cause 3                                                                 | 15             |
 | Just Cause                   | Just Cause 4                                                                 | 13             |
-| **Kingdom Hearts**           | **\***                                                                       | **610**        |
+| **Kingdom Hearts**           | **\***                                                                       | **1392**       |
 | Kingdom Hearts               | Kingdom Hearts                                                               | 595            |
+| Kingdom Hearts               | Kingdom Hearts 358 2 Days                                                    | 782            |
 | Kingdom Hearts               | Kingdom Hearts Chain of Memories                                             | 15             |
 | **Little Nightmares**        | **\***                                                                       | **78**         |
 | Little Nightmares            | Comics                                                                       | 3              |
