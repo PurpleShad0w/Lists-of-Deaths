@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6043909897** |
+| **\***                       | **\***                                                                       | **6043916290** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -128,11 +128,12 @@
 | **Just Cause**               | **\***                                                                       | **28**         |
 | Just Cause                   | Just Cause 3                                                                 | 15             |
 | Just Cause                   | Just Cause 4                                                                 | 13             |
-| **Kingdom Hearts**           | **\***                                                                       | **9391**       |
-| Kingdom Hearts               | Kingdom Hearts                                                               | 2380           |
+| **Kingdom Hearts**           | **\***                                                                       | **15784**      |
+| Kingdom Hearts               | Kingdom Hearts                                                               | 2381           |
 | Kingdom Hearts               | Kingdom Hearts 358 2 Days                                                    | 782            |
+| Kingdom Hearts               | Kingdom Hearts Birth by Sleep                                                | 6388           |
 | Kingdom Hearts               | Kingdom Hearts Chain of Memories                                             | 15             |
-| Kingdom Hearts               | Kingdom Hearts II                                                            | 6214           |
+| Kingdom Hearts               | Kingdom Hearts II                                                            | 6218           |
 | **Little Nightmares**        | **\***                                                                       | **78**         |
 | Little Nightmares            | Comics                                                                       | 3              |
 | Little Nightmares            | Little Nightmares                                                            | 22             |

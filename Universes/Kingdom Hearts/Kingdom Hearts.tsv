@@ -9,9 +9,9 @@ character	killed by	death	type
 <11> Darkball	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup Time Trial)	
 <11> Darkball	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup)	
 <11> Darkball	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Hades Cup Solo)	
-<130> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Agrabah Mission 2)	
-<130> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Hollow Bastion Mission 1)	
-<150> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Neverland Mission 1)	
+<130+> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Agrabah Mission 2)	
+<130+> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Hollow Bastion Mission 1)	
+<150+> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Neverland Mission 1)	
 <15> Shadow	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup Time Trial)	
 <15> Shadow	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup)	
 <15> Shadow	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Hades Cup Solo)	
@@ -182,7 +182,7 @@ character	killed by	death	type
 <21> Shadow	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup Time Trial)	
 <21> Shadow	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup)	
 <21> Shadow	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Hades Cup Solo)	
-<220> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Halloween Town Mission 2)	
+<220+> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Halloween Town Mission 2)	
 <2> Air Pirate	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup Time Trial)	
 <2> Air Pirate	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup)	
 <2> Air Pirate	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hercules Cup Time Trial)	
@@ -462,7 +462,7 @@ character	killed by	death	type
 <4> Yellow Opera	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Phil Cup)	
 <4> Yellow Opera	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Hades Cup Solo)	
 <4> Yellow Opera	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Phil Cup Solo)	
-<55> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Deep Jungle Mission 3)	
+<55+> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Deep Jungle Mission 3)	
 <5> Barrel Spider	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Pegasus Cup Time Trial)	
 <5> Barrel Spider	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Pegasus Cup)	
 <5> Barrel Spider	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Pegasus Cup Solo)	
@@ -507,7 +507,7 @@ character	killed by	death	type
 <6> Shadow	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup Time Trial)	
 <6> Shadow	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup)	
 <6> Shadow	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Hades Cup Solo)	
-<70> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Olympus Coliseum Mission 2)	
+<70+> Heartless Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Olympus Coliseum Mission 2)	
 <7> Blue Rhapsody	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup Time Trial)	
 <7> Blue Rhapsody	Sora | Donald Duck | Goofy | Philoctetes	Slain by Sora, Donald Duck and Goofy, organised by Philoctetes (Hades Cup)	
 <7> Blue Rhapsody	Sora | Philoctetes	Slain by Sora, organised by Philoctetes (Hades Cup Solo)	
@@ -535,6 +535,7 @@ Chernabog	Sora | Donald Duck | Goofy	Slain by Sora, Donald Duck and Goofy
 Clayton	Sora | Donald Duck | Goofy | Tarzan	Crushed by a Stealth Sneak collapsing on top of him after it was slain by Sora, Donald Duck, Goofy and Tarzan	
 Flotsam	Sora | Donald Duck | Goofy | Ariel	Slain by Sora, Donald Duck, Goofy and Ariel (later revived alongside Ursula)	revived
 Jetsam	Sora | Donald Duck | Goofy | Ariel	Slain by Sora, Donald Duck, Goofy and Ariel (later revived alongside Ursula)	revived
+Maleficent	Sora | Donald Duck | Goofy | Beast	Slain by Sora, Donald Duck, Goofy and Beast (body later restored via Flora, Fauna, and Merryweather's memories)	revived
 Oogie Boogie	Sora | Donald Duck | Goofy | Jack Skellington	Destroyed by Sora, Donald Duck, Goofy and Jack Skellington (later revived by Maleficent)	revived
 Sabor	Sora | Donald Duck | Goofy | Tarzan	Slain by Sora, Donald Duck, Goofy and Tarzan	
 Sora	Sora	Stabbed himself in the chest with Ansem's Keyblade (turned into a Heartless, restored by Kairi)	revived

@@ -143,10 +143,10 @@ character	killed by	death	type
 <2> Trick Ghost	Sora | Hades	Slain by Sora, organised by Hades (Cerberus Paradox Cup)	
 <2> Trick Ghost	Sora | Pain | Panic | Hades	Slain by Sora, organised by Pain and Panic on orders from Hades (Cerberus Cup)	
 <2> Wight Knight	Sora | Hades	Slain by Sora, organised by Hades (Hades Paradox Cup)	
-<300> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Floating Island Mission 2)	
-<350> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Ancient Highway Mission 2)	
-<350> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Broken Highway Mission 2)	
-<350> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Splash Island Mission 2)	
+<300+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Floating Island Mission 2)	
+<350+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Ancient Highway Mission 2)	
+<350+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Broken Highway Mission 2)	
+<350+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Splash Island Mission 2)	
 <3> Aeroplane	Sora | Hades	Slain by Sora, organised by Hades (Hades Paradox Cup)	
 <3> Armored Knight	Sora | Donald Duck | Goofy | Hades	Slain by Sora, Donald Duck and Goofy, organised by Hades (Hades Paradox Cup)	
 <3> Assassin	Sora | Hades	Slain by Sora, organised by Hades (Hades Paradox Cup)	
@@ -228,9 +228,9 @@ character	killed by	death	type
 <4> Strafer	Sora | Hades	Slain by Sora, organised by Hades (Hades Paradox Cup)	
 <4> Strafer	Sora | Hades	Slain by Sora, organised by Hades (Titan Paradox Cup)	
 <4> Strafer	Sora | Pain | Panic | Hades	Slain by Sora, organised by Pain and Panic on orders from Hades (Titan Cup)	
-<500> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Asteroid Sweep Mission 2)	
-<500> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Phantom Storm Mission 2)	
-<500> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Stardust Sweep Mission 2)	
+<500+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Asteroid Sweep Mission 2)	
+<500+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Phantom Storm Mission 2)	
+<500+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Stardust Sweep Mission 2)	
 <5> Crescendo	Sora | Hades	Slain by Sora, organised by Hades (Hades Paradox Cup)	
 <5> Fiery Globe	Sora | Hades	Slain by Sora, organised by Hades (Cerberus Paradox Cup)	
 <5> Fiery Globe	Sora | Pain | Panic | Hades	Slain by Sora, organised by Pain and Panic on orders from Hades (Cerberus Cup)	
@@ -251,8 +251,8 @@ character	killed by	death	type
 <5> Rapid Thruster	Sora | Hades	Slain by Sora, organised by Hades (Hades Paradox Cup)	
 <5> Shadow	Sora | Donald Duck | Goofy | Hades	Slain by Sora, Donald Duck and Goofy, organised by Hades (Pain and Panic Paradox Cup)	
 <5> Shadow	Sora | Donald Duck | Goofy | Pain | Panic | Hades	Slain by Sora, Donald Duck and Goofy, organised by Pain and Panic on orders from Hades (Pain and Panic Cup)	
-<600> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Sunlight Storm Mission 2)	
-<650> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Assault of the Dreadnought Mission 2)	
+<600+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Sunlight Storm Mission 2)	
+<650+> Heartless Ships and Nobody Ships	Sora | Donald Duck | Goofy	Shot down by the Gummi Ship piloted by Sora, Donald Duck and Goofy (Assault of the Dreadnought Mission 2)	
 <6> Aeroplane	Sora | Donald Duck | Goofy | Hades	Slain by Sora, Donald Duck and Goofy, organised by Hades (Pain and Panic Paradox Cup)	
 <6> Aeroplane	Sora | Donald Duck | Goofy | Pain | Panic | Hades	Slain by Sora, Donald Duck and Goofy, organised by Pain and Panic on orders from Hades (Pain and Panic Cup)	
 <6> Dusk	Sora | Hades	Slain by Sora, organised by Hades (Hades Paradox Cup)	
@@ -266,17 +266,21 @@ Auron		Faded back into pyreflies after the restoration of Olympus Coliseum
 Axel	Axel	Consumed his own life to produce a powerful attack (recompleted as Lea)	revived
 Demyx	Sora | Donald Duck | Goofy	Slain by Sora, Donald Duck and Goofy (recompleted)	revived
 Flotsam	Sora | Donald Duck | Goofy	Blasted with magic by Sora after being pulled off him by Donald Duck and Goofy	
+Hayabusa	Sora | Donald Duck | Goofy | Fa Mulan	Slain by Sora, Donald Duck, Goofy and Fa Mulan	
 Hector Barbossa	Jack Sparrow | William Turner	Shot by Jack Sparrow, undead curse lifted by William Turner (later revived by Tia Dalma)	revived
 Hostile Program	Sora | Donald Duck | Goofy | Tron	Deleted by Sora, Donald Duck, Goofy and Tron	
 Hydra	Sora | Donald Duck | Goofy | Philoctetes | Pegasus	Beheaded by Sora, Donald Duck and Goofy, assisted by Philoctetes and Pegasus	
 Jafar	Sora	Destroyed by Sora	
 Jetsam	Sora | Donald Duck | Goofy	Blasted with magic by Sora after being pulled off him by Donald Duck and Goofy	
 Luxord	Sora	Slain by Sora (recompleted)	revived
+Master Control Program	Sora | Donald Duck | Goofy | Tron	Deleted by Sora, Donald Duck, Goofy and Tron	
 Mufasa	Scar	Crushed by a stampede after being pushed off a cliff by Scar	
 Oogie Boogie	Sora | Donald Duck | Goofy | Jack Skellington	Brain stomped on by Donald Duck after being destroyed by Sora, himself, Goofy and Jack Skellington	
+Sark	Sora | Donald Duck | Goofy | Tron	Deleted by Sora, Donald Duck, Goofy and Tron	
 Saïx	Sora | Donald Duck | Goofy	Slain by Sora, Donald Duck and Goofy (recompleted as Isa)	revived
 Scar	Sora | Donald Duck | Goofy | Simba	Slain by Sora, Donald Duck, Goofy and Simba	
 Shan-Yu	Sora | Donald Duck | Goofy | Fa Mulan	Slain by Sora, Donald Duck, Goofy and Fa Mulan	
+The Experiment	Sora | Donald Duck | Goofy | Jack Skellington	Destroyed by Sora, Donald Duck, Goofy and Jack Skellington	
 Ursula	Prince Eric	Impaled with the Trident by Prince Eric	
 Xaldin	Sora | Donald Duck | Goofy | Beast	Slain by Sora, Donald Duck, Goofy and Beast (recompleted as Dilan)	revived
 Xemnas	Sora | Riku	Destroyed with a ray of light by Sora and Riku (recompleted as Terra-Xehanort)	revived
