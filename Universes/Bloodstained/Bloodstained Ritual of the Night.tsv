@@ -1,22 +1,29 @@
 character	killed by	death	type
-<13> Gusion	Miriam	Slain by Miriam	
-<2> Sabnock	Miriam	Slain by Miriam	
-<3> Dullahammer	Miriam	Slain by Miriam	
-<3> Wolfman	Miriam	Slain by Miriam	
-<4> Assassin	Miriam	Slain by Miriam	
-<4> Barbatos	Miriam	Slain by Miriam	
-<4> Demon	Miriam	Slain by Miriam	
-<4> Gieremund	Miriam	Slain by Miriam	
-<4> Living Fossil	Miriam	Slain by Miriam	
-<5> Axe Outsider	Miriam	Slain by Miriam	
-<5> Morte	Miriam	Slain by Miriam	
-<5> Shield Outsider	Miriam	Slain by Miriam	
-<6> Archdemon	Miriam	Slain by Miriam	
-<6> Demon Lord	Miriam	Slain by Miriam	
-<6> Lamashtu	Miriam	Slain by Miriam	
-<6> Ocypete	Miriam	Slain by Miriam	
-<8> Deeseama	Miriam	Slain by Miriam	
-Abyssal Guardian	Miriam	Slain by Miriam	
+<1,000> Demons	Miriam	Slain by Miriam (Demon Hunter Achievement)	
+<13> Gusion	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<1> Abyssal Guardian	Miriam	Slain by Miriam	
+<1> Breeder	Miriam	Slain by Miriam	
+<1> Doppelganger	Miriam	Slain by Miriam	
+<1> Doppelganger (Miriam)	Miriam	Slain by Miriam (Classic Mode)	
+<1> Doppelganger (Zangetsu)	Miriam	Slain by Miriam (Classic Mode)	
+<1> Giant Bat	Miriam	Slain by Miriam (Classic Mode)	
+<1> Giant Dullahammer Head	Miriam	Slain by Miriam (Classic Mode)	
+<2> Sabnock	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<3> Dullahammer	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<3> Wolfman	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<4> Assassin	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<4> Barbatos	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<4> Demon	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<4> Gieremund	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<4> Living Fossil	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<5> Axe Outsider	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<5> Morte	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<5> Shield Outsider	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<6> Archdemon	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<6> Demon Lord	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<6> Lamashtu	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<6> Ocypete	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
+<8> Deeseama	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
 Alba	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Alfred	Dominique Baldwin	Fatally wounded by Dominique Baldwin	
 Andrealphus	Miriam	Slain by Miriam	
@@ -28,7 +35,6 @@ Bael	Miriam	Slain by Miriam (later revived in Limbo)	revived
 Bathin	Dominique Baldwin	Slain by Dominique Baldwin	
 Bathin	Miriam	Slain by Miriam (later revived in Limbo)	revived
 Bloodless	Miriam	Slain by Miriam	
-Breeder	Miriam	Slain by Miriam	
 Caleb	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Carl the Cooper	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Catherine	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
@@ -38,9 +44,6 @@ Dario the Chimney Sweep	Gebel	Perished during the demonic invasion of Arvantvill
 Dennis	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Dominique Baldwin		Succumbed to the Crystal Curse (Bitter Ending)	determinant
 Dominique Baldwin	Miriam	Slain by Miriam (Classic Mode)	non-canon
-Doppelganger	Miriam	Slain by Miriam	
-Doppelganger (Miriam)	Miriam	Slain by Miriam (Classic Mode)	
-Doppelganger (Zangetsu)	Miriam	Slain by Miriam (Classic Mode)	
 Dr. Simon	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Edith	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Edward the Smith	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
@@ -52,8 +55,6 @@ Gebel	Miriam	Slain by Miriam (Classic Mode)	non-canon
 Gebel	Miriam	Slain by Miriam (Just a Flicker Ending)	determinant | unavoidable
 Gebel	Miriam	Slain by Miriam (Usurper Ending)	determinant | unavoidable
 George	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
-Giant Bat	Miriam	Slain by Miriam (Classic Mode)	
-Giant Dullahammer Head	Miriam	Slain by Miriam (Classic Mode)	
 Glutton Train	Miriam | Zangetsu	Slain by Miriam and Zangetsu	
 Gremory	Dominique Baldwin	Slain by Dominique Baldwin	
 Gremory	Miriam	Slain by Miriam (Classic Mode)	non-canon
@@ -69,7 +70,7 @@ Martha	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel
 Master Carpenter	Dominique Baldwin	Slain by Dominique Baldwin (revived at Theurgia)	revived
 Master Carpenter	Miriam	Slain by Miriam (later revived in Limbo)	revived
 Mathius the Glassblower	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
-Millionaire's Bane	Miriam	Slain by Miriam	
+Millionaire's Bane	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
 Mitta the Housemaiden	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Morris	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Nadia	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
@@ -80,7 +81,7 @@ Pastor Trevor	Gebel	Perished during the demonic invasion of Arvantville caused b
 Porter the Cattleman	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Rachel	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Revenant	Dominique Baldwin	Slain by Dominique Baldwin (revived at Paulina)	revived
-Revenant	Miriam	Slain by Miriam (later revived in Limbo)	revived
+Revenant	Miriam | Lindsay	Slain by Miriam on request from Lindsay	
 Richter the Ruffian	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Rosaly	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	
 Shawn the Merchant	Gebel	Perished during the demonic invasion of Arvantville caused by Gebel	

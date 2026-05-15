@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6043916290** |
+| **\***                       | **\***                                                                       | **6043946886** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -59,12 +59,12 @@
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                                       | 14             |
 | **Barry**                    | **\***                                                                       | **145**        |
 | Barry                        | Barry                                                                        | 145            |
-| **Blasphemous**              | **\***                                                                       | **62**         |
-| Blasphemous                  | Blasphemous                                                                  | 39             |
-| Blasphemous                  | Blasphemous 2                                                                | 21             |
+| **Blasphemous**              | **\***                                                                       | **1793**       |
+| Blasphemous                  | Blasphemous                                                                  | 761            |
+| Blasphemous                  | Blasphemous 2                                                                | 1030           |
 | Blasphemous                  | Blasphemous The Kneeling                                                     | 2              |
-| **Bloodstained**             | **\***                                                                       | **167**        |
-| Bloodstained                 | Bloodstained Ritual of the Night                                             | 167            |
+| **Bloodstained**             | **\***                                                                       | **1167**       |
+| Bloodstained                 | Bloodstained Ritual of the Night                                             | 1167           |
 | **Clair Obscur**             | **\***                                                                       | **589**        |
 | Clair Obscur                 | Clair Obscur Expedition 33                                                   | 589            |
 | **Claymore**                 | **\***                                                                       | **80**         |
@@ -91,8 +91,8 @@
 | Dark Souls                   | Dark Souls III                                                               | 168            |
 | **Dr. Stone**                | **\***                                                                       | **13**         |
 | Dr. Stone                    | Dr. Stone                                                                    | 13             |
-| **Dragon's Dogma**           | **\***                                                                       | **934**        |
-| Dragon's Dogma               | Dragon's Dogma Dark Arisen                                                   | 934            |
+| **Dragon's Dogma**           | **\***                                                                       | **3934**       |
+| Dragon's Dogma               | Dragon's Dogma Dark Arisen                                                   | 3934           |
 | **Elden Ring**               | **\***                                                                       | **511**        |
 | Elden Ring                   | Elden Ring                                                                   | 511            |
 | **Final Fantasy**            | **\***                                                                       | **235**        |
@@ -128,11 +128,12 @@
 | **Just Cause**               | **\***                                                                       | **28**         |
 | Just Cause                   | Just Cause 3                                                                 | 15             |
 | Just Cause                   | Just Cause 4                                                                 | 13             |
-| **Kingdom Hearts**           | **\***                                                                       | **15784**      |
-| Kingdom Hearts               | Kingdom Hearts                                                               | 2381           |
+| **Kingdom Hearts**           | **\***                                                                       | **34040**      |
+| Kingdom Hearts               | Kingdom Hearts                                                               | 6881           |
 | Kingdom Hearts               | Kingdom Hearts 358 2 Days                                                    | 782            |
-| Kingdom Hearts               | Kingdom Hearts Birth by Sleep                                                | 6388           |
+| Kingdom Hearts               | Kingdom Hearts Birth by Sleep                                                | 16387          |
 | Kingdom Hearts               | Kingdom Hearts Chain of Memories                                             | 15             |
+| Kingdom Hearts               | Kingdom Hearts Dream Drop Distance                                           | 3757           |
 | Kingdom Hearts               | Kingdom Hearts II                                                            | 6218           |
 | **Little Nightmares**        | **\***                                                                       | **78**         |
 | Little Nightmares            | Comics                                                                       | 3              |
@@ -196,14 +197,14 @@
 | Staffer Series               | Staffer Reborn                                                               | 7              |
 | **Star Wars**                | **\***                                                                       | **56**         |
 | Star Wars                    | Star Wars Jedi Fallen Order                                                  | 56             |
-| **The Evil Within**          | **\***                                                                       | **57**         |
+| **The Evil Within**          | **\***                                                                       | **666**        |
 | The Evil Within              | Comics                                                                       | 6              |
-| The Evil Within              | The Evil Within                                                              | 28             |
-| The Evil Within              | The Evil Within 2                                                            | 23             |
+| The Evil Within              | The Evil Within                                                              | 544            |
+| The Evil Within              | The Evil Within 2                                                            | 116            |
 | **The Golden Idol**          | **\***                                                                       | **32**         |
 | The Golden Idol              | The Case of the Golden Idol                                                  | 32             |
-| **The World Ends with You**  | **\***                                                                       | **231**        |
-| The World Ends with You      | NEO The World Ends with You                                                  | 118            |
+| **The World Ends with You**  | **\***                                                                       | **6231**       |
+| The World Ends with You      | NEO The World Ends with You                                                  | 6118           |
 | The World Ends with You      | The World Ends with You                                                      | 113            |
 | **Tokyo Ghoul**              | **\***                                                                       | **140**        |
 | Tokyo Ghoul                  | Tokyo Ghoul                                                                  | 140            |
