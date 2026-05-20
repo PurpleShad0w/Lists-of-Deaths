@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6044053218** |
+| **\***                       | **\***                                                                       | **6044397573** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -128,14 +128,17 @@
 | **Just Cause**               | **\***                                                                       | **28**         |
 | Just Cause                   | Just Cause 3                                                                 | 15             |
 | Just Cause                   | Just Cause 4                                                                 | 13             |
-| **Kingdom Hearts**           | **\***                                                                       | **140372**     |
+| **Kingdom Hearts**           | **\***                                                                       | **484727**     |
 | Kingdom Hearts               | Kingdom Hearts                                                               | 6881           |
 | Kingdom Hearts               | Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage-                    | 854            |
 | Kingdom Hearts               | Kingdom Hearts 358 2 Days                                                    | 782            |
 | Kingdom Hearts               | Kingdom Hearts Birth by Sleep                                                | 16387          |
 | Kingdom Hearts               | Kingdom Hearts Chain of Memories                                             | 15             |
 | Kingdom Hearts               | Kingdom Hearts Dark Road / Enemy Album                                       | 84000          |
+| Kingdom Hearts               | Kingdom Hearts Dark Road / Events                                            | 319            |
 | Kingdom Hearts               | Kingdom Hearts Dark Road / Main Quests                                       | 2312           |
+| Kingdom Hearts               | Kingdom Hearts Dark Road / Mission Boards                                    | 343536         |
+| Kingdom Hearts               | Kingdom Hearts Dark Road / Tower of Trials                                   | 500            |
 | Kingdom Hearts               | Kingdom Hearts Dream Drop Distance                                           | 3757           |
 | Kingdom Hearts               | Kingdom Hearts II                                                            | 6218           |
 | Kingdom Hearts               | Kingdom Hearts III                                                           | 19166          |
