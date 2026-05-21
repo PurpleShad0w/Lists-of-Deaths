@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                        | deaths         |
 |------------------------------|------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                       | **6044397573** |
+| **\***                       | **\***                                                                       | **6044397647** |
 | **AI The Somnium Files**     | **\***                                                                       | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                         | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                    | 8              |
@@ -208,8 +208,9 @@
 | The Evil Within              | Comics                                                                       | 6              |
 | The Evil Within              | The Evil Within                                                              | 544            |
 | The Evil Within              | The Evil Within 2                                                            | 116            |
-| **The Golden Idol**          | **\***                                                                       | **32**         |
-| The Golden Idol              | The Case of the Golden Idol                                                  | 32             |
+| **The Golden Idol**          | **\***                                                                       | **106**        |
+| The Golden Idol              | The Case of the Golden Idol                                                  | 45             |
+| The Golden Idol              | The Rise of the Golden Idol                                                  | 61             |
 | **The World Ends with You**  | **\***                                                                       | **6231**       |
 | The World Ends with You      | NEO The World Ends with You                                                  | 6118           |
 | The World Ends with You      | The World Ends with You                                                      | 113            |
