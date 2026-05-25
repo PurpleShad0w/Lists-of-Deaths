@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                          | deaths         |
 |------------------------------|--------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                         | **6044398021** |
+| **\***                       | **\***                                                                         | **6044546142** |
 | **AI The Somnium Files**     | **\***                                                                         | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                           | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                      | 8              |
@@ -89,6 +89,8 @@
 | Dark Souls                   | Dark Souls                                                                     | 192            |
 | Dark Souls                   | Dark Souls II                                                                  | 169            |
 | Dark Souls                   | Dark Souls III                                                                 | 168            |
+| **Deadman Wonderland**       | **\***                                                                         | **148121**     |
+| Deadman Wonderland           | Deadman Wonderland                                                             | 148121         |
 | **Dr. Stone**                | **\***                                                                         | **13**         |
 | Dr. Stone                    | Dr. Stone                                                                      | 13             |
 | **Dragon's Dogma**           | **\***                                                                         | **3934**       |
