@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                          | deaths         |
 |------------------------------|--------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                         | **6044397950** |
+| **\***                       | **\***                                                                         | **6044398021** |
 | **AI The Somnium Files**     | **\***                                                                         | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                           | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                      | 8              |
@@ -55,8 +55,8 @@
 | Assassin's Creed             | Novelizations                                                                  | 6              |
 | **Attack on Titan**          | **\***                                                                         | **2837951**    |
 | Attack on Titan              | Attack on Titan                                                                | 2837951        |
-| **Attorney of the Arcane**   | **\***                                                                         | **17**         |
-| Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                                         | 17             |
+| **Attorney of the Arcane**   | **\***                                                                         | **18**         |
+| Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                                         | 18             |
 | **Barry**                    | **\***                                                                         | **145**        |
 | Barry                        | Barry                                                                          | 145            |
 | **Blasphemous**              | **\***                                                                         | **1793**       |
@@ -142,6 +142,8 @@
 | Kingdom Hearts               | Kingdom Hearts Dream Drop Distance                                             | 3757           |
 | Kingdom Hearts               | Kingdom Hearts II                                                              | 6218           |
 | Kingdom Hearts               | Kingdom Hearts III                                                             | 19166          |
+| **Life is Strange**          | **\***                                                                         | **70**         |
+| Life is Strange              | Life is Strange                                                                | 70             |
 | **Little Nightmares**        | **\***                                                                         | **78**         |
 | Little Nightmares            | Comics                                                                         | 3              |
 | Little Nightmares            | Little Nightmares                                                              | 22             |
