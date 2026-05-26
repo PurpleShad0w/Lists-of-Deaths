@@ -19,7 +19,6 @@
 
 ### Status of Incomplete Entries
 
-- Dr. Stone - missing characters revived via petrification
 - Gantz - up to and including the **Dinosaur Alien Mission Arc**
 - Hunter × Hunter - up to and including the **13th Hunter Chairman Election Arc**
 
@@ -28,7 +27,7 @@
 
 | universe                     | entry                                                                          | deaths         |
 |------------------------------|--------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                         | **6044546142** |
+| **\***                       | **\***                                                                         | **6044547816** |
 | **AI The Somnium Files**     | **\***                                                                         | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                           | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                      | 8              |
@@ -91,8 +90,8 @@
 | Dark Souls                   | Dark Souls III                                                                 | 168            |
 | **Deadman Wonderland**       | **\***                                                                         | **148121**     |
 | Deadman Wonderland           | Deadman Wonderland                                                             | 148121         |
-| **Dr. Stone**                | **\***                                                                         | **13**         |
-| Dr. Stone                    | Dr. Stone                                                                      | 13             |
+| **Dr. Stone**                | **\***                                                                         | **19**         |
+| Dr. Stone                    | Dr. Stone                                                                      | 19             |
 | **Dragon's Dogma**           | **\***                                                                         | **3934**       |
 | Dragon's Dogma               | Dragon's Dogma Dark Arisen                                                     | 3934           |
 | **Elden Ring**               | **\***                                                                         | **511**        |
@@ -156,6 +155,13 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                                                     | 87             |
 | **Mobile Suit Gundam**       | **\***                                                                         | **37**         |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans                                        | 37             |
+| **Monster Hunter**           | **\***                                                                         | **1668**       |
+| Monster Hunter               | Monster Hunter World Iceborne / Arena Quests                                   | 105            |
+| Monster Hunter               | Monster Hunter World Iceborne / Assignments                                    | 65             |
+| Monster Hunter               | Monster Hunter World Iceborne / Awards                                         | 830            |
+| Monster Hunter               | Monster Hunter World Iceborne / Event Quests                                   | 269            |
+| Monster Hunter               | Monster Hunter World Iceborne / Optional Quests                                | 384            |
+| Monster Hunter               | Monster Hunter World Iceborne / Special Assignments                            | 15             |
 | **Nasuverse**                | **\***                                                                         | **2200**       |
 | Nasuverse                    | Fate / Apocrypha                                                               | 31             |
 | Nasuverse                    | Fate / Grand Order / -First Order-                                             | 7              |
