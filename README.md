@@ -27,7 +27,7 @@
 
 | universe                     | entry                                                                          | deaths         |
 |------------------------------|--------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                         | **6044547816** |
+| **\***                       | **\***                                                                         | **6044948124** |
 | **AI The Somnium Files**     | **\***                                                                         | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                           | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                      | 8              |
@@ -37,10 +37,10 @@
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Trials and Tribulations                          | 8              |
 | Ace Attorney                 | The Great Ace Attorney 2 Resolve                                               | 14             |
 | Ace Attorney                 | The Great Ace Attorney Adventures                                              | 5              |
-| **Akame ga Kill!**           | **\***                                                                         | **148**        |
-| Akame ga Kill!               | Akame ga Kill!                                                                 | 102            |
+| **Akame ga Kill!**           | **\***                                                                         | **400348**     |
+| Akame ga Kill!               | Akame ga Kill!                                                                 | 400102         |
 | Akame ga Kill!               | Akame ga Kill! Zero                                                            | 36             |
-| Akame ga Kill!               | Hinowa ga Crush!                                                               | 10             |
+| Akame ga Kill!               | Hinowa ga Crush!                                                               | 210            |
 | **Alice in Borderland**      | **\***                                                                         | **142**        |
 | Alice in Borderland          | Alice in Borderland                                                            | 130            |
 | Alice in Borderland          | Alice in Borderland Retry                                                      | 3              |
@@ -123,8 +123,8 @@
 | Jojo's Bizarre Adventure     | Stardust Crusaders                                                             | 22             |
 | Jojo's Bizarre Adventure     | Stone Ocean                                                                    | 22             |
 | Jojo's Bizarre Adventure     | Vento Aureo                                                                    | 30             |
-| **Jujutsu Kaisen**           | **\***                                                                         | **85**         |
-| Jujutsu Kaisen               | Jujutsu Kaisen                                                                 | 82             |
+| **Jujutsu Kaisen**           | **\***                                                                         | **86**         |
+| Jujutsu Kaisen               | Jujutsu Kaisen                                                                 | 83             |
 | Jujutsu Kaisen               | Jujutsu Kaisen 0                                                               | 3              |
 | **Just Cause**               | **\***                                                                         | **28**         |
 | Just Cause                   | Just Cause 3                                                                   | 15             |
@@ -206,10 +206,10 @@
 | Project Moon                 | Limbus Company / Observation Logs                                              | 39             |
 | Project Moon                 | Limbus Company / Prologue Selva Oscura                                         | 30             |
 | Project Moon                 | Lobotomy Corporation                                                           | 12             |
-| **Re Zero**                  | **\***                                                                         | **36**         |
+| **Re Zero**                  | **\***                                                                         | **143**        |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 1 The Tumultuous First Day      | 7              |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week            | 5              |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 3 Return to the Royal Capital   | 24             |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week            | 31             |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 3 Return to the Royal Capital   | 105            |
 | **Return of the Obra Dinn**  | **\***                                                                         | **66**         |
 | Return of the Obra Dinn      | Return of the Obra Dinn                                                        | 66             |
 | **Science Adventure**        | **\***                                                                         | **27**         |
