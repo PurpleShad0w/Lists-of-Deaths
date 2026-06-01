@@ -27,7 +27,7 @@
 
 | universe                     | entry                                                                          | deaths         |
 |------------------------------|--------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                         | **6145085494** |
+| **\***                       | **\***                                                                         | **6145087072** |
 | **AI The Somnium Files**     | **\***                                                                         | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                           | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                      | 8              |
@@ -206,14 +206,16 @@
 | Project Moon                 | Limbus Company / Observation Logs                                              | 39             |
 | Project Moon                 | Limbus Company / Prologue Selva Oscura                                         | 30             |
 | Project Moon                 | Lobotomy Corporation                                                           | 12             |
-| **Re Zero**                  | **\***                                                                         | **100137513**  |
-| Re Zero                      | Re IF Accreting Life in Another World from Zero                                | 100000005      |
-| Re Zero                      | Re IF Drowning Life in Another World from Zero                                 | 126710         |
-| Re Zero                      | Re IF Erring Life in Another World from Zero                                   | 10605          |
-| Re Zero                      | Re IF Patching Together Life in Another World from Zero                        | 50             |
+| **Re Zero**                  | **\***                                                                         | **100139091**  |
+| Re Zero                      | Re IF Ayamatsu Pride                                                           | 10605          |
+| Re Zero                      | Re IF Kasaneru Greed                                                           | 100000005      |
+| Re Zero                      | Re IF Oboreru Wrath                                                            | 126710         |
+| Re Zero                      | Re IF Tsugihagu Gluttony                                                       | 50             |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 1 The Tumultuous First Day      | 7              |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week            | 31             |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 3 Return to the Royal Capital   | 105            |
+| Re Zero                      | Re Zero Ex / Vol 1 The Dream the Lion King Saw                                 | 9              |
+| Re Zero                      | Re Zero Ex / Vol 2 Sword Demon Love Song                                       | 1569           |
 | **Return of the Obra Dinn**  | **\***                                                                         | **66**         |
 | Return of the Obra Dinn      | Return of the Obra Dinn                                                        | 66             |
 | **Science Adventure**        | **\***                                                                         | **27**         |
