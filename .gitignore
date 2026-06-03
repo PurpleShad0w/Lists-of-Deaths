@@ -1,4 +1,6 @@
 *.html
-/*.tsv
+deaths.tsv
+kills.tsv
 lib/
+summary.tsv
 temp/

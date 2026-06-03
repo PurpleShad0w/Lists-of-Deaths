@@ -27,7 +27,7 @@
 
 | universe                     | entry                                                                          | deaths         |
 |------------------------------|--------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                         | **6145103386** |
+| **\***                       | **\***                                                                         | **6145104433** |
 | **AI The Somnium Files**     | **\***                                                                         | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                           | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                      | 8              |
@@ -206,11 +206,11 @@
 | Project Moon                 | Limbus Company / Observation Logs                                              | 39             |
 | Project Moon                 | Limbus Company / Prologue Selva Oscura                                         | 30             |
 | Project Moon                 | Lobotomy Corporation                                                           | 12             |
-| **Re Zero**                  | **\***                                                                         | **100155405**  |
-| Re Zero                      | Re IF Ayamatsu Pride                                                           | 10605          |
-| Re Zero                      | Re IF Kasaneru Greed                                                           | 100000005      |
-| Re Zero                      | Re IF Oboreru Wrath                                                            | 126710         |
-| Re Zero                      | Re IF Tsugihagu Gluttony                                                       | 50             |
+| **Re Zero**                  | **\***                                                                         | **100156452**  |
+| Re Zero                      | Re IF / Ayamatsu - Pride                                                       | 10605          |
+| Re Zero                      | Re IF / Kasaneru - Greed                                                       | 100000005      |
+| Re Zero                      | Re IF / Oboreru - Wrath                                                        | 126710         |
+| Re Zero                      | Re IF / Tsugihagu - Gluttony                                                   | 50             |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 1 The Tumultuous First Day      | 7              |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week            | 31             |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 3 Return to the Royal Capital   | 105            |
@@ -220,6 +220,10 @@
 | Re Zero                      | Re Zero Ex / Volume 5 The Tale of the Scarlet Princess                         | 1007           |
 | Re Zero                      | Re Zero Ex / Volume 6 Sword Demon Battle Ballad                                | 11261          |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 1                                                  | 4              |
+| Re Zero                      | Re Zero Tanpenshuu / Volume 10                                                 | 16             |
+| Re Zero                      | Re Zero Tanpenshuu / Volume 11                                                 | 4              |
+| Re Zero                      | Re Zero Tanpenshuu / Volume 12                                                 | 17             |
+| Re Zero                      | Re Zero Tanpenshuu / Volume 13                                                 | 1010           |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 3                                                  | 3              |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 4                                                  | 15             |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 5                                                  | 2              |
