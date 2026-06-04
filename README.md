@@ -15,6 +15,7 @@
 - - **physical**   - this death concerns only a character's body, leaving their mind or soul alive.
 - - **brain-dead** - this death left the character only physically alive, with no brain activity possible.
 - - **undead**     - this death turned the character into an undead being such as a zombie or a ghost.
+- **versions** - the 'character' refers here to a cumulative summary of all different versions of a character.
 
 
 ### Status of Incomplete Entries
