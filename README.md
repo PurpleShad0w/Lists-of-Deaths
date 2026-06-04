@@ -27,7 +27,7 @@
 
 | universe                     | entry                                                                          | deaths         |
 |------------------------------|--------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                         | **6145104433** |
+| **\***                       | **\***                                                                         | **6225266627** |
 | **AI The Somnium Files**     | **\***                                                                         | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                           | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                      | 8              |
@@ -162,7 +162,7 @@
 | Monster Hunter               | Monster Hunter World Iceborne / Event Quests                                   | 269            |
 | Monster Hunter               | Monster Hunter World Iceborne / Optional Quests                                | 384            |
 | Monster Hunter               | Monster Hunter World Iceborne / Special Assignments                            | 15             |
-| **Nasuverse**                | **\***                                                                         | **2200**       |
+| **Nasuverse**                | **\***                                                                         | **80164394**   |
 | Nasuverse                    | Fate / Apocrypha                                                               | 31             |
 | Nasuverse                    | Fate / Grand Order / -First Order-                                             | 7              |
 | Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Free Quests  | 53             |
@@ -175,10 +175,11 @@
 | Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Orleans - Main Quests | 337            |
 | Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Septem - Free Quests  | 82             |
 | Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Septem - Main Quests  | 288            |
-| Nasuverse                    | Fate / Lore                                                                    | 60             |
 | Nasuverse                    | Fate / Prototype Fragments of Sky Silver                                       | 16             |
-| Nasuverse                    | Fate / Zero                                                                    | 28             |
+| Nasuverse                    | Fate / Zero                                                                    | 604            |
+| Nasuverse                    | Fate / Zero Another Story Heart of Freaks                                      | 4018           |
 | Nasuverse                    | Fate / stay night                                                              | 143            |
+| Nasuverse                    | TYPE-MOON Material Books                                                       | 80157660       |
 | **Ozark**                    | **\***                                                                         | **225**        |
 | Ozark                        | Ozark                                                                          | 225            |
 | **Project Moon**             | **\***                                                                         | **383315**     |
