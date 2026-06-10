@@ -2,9 +2,16 @@ character	killed by	death	type
 <10> Enemies	Sebastian Castellanos	Stabbed in the brain by Sebastian Castellanos (I Am The Night Achievement)	
 <15> Enemies	Sebastian Castellanos	Stomped by Sebastian Castellanos (Bootable Offense Achievement)	
 <1> Enemy	Sebastian Castellanos	Slain by Sebastian Castellanos using an ambush (Wait For It... Achievement)	
+<1> MOBIUS agent	Stefano Valentini	Shot in the head and photographed by Stefano Valentini	
+<1> Union survivor	Stefano Valentini	Murdered and photographed by Stefano Valentini	
+<1> person		Shredded to pieces by an explosion in front of Stefano Valentini	
+<2+> fashion models	Stefano Valentini	Murdered and mutilated by Stefano Valentini	
+<2+> victims	Stefano Valentini	Murdered and photographed by Stefano Valentini	
+<24+> Union citizens	Stefano Valentini	Blown up by Stefano Valentini (dozens mentioned)	
 <2> Enemies	Sebastian Castellanos	Crushed by a falling hanging lamp shot by Sebastian Castellanos (Death From Above Achievement)	
 <2> Enemies	Sebastian Castellanos	Incinerated by Sebastian Castellanos (Kick, Shoot, Burn Achievement)	
 <3> Enemies	Sebastian Castellanos	Slain using smoke bolts by Sebastian Castellanos (Smoke Assassin Achievement)	
+<4+> MOBIUS agents	Myra Castellanos | Juli Kidman	Bled out after their chip was destroyed by a signal emitted by Myra Castellanos and broadcast by Juli Kidman	
 <60> Enemies	Sebastian Castellanos	Slain by Sebastian Castellanos (Thinning Them Out / Clearing a Path Achievements)	
 Aperture	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
 Effigy	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
@@ -23,7 +30,7 @@ Obscura	Sebastian Castellanos	Destroyed by Sebastian Castellanos (dependent on p
 Sadist	Sebastian Castellanos	Bisected with his own chainsaw by Sebastian Castellanos	
 Stefano Valentini	Sebastian Castellanos	Shot in the head by Sebastian Castellanos	
 Ted Sisson		Caught and killed by the Lost	
-The Administrator	Myra Castellanos	Bled out after his chip was destroyed by Myra Castellanos	
+The Administrator	Myra Castellanos | Juli Kidman	Bled out after his chip was destroyed by a signal emitted by Myra Castellanos and broadcast by Juli Kidman	
 The Keeper	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
 The Watcher	Sebastian Castellanos	Destroyed by Sebastian Castellanos (dependent on player choice)	determinant
 Theodore Wallace	Myra Castellanos	Stabbed in the head by Myra Castellanos	

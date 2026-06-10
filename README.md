@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                           | deaths         |
 |------------------------------|---------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                          | **6225267273** |
+| **\***                       | **\***                                                                          | **6225277645** |
 | **AI The Somnium Files**     | **\***                                                                          | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                            | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                       | 8              |
@@ -124,9 +124,8 @@
 | Jojo's Bizarre Adventure     | Stardust Crusaders                                                              | 22             |
 | Jojo's Bizarre Adventure     | Stone Ocean                                                                     | 22             |
 | Jojo's Bizarre Adventure     | Vento Aureo                                                                     | 30             |
-| **Jujutsu Kaisen**           | **\***                                                                          | **86**         |
-| Jujutsu Kaisen               | Jujutsu Kaisen                                                                  | 83             |
-| Jujutsu Kaisen               | Jujutsu Kaisen 0                                                                | 3              |
+| **Jujutsu Kaisen**           | **\***                                                                          | **7788**       |
+| Jujutsu Kaisen               | Jujutsu Kaisen                                                                  | 7788           |
 | **Just Cause**               | **\***                                                                          | **28**         |
 | Just Cause                   | Just Cause 3                                                                    | 15             |
 | Just Cause                   | Just Cause 4                                                                    | 13             |
@@ -242,18 +241,18 @@
 | Staffer Series               | Staffer Reborn                                                                  | 7              |
 | **Star Wars**                | **\***                                                                          | **56**         |
 | Star Wars                    | Star Wars Jedi Fallen Order                                                     | 56             |
-| **The Evil Within**          | **\***                                                                          | **666**        |
+| **The Evil Within**          | **\***                                                                          | **714**        |
 | The Evil Within              | Comics                                                                          | 6              |
-| The Evil Within              | The Evil Within                                                                 | 544            |
-| The Evil Within              | The Evil Within 2                                                               | 116            |
+| The Evil Within              | The Evil Within                                                                 | 557            |
+| The Evil Within              | The Evil Within 2                                                               | 151            |
 | **The Golden Idol**          | **\***                                                                          | **106**        |
 | The Golden Idol              | The Case of the Golden Idol                                                     | 45             |
 | The Golden Idol              | The Rise of the Golden Idol                                                     | 61             |
 | **The World Ends with You**  | **\***                                                                          | **6231**       |
 | The World Ends with You      | NEO The World Ends with You                                                     | 6118           |
 | The World Ends with You      | The World Ends with You                                                         | 113            |
-| **Tokyo Ghoul**              | **\***                                                                          | **140**        |
-| Tokyo Ghoul                  | Tokyo Ghoul                                                                     | 140            |
+| **Tokyo Ghoul**              | **\***                                                                          | **2762**       |
+| Tokyo Ghoul                  | Tokyo Ghoul                                                                     | 2762           |
 | **Tomb Raider**              | **\***                                                                          | **19**         |
 | Tomb Raider                  | Tomb Raider (2013)                                                              | 19             |
 | **Watch Dogs**               | **\***                                                                          | **88**         |
