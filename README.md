@@ -28,7 +28,10 @@
 
 | universe                     | entry                                                                           | deaths         |
 |------------------------------|---------------------------------------------------------------------------------|----------------|
-| **\***                       | **\***                                                                          | **6225277645** |
+| **\***                       | **\***                                                                          | **6225292331** |
+| **A Certain Magical Index**  | **\***                                                                          | **14686**      |
+| A Certain Magical Index      | A Certain Magical Index                                                         | 4646           |
+| A Certain Magical Index      | A Certain Scientific Railgun                                                    | 10040          |
 | **AI The Somnium Files**     | **\***                                                                          | **29**         |
 | AI The Somnium Files         | AI The Somnium Files                                                            | 21             |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                       | 8              |
