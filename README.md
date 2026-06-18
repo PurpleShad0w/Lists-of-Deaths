@@ -28,14 +28,14 @@
 
 | universe                     | entry                                                                           | deaths           |
 |------------------------------|---------------------------------------------------------------------------------|------------------|
-| **\***                       | **\***                                                                          | **313008399963** |
+| **\***                       | **\***                                                                          | **313008400249** |
 | **A Certain Magical Index**  | **\***                                                                          | **301083119748** |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4648             |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301083105035     |
 | A Certain Magical Index      | A Certain Scientific Railgun                                                    | 10040            |
 | A Certain Magical Index      | Side Stories                                                                    | 25               |
-| **AI The Somnium Files**     | **\***                                                                          | **29**           |
-| AI The Somnium Files         | AI The Somnium Files                                                            | 21               |
+| **AI The Somnium Files**     | **\***                                                                          | **33**           |
+| AI The Somnium Files         | AI The Somnium Files                                                            | 25               |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative                                       | 8                |
 | **Ace Attorney**             | **\***                                                                          | **50**           |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                                     | 15               |
@@ -167,7 +167,7 @@
 | Monster Hunter               | Monster Hunter World Iceborne / Event Quests                                    | 269              |
 | Monster Hunter               | Monster Hunter World Iceborne / Optional Quests                                 | 384              |
 | Monster Hunter               | Monster Hunter World Iceborne / Special Assignments                             | 15               |
-| **Nasuverse**                | **\***                                                                          | **80164394**     |
+| **Nasuverse**                | **\***                                                                          | **80164436**     |
 | Nasuverse                    | Fate / Apocrypha                                                                | 31               |
 | Nasuverse                    | Fate / Grand Order / -First Order-                                              | 7                |
 | Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Free Quests   | 53               |
@@ -184,7 +184,7 @@
 | Nasuverse                    | Fate / Zero                                                                     | 604              |
 | Nasuverse                    | Fate / Zero Another Story Heart of Freaks                                       | 4018             |
 | Nasuverse                    | Fate / stay night                                                               | 143              |
-| Nasuverse                    | TYPE-MOON Material Books                                                        | 80157660         |
+| Nasuverse                    | TYPE-MOON Material Books                                                        | 80157702         |
 | **Ozark**                    | **\***                                                                          | **225**          |
 | Ozark                        | Ozark                                                                           | 225              |
 | **Project Moon**             | **\***                                                                          | **383315**       |
@@ -212,11 +212,11 @@
 | Project Moon                 | Limbus Company / Observation Logs                                               | 39               |
 | Project Moon                 | Limbus Company / Prologue Selva Oscura                                          | 30               |
 | Project Moon                 | Lobotomy Corporation                                                            | 12               |
-| **Re Zero**                  | **\***                                                                          | **100159668**    |
-| Re Zero                      | Re IF / Ayamatsu                                                                | 10605            |
-| Re Zero                      | Re IF / Kasaneru                                                                | 100001538        |
+| **Re Zero**                  | **\***                                                                          | **100159654**    |
+| Re Zero                      | Re IF / Ayamatsu                                                                | 10603            |
+| Re Zero                      | Re IF / Kasaneru                                                                | 100001524        |
 | Re Zero                      | Re IF / Oboreru                                                                 | 126710           |
-| Re Zero                      | Re IF / Sasageru                                                                | 514              |
+| Re Zero                      | Re IF / Sasageru                                                                | 516              |
 | Re Zero                      | Re IF / Tsugihagu                                                               | 50               |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 1 The Tumultuous First Day       | 7                |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week             | 31               |
@@ -242,6 +242,8 @@
 | Return of the Obra Dinn      | Return of the Obra Dinn                                                         | 66               |
 | **Science Adventure**        | **\***                                                                          | **5700000027**   |
 | Science Adventure            | Steins;Gate                                                                     | 5700000027       |
+| **Slay the Princess**        | **\***                                                                          | **254**          |
+| Slay the Princess            | Slay the Princess                                                               | 254              |
 | **Staffer Series**           | **\***                                                                          | **15**           |
 | Staffer Series               | Staffer Case                                                                    | 8                |
 | Staffer Series               | Staffer Reborn                                                                  | 7                |
