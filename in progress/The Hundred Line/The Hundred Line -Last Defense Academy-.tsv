@@ -1,0 +1,55 @@
+character	killed by	death	type	route
+
+# character names
+
+Sirei
+Nigou
+Takumi Sumino
+Takemaru Yakushiji
+Hiruko Shizuhara
+Darumi Amemiya
+Eito Aotsuki
+Tsubasa Kawana
+Gaku Maruko
+Ima Tsukumo
+Kako Tsukumo
+Shouma Ginzaki
+Nozomi Kirifuji / Karua Kashimiya
+Kurara Oosuzuki
+Kyoshika Magadori
+Yugamu Omokage
+Moko Mojiro
+Eva
+Shion / Ghost Boy / Fire Boy / FB
+Kamyuhn
+Retsnom
+Murvrum
+Pakron
+Addamaque
+Quenzelle
+Parmith
+Zen'ta
+Valla-Garzo
+Szanshin
+Nyewgank
+Turamtammi
+V'ehxness
+Dahl'xia
+
+determinant
+
+Darumi Amemiya	Murvrum	Crushed to death by Murvrum (reconstructed by the Revive-O-Matic)	revived	Route 0
+Murvrum	Hiruko Shizuhara	Cryptoglobin drained by Hiruko Shizuhara (undone via Takumi Sumino's Redo)	undone	Route 0
+Hiruko Shizuhara	Eito Aotsuki	Cryptoglobin drained by Eito Aotsuki (undone via Takumi Sumino's Redo)	undone	Route 0
+Kurara Oosuzuki		Murdered by the Invaders (reconstructed by the Revive-O-Matic)	revived	Route 0
+Kyoshika Magadori		Murdered by the Invaders (reconstructed by the Revive-O-Matic)	revived	Route 0
+Yugamu Omokage		Murdered by the Invaders (reconstructed by the Revive-O-Matic)	revived	Route 0
+Pakron
+Sirei	Eito Aotsuki	Sliced in half by Eito Aotsuki (undone via Takumi Sumino's Redo)	undone	Route 0
+Eito Aotsuki	Sirei | Eito Aotsuki	Blown up by Sirei as part of his own plan (reconstructed by the Revive-O-Matic)	revived	Route 0
+Eva	Eito Aotsuki	Cryptoglobin drained by Eito Aotsuki (undone via Takumi Sumino's Redo)	undone	Route 0
+Shion	Eito Aotsuki	Cryptoglobin drained by Eito Aotsuki (undone via Takumi Sumino's Redo)	undone	Route 0
+Eito Aotsuki	Takumi Sumino	Cryptoglobin drained by Takumi Sumino (undone via Takumi Sumino's Redo)	undone	Route 0
+Moko Mojiro	Zen'ta	Murdered and impersonated by Zen'ta (undone via Takumi Sumino's Redo)	undone	Route 0
+Ima Tsukumo	V'ehxness	
+Nozomi Kirifuji	V'ehxness	Stabbed in the back by V'ehxness (undone via Takumi Sumino's Redo)	undone	Route 0
