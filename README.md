@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                           | deaths              |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|
-| **\***                       | **\***                                                                          | **314,108,475,369** |
+| **\***                       | **\***                                                                          | **318,120,014,600** |
 | **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     |
@@ -256,6 +256,8 @@
 | **The Golden Idol**          | **\***                                                                          | **106**             |
 | The Golden Idol              | The Case of the Golden Idol                                                     | 45                  |
 | The Golden Idol              | The Rise of the Golden Idol                                                     | 61                  |
+| **The Perfect Run**          | **\***                                                                          | **4,011,539,231**   |
+| The Perfect Run              | The Perfect Run                                                                 | 4,011,539,231       |
 | **The World Ends with You**  | **\***                                                                          | **6,231**           |
 | The World Ends with You      | NEO The World Ends with You                                                     | 6,118               |
 | The World Ends with You      | The World Ends with You                                                         | 113                 |
