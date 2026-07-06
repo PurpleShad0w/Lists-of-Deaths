@@ -1,8 +1,8 @@
-character	killed by	death	type
-<100> Large Monsters	Hunter (MHWI)	Hunted by the Hunter (The True Hunt Begins / Hunter Prodigy Awards)	
-<30> Variant Monsters	Hunter (MHWI)	Hunted by the Hunter (Confronting the Unknown / Seen It All Awards)	
-<500> Large Monsters	Hunter (MHWI)	Hunted by the Hunter (Monster Slayer / Monster Hunter Awards)	
-<50> Arena Monsters	Hunter (MHWI)	Hunted by the Hunter (Step into the Arena / Nowhere to Go but Up Awards)	
-<50> Elder Dragons	Hunter (MHWI)	Slain by the Hunter (Elderslayer Award)	
-<50> Elder Dragons	Hunter (MHWI)	Slain by the Hunter (Master Slayer Award)	
-<50> Tempered Monsters	Hunter (MHWI)	Hunted by the Hunter (Temper Temper / Indomitable Awards)	
+character	killed by	death	type	award
+<100> Large Monsters	Hunter (MHWI)	Hunted by the Hunter		The True Hunt Begins / Hunter Prodigy
+<30> Variant Monsters	Hunter (MHWI)	Hunted by the Hunter		Confronting the Unknown / Seen It All
+<500> Large Monsters	Hunter (MHWI)	Hunted by the Hunter		Monster Slayer / Monster Hunter
+<50> Arena Monsters	Hunter (MHWI)	Hunted by the Hunter		Step into the Arena / Nowhere to Go but Up
+<50> Elder Dragons	Hunter (MHWI)	Slain by the Hunter		Elderslayer
+<50> Elder Dragons	Hunter (MHWI)	Slain by the Hunter		Master Slayer
+<50> Tempered Monsters	Hunter (MHWI)	Hunted by the Hunter		Temper Temper / Indomitable
