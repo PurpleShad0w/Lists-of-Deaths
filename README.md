@@ -28,7 +28,7 @@
 
 | universe                     | entry                                                                           | deaths              |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|
-| **\***                       | **\***                                                                          | **318,133,015,059** |
+| **\***                       | **\***                                                                          | **318,133,015,696** |
 | **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     |
@@ -51,11 +51,11 @@
 | Alice in Borderland          | Alice in Borderland                                                             | 130                 |
 | Alice in Borderland          | Alice in Borderland Retry                                                       | 3                   |
 | Alice in Borderland          | Alice on Border Road                                                            | 9                   |
-| **Assassin's Creed**         | **\***                                                                          | **150**             |
+| **Assassin's Creed**         | **\***                                                                          | **217**             |
 | Assassin's Creed             | Assassin's Creed                                                                | 73                  |
 | Assassin's Creed             | Assassin's Creed Brotherhood                                                    | 23                  |
 | Assassin's Creed             | Assassin's Creed Embers                                                         | 1                   |
-| Assassin's Creed             | Assassin's Creed II                                                             | 27                  |
+| Assassin's Creed             | Assassin's Creed II                                                             | 94                  |
 | Assassin's Creed             | Assassin's Creed Revelations                                                    | 20                  |
 | Assassin's Creed             | Novelizations                                                                   | 6                   |
 | **Attack on Titan**          | **\***                                                                          | **2,837,951**       |
@@ -106,8 +106,8 @@
 | Final Fantasy                | Final Fantasy XIII                                                              | 235                 |
 | **Future Diary**             | **\***                                                                          | **44**              |
 | Future Diary                 | Future Diary                                                                    | 44                  |
-| **Gantz**                    | **\***                                                                          | **131**             |
-| Gantz                        | Gantz                                                                           | 131                 |
+| **Gantz**                    | **\***                                                                          | **701**             |
+| Gantz                        | Gantz                                                                           | 701                 |
 | **Golden Kamuy**             | **\***                                                                          | **77**              |
 | Golden Kamuy                 | Golden Kamuy                                                                    | 77                  |
 | **Hollow Knight**            | **\***                                                                          | **4,962**           |

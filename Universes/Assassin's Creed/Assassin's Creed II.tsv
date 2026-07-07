@@ -1,4 +1,36 @@
 character	killed by	death	type
+<1> Girolamo Riario's man	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Mark and Execute)	
+<1> Pazzi benefactors	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Reap What You Sow)	
+<1> Venetian condottiero	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (False Legacy)	
+<1> agent	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Dead on Arrival)	
+<1> bounty hunter	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Hunting the Hunter)	
+<1> captain	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Wet Work)	
+<1> commander	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Go Towards the Light)	
+<1> conspirator	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Needle in a Haystack)	
+<1> conspirator	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Thicker than Water)	
+<1> cousin of Francesco de' Pazzi	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Crash a Party)	
+<1> guild leader	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Supply in Demand)	
+<1> leader of the condottieri	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Leader of the Pack)	
+<1> man	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Honorable Thief)	
+<1> man	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Showtime)	
+<1> marked man	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Hunting the Hunter)	
+<1> member of the Salvucci family	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Caveat Emptor)	
+<1> member of the Signoria	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Political Suicide)	
+<1> merchant	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Day at the Market)	
+<1> merchant	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Zero Tolerance)	
+<2> conspirators	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Flee Market)	
+<3+> palazzo's residents	Girolamo Riario	Murdered by Girolamo Riario's men (several mentioned)	
+<3> Borgia archers	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Arch Enemies)	
+<3> Girolamo Riario's men	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Beginnings of a Conspiracy)	
+<3> Pazzi archers	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Fallen Archers)	
+<3> conspirators	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (No Laughing Matter)	
+<3> leaders of mercenary bands	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (No Camping)	
+<3> officials	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Blade in the Crowd)	
+<4> brutes	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Peacekeeper)	
+<4> guards	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Don't Get Your Hands Dirty)	
+<5> Borgia soldiers	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Vertical Slice)	
+<5> conspirators	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Meeting Adjourned)	
+<6> Girolamo Riario's men	Ezio Auditore da Firenze | Lorenzo de' Medici	Assassinated by Ezio Auditore da Firenze on orders from Lorenzo de' Medici (Thin the Ranks)	
 Alvise da Vilandino		Drowned after falling into the sea during an attack on the fort of Modon	
 Antonio Maffei da Volterra	Ezio Auditore da Firenze	Tossed off a tower by Ezio Auditore da Firenze	
 Bartolomeo d'Alviano		Died during the siege of Brescia	
@@ -13,6 +45,7 @@ Federico Auditore da Firenze	Rodrigo Borgia | Uberto Alberti	Hanged after being 
 Francesco Salviati Riario	Ezio Auditore da Firenze	Murdered by Ezio Auditore da Firenze	
 Francesco de' Pazzi	Ezio Auditore da Firenze	Assassinated by Ezio Auditore da Firenze	
 Giovanni Auditore da Firenze	Rodrigo Borgia | Uberto Alberti	Hanged after being found guilty of treason, orchestrated by Rodrigo Borgia and Uberto Alberti	
+Girolamo Riario	Checco Orsi | Ludovico Orsi | Caterina Sforza	Stabbed by Checco Orsi and Ludovico Orsi, hired by Caterina Sforza	
 Girolamo Savonarola	Ezio Auditore da Firenze	Assassinated by Ezio Auditore da Firenze	
 Isabetta Auditore		Raped and murdered by pirates hired by Templars	
 Jacopo de' Pazzi	Ezio Auditore da Firenze | Rodrigo Borgia	Assassinated by Ezio Auditore da Firenze after having been stabbed in the neck by Rodrigo Borgia	
