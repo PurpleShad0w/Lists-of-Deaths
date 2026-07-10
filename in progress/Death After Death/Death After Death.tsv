@@ -10,6 +10,36 @@ Freya
 Olggen
 Eddek
 Ethryes
+Luken
+Thomen
+Yars
+Gregor Corwin II / Baron Corwin
+Elanna Corwin / Arys Corwin ?
+Gregor Corwin III
+Harver Corwin
+Scott Corwin
+Duke Westerfall / King of Brin's brother
+King of Brin's son
+Martem
+Viktor
+Baron Raithewait
+Erik Raithewait
+Varten Raithewait
+Mrs. Stravsen
+Mr. Stravsen
+Trav
+Mitchel
+Keldin
+Marill
+Tim
+Garrek
+Andronican
+Festauvian
+Hybissian
+Majoria
+Rolf
+Vig
+Robin Klarr
 
 
 ennemies :
@@ -24,16 +54,22 @@ ennemies :
 1 skeleton knight
 1 slime
 zombies
+(Olggen turns, Brenna tries using Freya as a human shield, either she succeeds but both get bitten by him, or Freya stabs her to save herself)
 1 carrion crawler
 1 giant toothy blossom
 1 wyvern
 1 troll
 
 
+before the Pit:
 
 {100+} Simon Jackoby		Lived more than a hundred different lives as an animal or a human (each time reincarnated by Helades)	reincarnated	
-Simon Jackoby	Simon Jackoby	 Stepped into traffic in order to commit suicide, crushed by the wheels of an eighteen-wheeler (brought to Helades for reincarnation and eventually sent to the Pit)	revived	
+Simon Jackoby	Simon Jackoby	 Stepped into traffic in order to commit suicide, crushed by an eighteen-wheeler (brought to Helades for reincarnation and eventually sent to the Pit)	revived	
 <4,683,945> other souls		Died from unknown causes (count mentioned, minus Simon) (brought to Helades for reincarnation and eventually sent to the Pit)	revived	
+Festauvian		Died from unknown causes	
+
+
+within the Pit:
 
 Simon Jackoby	Helades	Fell to his death after tumbling down stairs, sent in the Pit by Helades (reset by the Pit)	undone	1
 
@@ -131,8 +167,9 @@ Simon Jackoby	Brenna | Helades	Bled out after being impaled on a pitchfork by Br
 <1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	27
 <1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	27
 <9> people		Murdered by zombies (count of bodies) (reset by the Pit)	undone	27
-Brenna		Bitten and turned into a zombie (reset by the Pit)	undead | undone	27
-Brenna	Freya	Turned into a zombie and put down by Freya (reset by the Pit)	undone	27
+Olggen		Turned into a zombie (reset by the Pit)	undead | undone	27
+Olggen	Freya	Turned into a zombie and put down by Freya (reset by the Pit)	undone	27
+Brenna	Freya	Stabbed in the neck in self-defense by Freya (reset by the Pit)	undone	27
 <1> zombie	Simon Jackoby	Face caved in by Simon Jackoby (reset by the Pit)	undone	27
 <2> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	27
 <1> zombie	Simon Jackoby	Crushed with a mace by Simon Jackoby (reset by the Pit)	undone	27
@@ -148,9 +185,11 @@ Simon Jackoby	Helades	Trapped in a basement by zombies and died of carbon monoxi
 <1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	28
 <1> zombie	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	28
 <4> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	28
-Freya		Bitten and turned into a zombie (reset by the Pit)	undead | undone	28
+Olggen		Bitten and turned into a zombie (reset by the Pit)	undead | undone	28
+Olggen	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	28
+Freya	Olggen | Brenna	Bitten by Olggen while used as a human shield by Brenna and turned into a zombie (reset by the Pit)	undead | undone	28
 Freya	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	28
-Brenna		Bitten and turned into a zombie (reset by the Pit)	undead | undone	28
+Brenna	Olggen	Bitten by Olggen and turned into a zombie (reset by the Pit)	undead | undone	28
 Brenna	Simon Jackoby	Turned into a zombie and head smashed into a counter by Simon Jackoby (reset by the Pit)	undone	28
 Simon Jackoby	Brenna | Helades	Turned into a zombie after being bitten on the neck by Brenna, sent in the Pit by Helades (reset by the Pit)	undead | undone	28
 <1> starving man	Simon Jackoby	Devoured by Simon Jackoby as a zombie, then turned as well (reset by the Pit)	undead | undone	28
@@ -159,18 +198,20 @@ Simon Jackoby	Brenna | Helades	Turned into a zombie after being bitten on the ne
 <3+> adventurers		Devoured by zombies (all mentioned) (reset by the Pit)	undone	28
 <200+> zombies		Eventually whittled down by farmers and villagers (hundreds mentioned) (reset by the Pit)	undone	28
 <3+> people	Simon Jackoby	Devoured by Simon Jackoby as a zombie (several mentioned) (reset by the Pit)	undone	28
-Simon Jackoby	Helades	Pu down with a fire spell by a mage, sent in the Pit by Helades (reset by the Pit)	undone	28
+Simon Jackoby	Helades	Put down with a fire spell by a mage, sent in the Pit by Helades (reset by the Pit)	undone	28
 
 Simon Jackoby	Helades	Impaled with multiple shards of a broken mirror by Helades (reset by the Pit)	undone	29
 <6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
 <5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
 <6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
-<29+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
+<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
 <1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
 <1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	29
 <2> zombies	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	29
-Freya		Murdered by zombies, presumably bitten and put down or bled out (reset by the Pit)	undone	29
-Brenna		Murdered by zombies, presumably bitten and put down or bled out (reset by the Pit)	undone	29
+Olggen		Presumably bitten and turned into a zombie (reset by the Pit)	undead | undone	29
+Olggen	Brenna | Freya	Presumably turned into a zombie and put down by either Brenna or Freya (reset by the Pit)	undone	29
+Freya	Brenna	Presumably bitten and put down or bled out while fighting Brenna (reset by the Pit)	undone	29
+Brenna	Freya	Presumably bitten and put down or bled out while fighting Freya (reset by the Pit)	undone	29
 <6+> people		Mauled by an owlbear (half a dozen mentioned) (reset by the Pit)	undone	29
 <2> horses		Mauled by an owlbear (reset by the Pit)	undone	29
 Simon Jackoby	Helades	Impaled through the heart with a sword by a ghost, sent in the Pit by Helades (reset by the Pit)	undone	29
@@ -178,31 +219,111 @@ Simon Jackoby	Helades	Impaled through the heart with a sword by a ghost, sent in
 <6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
 <5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
 <6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
-<29+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
+<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
 <1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
-<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit) (reset by the Pit)	undone	30
+<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	30
 <1> zombie	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	30
-Brenna		Bitten and turned into a zombie (reset by the Pit)	undead | undone	30
+Brenna	Olggen	Bitten by Olggen and turned into a zombie (reset by the Pit)	undead | undone	30
 Brenna	Simon Jackoby	Turned into a zombie and face crushed with a mace by Simon Jackoby (reset by the Pit)	undone	30
-Freya		Bitten and turned into a zombie (reset by the Pit)	undead | undone	30
+Olggen		Bitten and turned into a zombie (reset by the Pit)	undead | undone	30
+Olggen	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	30
+Freya	Olggen | Brenna	Bitten by Olggen while used as a human shield by Brenna and turned into a zombie (reset by the Pit)	undead | undone	30
 Freya	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	30
 <8> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	30
 <6+> people		Mauled by an owlbear (previously known count) (reset by the Pit)	undone	30
 <2> horses		Mauled by an owlbear (reset by the Pit)	undone	30
 <1> owlbear	Simon Jackoby	Impaled on a pike and then spinal cord severed with a sword by Simon Jackoby (reset by the Pit)	undone	30
-<1> warlock	Simon Jackoby	Shot in the left lung with a crossbow by Simon Jackoby (reset by the Pit)	undone	30
-<3+> people		Frozen to death (several mentioned) (reset by the Pit)	undone	30
-<3> family members		Died from a plague (reset by the Pit)	undone	30
-<3+> people		Died from a plague (several mentioned) (reset by the Pit)	undone	30
+Andronican	Simon Jackoby	Shot in the left lung with a crossbow by Simon Jackoby (reset by the Pit)	undone	30
+<3+> people		Frozen to death by the mage's blue orb (several mentioned) (reset by the Pit)	undone	30
+<3> family members		Died from the Black Plague (reset by the Pit)	undone	30
+<200+> people		Died from the Black Plague (hundreds mentioned) (reset by the Pit)	undone	30
 <1> lizardman	Simon Jackoby	Beheaded with a sword by Simon Jackoby (reset by the Pit)	undone	30
 <3+> lizardmen	Simon Jackoby	Cut into pieces with a sword by Simon Jackoby (several mentioned) (reset by the Pit)	undone	30
 <6+> lizardman eggs	Simon Jackoby	Stomped on by Simon Jackoby (half a dozen mentioned) (reset by the Pit)	undone	30
 <3+> warriors		Petrified by a basilisk (several mentioned) (reset by the Pit)	undone	30
 Simon Jackoby	Helades	Skull crushed by a basilisk after being petrified an unknown amount of time by it, sent in the Pit by Helades (reset by the Pit)	undone	30
 
-<1> fish	Simon Jackoby	Suffocated after being fished out of water by Simon Jackoby
-<1> goblin	Simon Jackoby	Head cracked with a fishing pole by Simon Jackoby
-<1> goblin	Simon Jackoby	Stabbed with a dagger by Simon Jackoby
+<1> fish	Simon Jackoby	Suffocated after being fished out of water by Simon Jackoby (reset by the Pit)	undone	31
+<1> goblin	Simon Jackoby	Head cracked with a fishing pole by Simon Jackoby (reset by the Pit)	undone	31
+<1> goblin	Simon Jackoby	Stabbed with a dagger by Simon Jackoby (reset by the Pit)	undone	31
+<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	31
+<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	31
+<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	31
+<6> bandits	Simon Jackoby	Incinerated with magic and finished off with a sword by Simon Jackoby (8 mentioned, minus Luken and the feral boy) (reset by the Pit)	undone	31
+Simon Jackoby	Helades	Assassinated in his sleep with a meat cleaver by an innkeeper, sent in the Pit by Helades (reset by the Pit)	undone	31
+
+<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
+<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
+<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
+Luken	Simon Jackoby	Stabbed in the heart with a dagger by Simon Jackoby (reset by the Pit)	undone	32
+<6> bandits	Simon Jackoby	Incinerated with magic and finished off with a sword by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
+<1> goblin	Simon Jackoby | Baron Corwin	Decapitated with a sword by Simon Jackoby on orders from Baron Corwin (reset by the Pit)	undone	32
+<1> goblin	Simon Jackoby | Baron Corwin	Run through with a sword by Simon Jackoby on orders from Baron Corwin (reset by the Pit)	undone	32
+<1> goblin	Simon Jackoby | Baron Corwin	Skull with a shield by Simon Jackoby on orders from Baron Corwin (reset by the Pit)	undone	32
+<2> goblins	Gregor Corwin III | Simon Jackoby | Baron Corwin	Slain by Gregor Corwin III while distracted by Simon Jackoby, on orders from Baron Corwin (reset by the Pit)	undone	32
+<24+> goblins	Simon Jackoby | Baron Corwin	Suffocated via smoke inhalation in their cave due to Simon Jackoby's fire on orders from Baron Corwin (dozens mentioned) (reset by the Pit)	undone	32
+King of Brin		Died of an illness (reset by the Pit)	undone	32
+<1> messenger	King of Brin's son	Beheaded by the King of Brin's son's army (reset by the Pit)	undone	32
+<1> dark-haired axe wielder	Simon Jackoby | Baron Corwin	Stabbed in the gut with a sword by Simon Jackoby, fighting as Baron Corwin's man (reset by the Pit)	undone	32
+<6+> men	Simon Jackoby | Baron Corwin	Incinerated with magic by Simon Jackoby, fighting as Baron Corwin's man (several mentioned twice) (reset by the Pit)	undone	32
+Simon Jackoby	Martem | Viktor | Baron Corwin | Helades	Stabbed in the back and the side after using magic by Martem and Viktor, Baron Corwin's men, sent in the Pit by Helades (reset by the Pit)	undone	32
+
+<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
+<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
+<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
+<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
+<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
+<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	33
+<2> zombies	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	33
+<2> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	33
+Olggen		Bitten and turned into a zombie (reset by the Pit)	undead | undone	33
+Olggen	Freya	Turned into a zombie and put down by Freya (reset by the Pit)	undone	33
+Brenna	Freya	Stabbed in the neck in self-defense by Freya (reset by the Pit)	undone	33
+<1> merchant		Bitten and turned into a zombie (reset by the Pit)	undead | undone	33
+<1> merchant	Simon Jackoby	Turned into a zombie and skull crushed with a mace by Simon Jackoby (reset by the Pit)	undone	33
+<1> bitten man	Simon Jackoby	Skull crushed with a mace by Simon Jackoby (reset by the Pit)	undone	33
+<6+> hobgoblins	Simon Jackoby | Trav | Baron Raithewait	Slain by Simon Jackoby and five men, including Trav, sent by Baron Raithewait (half a dozen mentioned) (reset by the Pit)	undone	33
+<6> centaurs	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and a dozen men, sent by Baron Raithewait (9 mentioned, 3 survived) (reset by the Pit)	undone	33
+<2> Baron Raithewait's men		Slain by centaurs (reset by the Pit)	undone	33
+<3+> bandits	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
+<3+> gnoll raiders	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
+<3+> goblins	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
+<3+> house occupants		Slaughtered by goblins (several mentioned) (reset by the Pit)	undone	33
+<150+> orcs	Simon Jackoby | Baron Raithewait	Shot with arrows and stabbed with spears during a siege, defense led by Simon Jackoby on orders from Baron Raithewait (half of 300 mentioned) (reset by the Pit)	undone	33
+<150+> orcs	Baron Raithewait | Simon Jackoby	Slain by Baron Raithewait's knights as part of Simon Jackoby's plan (other half of 300 mentioned) (reset by the Pit)	undone	33
+<36+> Baron Raithewait's knights		Slain by orcs (several dozens mentioned) (reset by the Pit)	undone	33
+<1> Baron Raithewait's man		Vital organ punctured by goblins (reset by the Pit)	undone	33
+Freya	Varten Raithewait	Suffered a stroke while hitting her head on a table after being struck by Varten Raithewait (reset by the Pit)	undone	33
+Simon and Freya's unborn child	Varten Raithewait	Died alongside its mother when she was killed by Varten Raithewait (reset by the Pit)	undone	33
+Mitchel	Simon Jackoby	Suffocated after having his throat stomped on by Simon Jackoby (reset by the Pit)	undone	33
+Keldin	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	33
+Garrek	Simon Jackoby	Incinerated with magic and beheaded by Simon Jackoby (reset by the Pit)	undone	33
+<3> Baron Raithewait's men	Simon Jackoby	Incinerated with magic by Simon Jackoby (5 mentioned, minus Garrek and Keldin) (reset by the Pit)	undone	33
+<1> Baron Raithewait's man	Simon Jackoby	Run through with a sword by Simon Jackoby (reset by the Pit)	undone	33
+Baron Raithewait	Simon Jackoby	Shot in the chest with a crossbow by Simon Jackoby (reset by the Pit)	undone	33
+Varten Raithewait	Simon Jackoby	Skull struck with an axe by Simon Jackoby (reset by the Pit)	undone	33
+<1> ewe	Simon Jackoby	Shot with a longbow by Simon Jackoby (reset by the Pit)	undone	33
+<1> orc	Simon Jackoby	Heart fried with lightning magic by Simon Jackoby (reset by the Pit)	undone	33
+<1> biggest orc	Simon Jackoby	Struck with lightning magic by Simon Jackoby (reset by the Pit)	undone	33
+<6+> orcs	Simon Jackoby	Struck with lightning magic by Simon Jackoby (dozen mentioned, minus others) (reset by the Pit)	undone	33
+<1> orc	Simon Jackoby	Struck down with a sword by Simon Jackoby (reset by the Pit)	undone	33
+<1> orc	Simon Jackoby	Run through with a sword by Simon Jackoby (reset by the Pit)	undone	33
+<1> orc	Simon Jackoby	Stabbed in the heart with a sword by Simon Jackoby (reset by the Pit)	undone	33
+<1> orc	Simon Jackoby	Disemboweled with a sword by Simon Jackoby (reset by the Pit)	undone	33
+<24+> Rivenwood inhabitants		Slain by orcs (dozens mentioned) (reset by the Pit)	undone	33
+<9+> family members		Frozen to death by the mage's blue orb (several mentioned several times) (reset by the Pit)	undone	33
+<1> mage		Frozen to death by the blue orb he was working on (reset by the Pit)	undone	33
+<1> maid		Frozen to death by the mage's blue orb (reset by the Pit)	undone	33
+<1> footman		Frozen to death by the mage's blue orb (reset by the Pit)	undone	33
+<200+> people		Died from the Black Plague (hundreds mentioned) (reset by the Pit)	undone	33
+<1> chicken	Simon Jackoby	Beheaded by Simon Jackoby (reset by the Pit)	undone	33
+<1> Robin Klarr's master		Died from the Black Plague (reset by the Pit)	undone	33
+<3+> Robin Klarr's patients		Died from the Black Plague (several mentioned) (reset by the Pit)	undone	33
+<3+> people		Petrified and devoured by a basilisk (several mentioned) (reset by the Pit)	undone	33
+<1> bird		Petrified by a basilisk and fell out of the sky (reset by the Pit)	undone	33
+<1> basilisk	Simon Jackoby	Beheaded and disemboweled by Simon Jackoby (reset by the Pit)	undone	33
+<24+> people	Simon Jackoby	Petrified by a basilisk, then shattered and heads broken as a mercy by Simon Jackoby (two dozens mentioned) (reset by the Pit)	undone	33
+Simon Jackoby	Simon Jackoby | Helades	Died of old age after using his own life force as a source of magic, sent in the Pit by Helades (reset by the Pit)	undone	33
 
 
 
