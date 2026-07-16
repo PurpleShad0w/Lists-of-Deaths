@@ -7,425 +7,548 @@ Gregor Corwin III
 King Wilden Brin I / King Brin
 Duke Brin / King Brin's Brother
 King Wilden Brin II / King Brin's Son / Prince Brin
-
-
-ennemies :
-
-(some ennemies are optional)
-15+ goblins
-1 goblin shaman
-6+ rats
-5+ bats
-6 goblins
-30+ skeletons
-1 skeleton knight
-1 slime
-zombies
-(Olggen turns, Brenna tries using Freya as a human shield, either she succeeds but both get bitten by him, or Freya stabs her to save herself)
-1 carrion crawler
-1 giant toothy blossom
-1 wyvern
-1 troll
+Anias / Red Knight
+Freya / Frey
+Simon / Simon Jackoby
+Simon???
 
 
 before the Pit:
 
-{100+} Simon Jackoby		Lived more than a hundred different lives as an animal or a human (each time reincarnated by Helades)	reincarnated	
-Simon Jackoby	Simon Jackoby	 Stepped into traffic in order to commit suicide, crushed by an eighteen-wheeler (brought to Helades for reincarnation and eventually sent to the Pit)	revived	
+{100+} Simon		Lived more than a hundred different lives as an animal or a human (each time reincarnated by Helades)	reincarnated	
+Simon	Simon	 Stepped into traffic in order to commit suicide, crushed by an eighteen-wheeler (brought to Helades for reincarnation and eventually sent to the Pit)	revived	
 <4,683,945> other souls		Died from unknown causes (count mentioned, minus Simon) (brought to Helades for reincarnation and eventually sent to the Pit)	revived	
 
 
 within the Pit:
 
-Simon Jackoby	Helades	Fell to his death after tumbling down stairs, sent in the Pit by Helades (reset by the Pit)	undone	1
+Simon	Helades	Fell to his death after tumbling down stairs, sent in the Pit by Helades (reset by the Pit)	undone	1
 
-<1> rat	Simon Jackoby	Impaled with a sword by Simon Jackoby (reset by the Pit)	undone	2
-Simon Jackoby	Helades	Devoured alive by a swarm of rats, sent in the Pit by Helades (reset by the Pit)	undone	2
+<1> rat	Simon	Impaled with a sword by Simon (reset by the Pit)	undone	2
+Simon	Helades	Devoured alive by a swarm of rats, sent in the Pit by Helades (reset by the Pit)	undone	2
 
-<6+> rats	Simon Jackoby	Stomped with leather boots by Simon Jackoby (half dozen mentioned) (reset by the Pit)	undone	3
-<3+> bats	Simon Jackoby	Slashed with a sword by Simon Jackoby (several mentioned) (reset by the Pit)	undone	3
-<2+> bats	Simon Jackoby	Slashed with a sword by Simon Jackoby (couple mentioned) (reset by the Pit)	undone	3
-Simon Jackoby	Helades	Impaled on several three-foot spikes after falling in a trap, sent in the Pit by Helades (reset by the Pit)	undone	3
+<6+> rats	Simon	Stomped with leather boots by Simon (half dozen mentioned) (reset by the Pit)	undone	3
+<3+> bats	Simon	Slashed with a sword by Simon (several mentioned) (reset by the Pit)	undone	3
+<2+> bats	Simon	Slashed with a sword by Simon (couple mentioned) (reset by the Pit)	undone	3
+Simon	Helades	Impaled on several three-foot spikes after falling in a trap, sent in the Pit by Helades (reset by the Pit)	undone	3
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	4
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	4
-Simon Jackoby	Helades	Drowned after falling into an underground river, sent in the Pit by Helades (reset by the Pit)	undone	4
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	4
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	4
+Simon	Helades	Drowned after falling into an underground river, sent in the Pit by Helades (reset by the Pit)	undone	4
 
-<6+> rats	Simon Jackoby	Stomped with leather boots by Simon Jackoby (previously known count) (reset by the Pit)	undone	5
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	5
-<1> goblin	Simon Jackoby	Impaled on a spear by Simon Jackoby (reset by the Pit)	undone	5
-<1> goblin	Simon Jackoby	Head cleaved in half with a sword by Simon Jackoby (reset by the Pit)	undone	5
-<1> goblin	Simon Jackoby	Kicked in the head and sent careening by Simon Jackoby (reset by the Pit)	undone	5
-Simon Jackoby	Helades	Stabbed in the gut, throat ripped out and devoured alive by goblins, sent in the Pit by Helades (reset by the Pit)	undone	5
+<6+> rats	Simon	Stomped with leather boots by Simon (previously known count) (reset by the Pit)	undone	5
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	5
+<1> goblin	Simon	Impaled on a spear by Simon (reset by the Pit)	undone	5
+<1> goblin	Simon	Head cleaved in half with a sword by Simon (reset by the Pit)	undone	5
+<1> goblin	Simon	Kicked in the head and sent careening by Simon (reset by the Pit)	undone	5
+Simon	Helades	Stabbed in the gut, throat ripped out and devoured alive by goblins, sent in the Pit by Helades (reset by the Pit)	undone	5
 
-<1> rat	Simon Jackoby	Skewered on a spear by Simon Jackoby (reset by the Pit)	undone	6
-<5+> rats	Simon Jackoby	Stomped with leather boots by Simon Jackoby (previously known count, minus 1 skewered) (reset by the Pit)	undone	6
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	6
-<1> goblin	Simon Jackoby	Shot in the skull with a crossbow by Simon Jackoby (reset by the Pit)	undone	6
-<1> goblin	Simon Jackoby	Cleaved in half with a sword by Simon Jackoby (reset by the Pit)	undone	6
-<1> goblin	Simon Jackoby	Skull cleaved with a sword by Simon Jackoby (reset by the Pit)	undone	6
-<3> skeletons	Simon Jackoby	Beheaded by Simon Jackoby (reset by the Pit)	undone	6
-<9> skeletons	Simon Jackoby	Slain by Simon Jackoby (12 mentioned, minus previous 3) (reset by the Pit)	undone	6
-Simon Jackoby	Helades	Impaled through the liver, stomach and the lungs by skeletons, sent in the Pit by Helades (reset by the Pit)	undone	6
+<1> rat	Simon	Skewered on a spear by Simon (reset by the Pit)	undone	6
+<5+> rats	Simon	Stomped with leather boots by Simon (previously known count, minus 1 skewered) (reset by the Pit)	undone	6
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	6
+<1> goblin	Simon	Shot in the skull with a crossbow by Simon (reset by the Pit)	undone	6
+<1> goblin	Simon	Cleaved in half with a sword by Simon (reset by the Pit)	undone	6
+<1> goblin	Simon	Skull cleaved with a sword by Simon (reset by the Pit)	undone	6
+<3> skeletons	Simon	Beheaded by Simon (reset by the Pit)	undone	6
+<9> skeletons	Simon	Slain by Simon (12 mentioned, minus previous 3) (reset by the Pit)	undone	6
+Simon	Helades	Impaled through the liver, stomach and the lungs by skeletons, sent in the Pit by Helades (reset by the Pit)	undone	6
 
-<1> goblin	Simon Jackoby	Shot with a crossbow by Simon Jackoby (reset by the Pit)	undone	7
-<1> goblin	Simon Jackoby	Beheaded with a sword by Simon Jackoby (reset by the Pit)	undone	7
-<6+> rats	Simon Jackoby	Stomped with leather boots by Simon Jackoby (previously known count) (reset by the Pit)	undone	7
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	7
-<2> goblins	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	7
-<1> goblin	Simon Jackoby	Head crushed against a wall by Simon Jackoby (reset by the Pit)	undone	7
-<3> goblins	Simon Jackoby	Slain by Simon Jackoby (6 mentioned, minus previous 3) (reset by the Pit)	undone	7
-Simon Jackoby	Simon Jackoby | Helades	Slit his own throat with a sword while impaled in the gut and frozen by a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	7
+<1> goblin	Simon	Shot with a crossbow by Simon (reset by the Pit)	undone	7
+<1> goblin	Simon	Beheaded with a sword by Simon (reset by the Pit)	undone	7
+<6+> rats	Simon	Stomped with leather boots by Simon (previously known count) (reset by the Pit)	undone	7
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	7
+<2> goblins	Simon	Slain by Simon (reset by the Pit)	undone	7
+<1> goblin	Simon	Head crushed against a wall by Simon (reset by the Pit)	undone	7
+<3> goblins	Simon	Slain by Simon (6 mentioned, minus previous 3) (reset by the Pit)	undone	7
+Simon	Simon | Helades	Slit his own throat with a sword while impaled in the gut and frozen by a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	7
 
-Simon Jackoby	Helades	Died of thirst or starvation, sent in the Pit by Helades (reset by the Pit)	undone	8
+Simon	Helades	Died of thirst or starvation, sent in the Pit by Helades (reset by the Pit)	undone	8
 
-Simon Jackoby	Helades	Died of thirst or starvation, sent in the Pit by Helades (reset by the Pit)	undone	9
+Simon	Helades	Died of thirst or starvation, sent in the Pit by Helades (reset by the Pit)	undone	9
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	10
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	10
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	10
-<1> rabbit	Simon Jackoby	Shot with a crossbow by Simon Jackoby (reset by the Pit)	undone	10
-Simon Jackoby	Helades	Froze to death while sleeping in the mountains, sent in the Pit by Helades (reset by the Pit)	undone	10
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	10
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	10
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	10
+<1> rabbit	Simon	Shot with a crossbow by Simon (reset by the Pit)	undone	10
+Simon	Helades	Froze to death while sleeping in the mountains, sent in the Pit by Helades (reset by the Pit)	undone	10
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	11
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	11
-<1> goblin	Simon Jackoby	Slain in an ambush by Simon Jackoby (reset by the Pit)	undone	11
-<15+> skeletons	Simon Jackoby	Skulls crushed with a mace by Simon Jackoby (half of previously known count) (reset by the Pit)	undone	11
-<15+> skeletons	Simon Jackoby	Skulls crushed with a mace by Simon Jackoby (rest of previously known count) (reset by the Pit)	undone	11
-Simon Jackoby	Helades	Run through with a sword by a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	11
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	11
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	11
+<1> goblin	Simon	Slain in an ambush by Simon (reset by the Pit)	undone	11
+<15+> skeletons	Simon	Skulls crushed with a mace by Simon (half of previously known count) (reset by the Pit)	undone	11
+<15+> skeletons	Simon	Skulls crushed with a mace by Simon (rest of previously known count) (reset by the Pit)	undone	11
+Simon	Helades	Run through with a sword by a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	11
 
-<72+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count * 12) (reset by the Pit)	undone	12-23
-<60+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count * 12) (reset by the Pit)	undone	12-23
-<72> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count * 12) (reset by the Pit)	undone	12-23
-<360+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count * 12) (reset by the Pit)	undone	12-23
-{12} Simon Jackoby	Helades	Killed several times in a duel against a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	12-23
+<72+> rats	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
+<60+> bats	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
+<72> goblins	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
+<360+> skeletons	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
+{12} Simon	Helades	Killed several times in a duel against a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	12-23
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	24
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	24
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	24
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	24
-<1> skeleton knight	Simon Jackoby	Beheaded with a sword by Simon Jackoby (reset by the Pit)	undone	24
-Simon Jackoby	Helades	Suffocated while being devoured alive by a slime, sent in the Pit by Helades (reset by the Pit)	undone	24
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	24
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	24
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	24
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	24
+<1> skeleton knight	Simon	Beheaded with a sword by Simon (reset by the Pit)	undone	24
+Simon	Helades	Suffocated while being devoured alive by a slime, sent in the Pit by Helades (reset by the Pit)	undone	24
 
-<1> goblin	Simon Jackoby	Shot in the head with a crossbow by Simon Jackoby (reset by the Pit)	undone	25
-<1> goblin	Simon Jackoby	Cleaved in half with a sword by Simon Jackoby (reset by the Pit)	undone	25
-<1> goblin	Simon Jackoby	Shot in the belly with a crossbow by Simon Jackoby (reset by the Pit)	undone	25
-<5+> goblins	Simon Jackoby	Slain by Simon Jackoby (minimum counted) (reset by the Pit)	undone	25
-<1> goblin	Simon Jackoby	Shot with a crossbow by Simon Jackoby (reset by the Pit)	undone	25
-<1> goblin	Simon Jackoby	Shot with a crossbow by Simon Jackoby (reset by the Pit)	undone	25
-<1> goblin shaman	Simon Jackoby	Shot in the chest with a crossbow by Simon Jackoby (reset by the Pit)	undone	25
-<4+> goblins	Simon Jackoby	Incinerated with magic by Simon Jackoby (half of 7 mentioned) (reset by the Pit)	undone	25
-Simon Jackoby	Helades	Bled out after being stabbed by a goblin, sent in the Pit by Helades (reset by the Pit)	undone	25
+<1> goblin	Simon	Shot in the head with a crossbow by Simon (reset by the Pit)	undone	25
+<1> goblin	Simon	Cleaved in half with a sword by Simon (reset by the Pit)	undone	25
+<1> goblin	Simon	Shot in the belly with a crossbow by Simon (reset by the Pit)	undone	25
+<5+> goblins	Simon	Slain by Simon (minimum counted) (reset by the Pit)	undone	25
+<1> goblin	Simon	Shot with a crossbow by Simon (reset by the Pit)	undone	25
+<1> goblin	Simon	Shot with a crossbow by Simon (reset by the Pit)	undone	25
+<1> goblin shaman	Simon	Shot in the chest with a crossbow by Simon (reset by the Pit)	undone	25
+<4+> goblins	Simon	Incinerated with magic by Simon (half of 7 mentioned) (reset by the Pit)	undone	25
+Simon	Helades	Bled out after being stabbed by a goblin, sent in the Pit by Helades (reset by the Pit)	undone	25
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	26
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	26
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	26
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	26
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	26
-<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	26
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	26
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	26
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	26
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	26
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	26
+<1> slime	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	26
 <7,128+> Schwartzenbruck inhabitants		Murdered and/or bitten by zombies (count taken from run 34) (reset by the Pit)	undone	26
-<1> zombie	Simon Jackoby	Skull cracked with a mace by Simon Jackoby (reset by the Pit)	undone	26
-Simon Jackoby	Brenna | Helades	Bled out after being impaled on a pitchfork by Brenna, sent in the Pit by Helades (reset by the Pit)	undone	26
+<1> zombie	Simon	Skull cracked with a mace by Simon (reset by the Pit)	undone	26
+Simon	Brenna | Helades	Bled out after being impaled on a pitchfork by Brenna, sent in the Pit by Helades (reset by the Pit)	undone	26
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	27
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	27
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	27
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	27
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	27
-<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	27
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	27
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	27
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	27
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	27
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	27
+<1> slime	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	27
 <7,128+> Schwartzenbruck inhabitants		Murdered and/or bitten by zombies (count taken from run 34) (reset by the Pit)	undone	27
 <9> people		Murdered by zombies (count of bodies) (reset by the Pit)	undone	27
 Olggen		Turned into a zombie (reset by the Pit)	undead | undone	27
 Olggen	Freya	Turned into a zombie and put down by Freya (reset by the Pit)	undone	27
 Brenna	Freya	Stabbed in the neck in self-defense by Freya (reset by the Pit)	undone	27
-<1> zombie	Simon Jackoby	Face caved in by Simon Jackoby (reset by the Pit)	undone	27
-<2> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	27
-<1> zombie	Simon Jackoby	Crushed with a mace by Simon Jackoby (reset by the Pit)	undone	27
-<2+> zombies	Simon Jackoby | Freya	Crushed against a wall by a table shoved by Simon Jackoby and Freya (plural) (reset by the Pit)	undone	27
+<1> zombie	Simon	Face caved in by Simon (reset by the Pit)	undone	27
+<2> zombies	Simon	Slain by Simon (reset by the Pit)	undone	27
+<1> zombie	Simon	Crushed with a mace by Simon (reset by the Pit)	undone	27
+<2+> zombies	Simon | Freya	Crushed against a wall by a table shoved by Simon and Freya (plural) (reset by the Pit)	undone	27
 Freya		Trapped in a basement by zombies and died of carbon monoxide poisoning (reset by the Pit)	undone	27
-Simon Jackoby	Helades	Trapped in a basement by zombies and died of carbon monoxide poisoning, sent in the Pit by Helades (reset by the Pit)	undone	27
+Simon	Helades	Trapped in a basement by zombies and died of carbon monoxide poisoning, sent in the Pit by Helades (reset by the Pit)	undone	27
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	28
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	28
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	28
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	28
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	28
-<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	28
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	28
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	28
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	28
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	28
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	28
+<1> slime	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	28
 <7,128+> Schwartzenbruck inhabitants		Murdered and/or bitten by zombies (count taken from run 34) (reset by the Pit)	undone	28
-<1> zombie	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	28
-<4> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	28
+<1> zombie	Simon	Head crushed with a mace by Simon (reset by the Pit)	undone	28
+<4> zombies	Simon	Slain by Simon (reset by the Pit)	undone	28
 Olggen		Bitten and turned into a zombie (reset by the Pit)	undead | undone	28
 Olggen	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	28
 Freya	Olggen | Brenna	Bitten by Olggen while used as a human shield by Brenna and turned into a zombie (reset by the Pit)	undead | undone	28
 Freya	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	28
 Brenna	Olggen	Bitten by Olggen and turned into a zombie (reset by the Pit)	undead | undone	28
-Brenna	Simon Jackoby	Turned into a zombie and head smashed into a counter by Simon Jackoby (reset by the Pit)	undone	28
-Simon Jackoby	Brenna | Helades	Turned into a zombie after being bitten on the neck by Brenna, sent in the Pit by Helades (reset by the Pit)	undead | undone	28
-Gotrick	Simon Jackoby	Devoured by Simon Jackoby as a zombie, then turned as well (reset by the Pit)	undead | undone	28
+Brenna	Simon	Turned into a zombie and head smashed into a counter by Simon (reset by the Pit)	undone	28
+Simon	Brenna | Helades	Turned into a zombie after being bitten on the neck by Brenna, sent in the Pit by Helades (reset by the Pit)	undead | undone	28
+Gotrick	Simon	Devoured by Simon as a zombie, then turned as well (reset by the Pit)	undead | undone	28
 <400+> people		Bitten and turned into zombies (hundreds mentioned twice) (reset by the Pit)	undead | undone	28
 <200+> zombies		Slain by a band of adventurers (hundreds mentioned) (reset by the Pit)	undone	28
-<5> adventurers		Devoured by zombies (count taken from run 34) (reset by the Pit)	undone	28
+<4> adventurers		Devoured by zombies (count taken from run 34, minus Kell) (reset by the Pit)	undone	28
+Kell		Devoured by zombies (reset by the Pit)	undone	28
 <200+> zombies		Eventually whittled down by farmers and villagers (hundreds mentioned) (reset by the Pit)	undone	28
-<3+> people	Simon Jackoby	Devoured by Simon Jackoby as a zombie (several mentioned) (reset by the Pit)	undone	28
-Simon Jackoby	Helades	Put down with a fire spell by a mage, sent in the Pit by Helades (reset by the Pit)	undone	28
+<3+> people	Simon	Devoured by Simon as a zombie (several mentioned) (reset by the Pit)	undone	28
+Simon	Helades	Put down with a fire spell by a mage, sent in the Pit by Helades (reset by the Pit)	undone	28
 
-Simon Jackoby	Helades	Impaled with multiple shards of a broken mirror by Helades (reset by the Pit)	undone	29
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	29
-<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	29
+Simon	Helades	Impaled with multiple shards of a broken mirror by Helades (reset by the Pit)	undone	29
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	29
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	29
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	29
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	29
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	29
+<1> slime	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	29
 <7,128+> Schwartzenbruck inhabitants		Murdered and/or bitten by zombies (count taken from run 34) (reset by the Pit)	undone	29
-<2> zombies	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	29
+<2> zombies	Simon	Head crushed with a mace by Simon (reset by the Pit)	undone	29
 Olggen		Presumably bitten and turned into a zombie (reset by the Pit)	undead | undone	29
 Olggen	Brenna | Freya	Presumably turned into a zombie and put down by either Brenna or Freya (reset by the Pit)	undone	29
 Freya	Brenna	Presumably bitten and put down or bled out while fighting Brenna (reset by the Pit)	undone	29
 Brenna	Freya	Presumably bitten and put down or bled out while fighting Freya (reset by the Pit)	undone	29
+<10,000+> Ionar inhabitants	Simon???	Perished in a volcano eruption caused by Simon??? (count taken from run 43) (reset by the Pit)	undone	29
 <6+> people		Mauled by an owlbear (half a dozen mentioned) (reset by the Pit)	undone	29
 <2> horses		Mauled by an owlbear (reset by the Pit)	undone	29
-Simon Jackoby	Helades	Impaled through the heart with a sword by a ghost, sent in the Pit by Helades (reset by the Pit)	undone	29
+Simon	Helades	Impaled through the heart with a sword by a ghost, sent in the Pit by Helades (reset by the Pit)	undone	29
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	30
-<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	30
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	30
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	30
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	30
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	30
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	30
+<1> slime	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	30
 <7,128+> Schwartzenbruck inhabitants		Murdered and/or bitten by zombies (count taken from run 34) (reset by the Pit)	undone	30
-<1> zombie	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	30
+<1> zombie	Simon	Head crushed with a mace by Simon (reset by the Pit)	undone	30
 Brenna	Olggen	Bitten by Olggen and turned into a zombie (reset by the Pit)	undead | undone	30
-Brenna	Simon Jackoby	Turned into a zombie and face crushed with a mace by Simon Jackoby (reset by the Pit)	undone	30
+Brenna	Simon	Turned into a zombie and face crushed with a mace by Simon (reset by the Pit)	undone	30
 Olggen		Bitten and turned into a zombie (reset by the Pit)	undead | undone	30
 Olggen	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	30
 Freya	Olggen | Brenna	Bitten by Olggen while used as a human shield by Brenna and turned into a zombie (reset by the Pit)	undead | undone	30
 Freya	Brenna	Put down by Brenna after turning into a zombie (reset by the Pit)	undone	30
-<8> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	30
+<8> zombies	Simon	Slain by Simon (reset by the Pit)	undone	30
+<10,000+> Ionar inhabitants	Simon???	Perished in a volcano eruption caused by Simon??? (count taken from run 43) (reset by the Pit)	undone	30
 <6+> people		Mauled by an owlbear (previously known count) (reset by the Pit)	undone	30
 <2> horses		Mauled by an owlbear (previously known count) (reset by the Pit)	undone	30
-<1> owlbear	Simon Jackoby	Impaled on a pike and then spinal cord severed with a sword by Simon Jackoby (reset by the Pit)	undone	30
-Andronican	Simon Jackoby	Shot in the left lung with a crossbow by Simon Jackoby (reset by the Pit)	undone	30
+<1> owlbear	Simon	Impaled on a pike and then spinal cord severed with a sword by Simon (reset by the Pit)	undone	30
+Andronican	Simon	Shot in the left lung with a crossbow by Simon (reset by the Pit)	undone	30
 <3+> people		Frozen to death by the mage's blue orb (several mentioned) (reset by the Pit)	undone	30
 <3> family members		Died from the Black Plague (reset by the Pit)	undone	30
 <200+> Hurag inhabitants		Died from the Black Plague (count taken from run 33) (reset by the Pit)	undone	30
-<1> lizardman	Simon Jackoby	Beheaded with a sword by Simon Jackoby (reset by the Pit)	undone	30
-<3+> lizardmen	Simon Jackoby	Cut into pieces with a sword by Simon Jackoby (several mentioned) (reset by the Pit)	undone	30
-<6+> lizardman eggs	Simon Jackoby	Stomped on by Simon Jackoby (half a dozen mentioned) (reset by the Pit)	undone	30
+<1> lizardman	Simon	Beheaded with a sword by Simon (reset by the Pit)	undone	30
+<3+> lizardmen	Simon	Cut into pieces with a sword by Simon (several mentioned) (reset by the Pit)	undone	30
+<6+> lizardman eggs	Simon	Stomped on by Simon (half a dozen mentioned) (reset by the Pit)	undone	30
 <3+> warriors		Petrified by a basilisk (several mentioned) (reset by the Pit)	undone	30
-Simon Jackoby	Helades	Skull crushed by a basilisk after being petrified for decades by it, sent in the Pit by Helades (reset by the Pit)	undone	30
+Simon	Helades	Skull crushed by a basilisk after being petrified for decades by it, sent in the Pit by Helades (reset by the Pit)	undone	30
 
-<1> fish	Simon Jackoby	Suffocated after being fished out of water by Simon Jackoby (reset by the Pit)	undone	31
-<1> goblin	Simon Jackoby	Head cracked with a fishing pole by Simon Jackoby (reset by the Pit)	undone	31
-<1> goblin	Simon Jackoby	Stabbed with a dagger by Simon Jackoby (reset by the Pit)	undone	31
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	31
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	31
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	31
-<6> bandits	Simon Jackoby	Incinerated with magic and finished off with a sword by Simon Jackoby (8 mentioned, minus Luken and the feral boy) (reset by the Pit)	undone	31
-Simon Jackoby	Helades	Assassinated in his sleep with a meat cleaver by an innkeeper, sent in the Pit by Helades (reset by the Pit)	undone	31
+<1> fish	Simon	Suffocated after being fished out of water by Simon (reset by the Pit)	undone	31
+<1> goblin	Simon	Head cracked with a fishing pole by Simon (reset by the Pit)	undone	31
+<1> goblin	Simon	Stabbed with a dagger by Simon (reset by the Pit)	undone	31
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	31
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	31
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	31
+<6> bandits	Simon	Incinerated with magic and finished off with a sword by Simon (8 mentioned, minus Luken and the feral boy) (reset by the Pit)	undone	31
+Simon	Helades	Assassinated in his sleep with a meat cleaver by an innkeeper, sent in the Pit by Helades (reset by the Pit)	undone	31
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
-Luken	Simon Jackoby	Stabbed in the heart with a dagger by Simon Jackoby (reset by the Pit)	undone	32
-<6> bandits	Simon Jackoby	Incinerated with magic and finished off with a sword by Simon Jackoby (previously known count) (reset by the Pit)	undone	32
-<1> goblin	Simon Jackoby | Baron Corwin	Decapitated with a sword by Simon Jackoby on orders from Baron Corwin (reset by the Pit)	undone	32
-<1> goblin	Simon Jackoby | Baron Corwin	Run through with a sword by Simon Jackoby on orders from Baron Corwin (reset by the Pit)	undone	32
-<1> goblin	Simon Jackoby | Baron Corwin	Skull with a shield by Simon Jackoby on orders from Baron Corwin (reset by the Pit)	undone	32
-<2> goblins	Gregor Corwin III | Simon Jackoby | Baron Corwin	Slain by Gregor Corwin III while distracted by Simon Jackoby, on orders from Baron Corwin (reset by the Pit)	undone	32
-<24+> goblins	Simon Jackoby | Baron Corwin	Suffocated via smoke inhalation in their cave due to Simon Jackoby's fire on orders from Baron Corwin (dozens mentioned) (reset by the Pit)	undone	32
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	32
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	32
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	32
+Luken	Simon	Stabbed in the heart with a dagger by Simon (reset by the Pit)	undone	32
+<6> bandits	Simon	Incinerated with magic and finished off with a sword by Simon (previously known count) (reset by the Pit)	undone	32
+<1> goblin	Simon | Baron Corwin	Decapitated with a sword by Simon on orders from Baron Corwin (reset by the Pit)	undone	32
+<1> goblin	Simon | Baron Corwin	Run through with a sword by Simon on orders from Baron Corwin (reset by the Pit)	undone	32
+<1> goblin	Simon | Baron Corwin	Skull with a shield by Simon on orders from Baron Corwin (reset by the Pit)	undone	32
+<2> goblins	Gregor Corwin III | Simon | Baron Corwin	Slain by Gregor Corwin III while distracted by Simon, on orders from Baron Corwin (reset by the Pit)	undone	32
+<24+> goblins	Simon | Baron Corwin	Suffocated via smoke inhalation in their cave due to Simon's fire on orders from Baron Corwin (dozens mentioned) (reset by the Pit)	undone	32
 King Brin		Died of an illness (reset by the Pit)	undone	32
 <2,000+> people	King Brin's Son | King Brin's Brother	Died during the Succession War between the King's son and the King's brother (thousands mentioned in run 36)	undone	32
 <1> messenger	King Brin's Son	Beheaded by the King Brin's Son's army (reset by the Pit)	undone	32
-<1> dark-haired axe wielder	Simon Jackoby | Baron Corwin	Stabbed in the gut with a sword by Simon Jackoby, fighting as Baron Corwin's man (reset by the Pit)	undone	32
-<6+> men	Simon Jackoby | Baron Corwin	Incinerated with magic by Simon Jackoby, fighting as Baron Corwin's man (several mentioned twice) (reset by the Pit)	undone	32
-Simon Jackoby	Martem | Viktor | Baron Corwin | Helades	Stabbed in the back and the side after using magic by Martem and Viktor, Baron Corwin's men, sent in the Pit by Helades (reset by the Pit)	undone	32
+<1> dark-haired axe wielder	Simon | Baron Corwin	Stabbed in the gut with a sword by Simon, fighting as Baron Corwin's man (reset by the Pit)	undone	32
+<6+> men	Simon | Baron Corwin	Incinerated with magic by Simon, fighting as Baron Corwin's man (several mentioned twice) (reset by the Pit)	undone	32
+Simon	Martem | Viktor | Baron Corwin | Helades	Stabbed in the back and the side after using magic by Martem and Viktor, Baron Corwin's men, sent in the Pit by Helades (reset by the Pit)	undone	32
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	33
-<1> slime	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	33
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	33
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	33
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	33
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	33
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	33
+<1> slime	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	33
 <7,128+> Schwartzenbruck inhabitants		Murdered and/or bitten by zombies (count taken from run 34) (reset by the Pit)	undone	33
-<2> zombies	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	33
-<2> zombies	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	33
+<2> zombies	Simon	Head crushed with a mace by Simon (reset by the Pit)	undone	33
+<2> zombies	Simon	Slain by Simon (reset by the Pit)	undone	33
 Olggen		Bitten and turned into a zombie (reset by the Pit)	undead | undone	33
 Olggen	Freya	Turned into a zombie and put down by Freya (reset by the Pit)	undone	33
 Brenna	Freya	Stabbed in the neck in self-defense by Freya (reset by the Pit)	undone	33
 Kurtz		Bitten and turned into a zombie (reset by the Pit)	undead | undone	33
-Kurtz	Simon Jackoby	Turned into a zombie and skull crushed with a mace by Simon Jackoby (reset by the Pit)	undone	33
-<1> bitten man	Simon Jackoby	Skull crushed with a mace by Simon Jackoby (reset by the Pit)	undone	33
-<6+> hobgoblins	Simon Jackoby | Trav | Baron Raithewait	Slain by Simon Jackoby and five men, including Trav, sent by Baron Raithewait (half a dozen mentioned) (reset by the Pit)	undone	33
-<6> centaurs	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and a dozen men, sent by Baron Raithewait (9 mentioned, 3 survived) (reset by the Pit)	undone	33
+Kurtz	Simon	Turned into a zombie and skull crushed with a mace by Simon (reset by the Pit)	undone	33
+<1> bitten man	Simon	Skull crushed with a mace by Simon (reset by the Pit)	undone	33
+<6+> hobgoblins	Simon | Trav | Baron Raithewait	Slain by Simon and five men, including Trav, sent by Baron Raithewait (half a dozen mentioned) (reset by the Pit)	undone	33
+<6> centaurs	Simon | Baron Raithewait	Slain by Simon and a dozen men, sent by Baron Raithewait (9 mentioned, 3 survived) (reset by the Pit)	undone	33
 <2> Baron Raithewait's men		Slain by centaurs (reset by the Pit)	undone	33
-<3+> bandits	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
-<3+> gnoll raiders	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
-<3+> goblins	Simon Jackoby | Baron Raithewait	Slain by Simon Jackoby and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
+<3+> bandits	Simon | Baron Raithewait	Slain by Simon and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
+<3+> gnoll raiders	Simon | Baron Raithewait	Slain by Simon and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
+<3+> goblins	Simon | Baron Raithewait	Slain by Simon and several men, sent by Baron Raithewait (several mentioned) (reset by the Pit)	undone	33
 <3+> house occupants		Slaughtered by goblins (several mentioned) (reset by the Pit)	undone	33
-<150+> orcs	Simon Jackoby | Baron Raithewait	Shot with arrows and stabbed with spears during a siege, defense led by Simon Jackoby on orders from Baron Raithewait (half of 300 mentioned) (reset by the Pit)	undone	33
-<150+> orcs	Baron Raithewait | Simon Jackoby	Slain by Baron Raithewait's knights as part of Simon Jackoby's plan (other half of 300 mentioned) (reset by the Pit)	undone	33
+<150+> orcs	Simon | Baron Raithewait	Shot with arrows and stabbed with spears during a siege, defense led by Simon on orders from Baron Raithewait (half of 300 mentioned) (reset by the Pit)	undone	33
+<150+> orcs	Baron Raithewait | Simon	Slain by Baron Raithewait's knights as part of Simon's plan (other half of 300 mentioned) (reset by the Pit)	undone	33
 <36+> Baron Raithewait's knights		Slain by orcs (several dozens mentioned) (reset by the Pit)	undone	33
 <1> Baron Raithewait's man		Vital organ punctured by goblins (reset by the Pit)	undone	33
 Freya	Varten Raithewait	Suffered a stroke while hitting her head on a table after being struck by Varten Raithewait (reset by the Pit)	undone	33
 Simon and Freya's unborn child	Varten Raithewait	Died alongside its mother when she was killed by Varten Raithewait (reset by the Pit)	undone	33
-Mitchel	Simon Jackoby	Suffocated after having his throat stomped on by Simon Jackoby (reset by the Pit)	undone	33
-Keldin	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	33
-Garrek	Simon Jackoby	Incinerated with magic and beheaded by Simon Jackoby (reset by the Pit)	undone	33
-<3> Baron Raithewait's men	Simon Jackoby	Incinerated with magic by Simon Jackoby (5 mentioned, minus Garrek and Keldin) (reset by the Pit)	undone	33
-<1> Baron Raithewait's man	Simon Jackoby	Run through with a sword by Simon Jackoby (reset by the Pit)	undone	33
-Baron Raithewait	Simon Jackoby	Shot in the chest with a crossbow by Simon Jackoby (reset by the Pit)	undone	33
-Varten Raithewait	Simon Jackoby	Skull struck with an axe by Simon Jackoby (reset by the Pit)	undone	33
-<1> ewe	Simon Jackoby	Shot with a longbow by Simon Jackoby (reset by the Pit)	undone	33
-<1> troll	Simon Jackoby	Trapped inside a burning house by Simon Jackoby (reset by the Pit)	undone	33
-<1> orc	Simon Jackoby	Heart fried with lightning magic by Simon Jackoby (reset by the Pit)	undone	33
-<1> biggest orc	Simon Jackoby	Struck with lightning magic by Simon Jackoby (reset by the Pit)	undone	33
-<6+> orcs	Simon Jackoby	Struck with lightning magic by Simon Jackoby (dozen mentioned, minus others) (reset by the Pit)	undone	33
-<1> orc	Simon Jackoby	Struck down with a sword by Simon Jackoby (reset by the Pit)	undone	33
-<1> orc	Simon Jackoby	Run through with a sword by Simon Jackoby (reset by the Pit)	undone	33
-<1> orc	Simon Jackoby	Stabbed in the heart with a sword by Simon Jackoby (reset by the Pit)	undone	33
-<1> orc	Simon Jackoby	Disemboweled with a sword by Simon Jackoby (reset by the Pit)	undone	33
+Mitchel	Simon	Suffocated after having his throat stomped on by Simon (reset by the Pit)	undone	33
+Keldin	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	33
+Garrek	Simon	Incinerated with magic and beheaded by Simon (reset by the Pit)	undone	33
+<3> Baron Raithewait's men	Simon	Incinerated with magic by Simon (5 mentioned, minus Garrek and Keldin) (reset by the Pit)	undone	33
+<1> Baron Raithewait's man	Simon	Run through with a sword by Simon (reset by the Pit)	undone	33
+Baron Raithewait	Simon	Shot in the chest with a crossbow by Simon (reset by the Pit)	undone	33
+Varten Raithewait	Simon	Skull struck with an axe by Simon (reset by the Pit)	undone	33
+<1> ewe	Simon	Shot with a longbow by Simon (reset by the Pit)	undone	33
+<10,000+> Ionar inhabitants	Simon???	Perished in a volcano eruption caused by Simon??? (count taken from run 43) (reset by the Pit)	undone	33
+<1> troll	Simon	Trapped inside a burning house by Simon (reset by the Pit)	undone	33
+<1> orc	Simon	Heart fried with lightning magic by Simon (reset by the Pit)	undone	33
+<1> biggest orc	Simon	Struck with lightning magic by Simon (reset by the Pit)	undone	33
+<6+> orcs	Simon	Struck with lightning magic by Simon (dozen mentioned, minus others) (reset by the Pit)	undone	33
+<1> orc	Simon	Struck down with a sword by Simon (reset by the Pit)	undone	33
+<1> orc	Simon	Run through with a sword by Simon (reset by the Pit)	undone	33
+<1> orc	Simon	Stabbed in the heart with a sword by Simon (reset by the Pit)	undone	33
+<1> orc	Simon	Disemboweled with a sword by Simon (reset by the Pit)	undone	33
 <24+> Rivenwood inhabitants		Slain by orcs (dozens mentioned) (reset by the Pit)	undone	33
 <9+> family members		Frozen to death by the mage's blue orb (several mentioned several times) (reset by the Pit)	undone	33
 <1> mage		Frozen to death by the blue orb he was working on (reset by the Pit)	undone	33
 <1> maid		Frozen to death by the mage's blue orb (reset by the Pit)	undone	33
 <1> footman		Frozen to death by the mage's blue orb (reset by the Pit)	undone	33
 <200+> Hurag inhabitants		Died from the Black Plague (hundreds mentioned) (reset by the Pit)	undone	33
-<1> chicken	Simon Jackoby	Beheaded by Simon Jackoby (reset by the Pit)	undone	33
+<1> chicken	Simon	Beheaded by Simon (reset by the Pit)	undone	33
 <1> Robin Klarr's master		Died from the Black Plague (reset by the Pit)	undone	33
 <3+> Robin Klarr's patients		Died from the Black Plague (several mentioned) (reset by the Pit)	undone	33
 <3+> people		Petrified and devoured by a basilisk (several mentioned) (reset by the Pit)	undone	33
 <1> bird		Petrified by a basilisk and fell out of the sky (reset by the Pit)	undone	33
-<1> basilisk	Simon Jackoby	Beheaded and disemboweled by Simon Jackoby (reset by the Pit)	undone	33
-<24+> people	Simon Jackoby	Petrified by a basilisk, then shattered and heads broken as a mercy by Simon Jackoby (two dozens mentioned) (reset by the Pit)	undone	33
-Simon Jackoby	Simon Jackoby | Helades	Died of old age after unknowingly using his own life force as a source of magic, sent in the Pit by Helades (reset by the Pit)	undone	33
+<1> basilisk	Simon	Beheaded and disemboweled by Simon (reset by the Pit)	undone	33
+<24+> people	Simon	Petrified by a basilisk, then shattered and heads broken as a mercy by Simon (two dozens mentioned) (reset by the Pit)	undone	33
+Simon	Simon | Helades	Died of old age after unknowingly using his own life force as a source of magic, sent in the Pit by Helades (reset by the Pit)	undone	33
 
-<6> rats	Simon Jackoby	Slain by Simon Jackoby (reset by the Pit)	undone	34
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	34
-<6> goblins	Simon Jackoby	Shot with arrows by Simon Jackoby (previously known count) (reset by the Pit)	undone	34
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	34
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	34
-<1> zombie	Simon Jackoby	Beheaded with a sword by Simon Jackoby (reset by the Pit)	undone	34
-<2> zombies	Simon Jackoby	Head crushed with a mace by Simon Jackoby (reset by the Pit)	undone	34
+<6> rats	Simon	Slain by Simon (reset by the Pit)	undone	34
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	34
+<6> goblins	Simon	Shot with arrows by Simon (previously known count) (reset by the Pit)	undone	34
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	34
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	34
+<1> zombie	Simon	Beheaded with a sword by Simon (reset by the Pit)	undone	34
+<2> zombies	Simon	Head crushed with a mace by Simon (reset by the Pit)	undone	34
 Brenna	Olggen	Bitten by Olggen and turned into a zombie (reset by the Pit)	undead | undone	34
-Brenna	Simon Jackoby	Turned into a zombie and face crushed with a mace by Simon Jackoby (reset by the Pit)	undone	34
+Brenna	Simon	Turned into a zombie and face crushed with a mace by Simon (reset by the Pit)	undone	34
 Olggen		Presumably bitten and turned into a zombie (reset by the Pit)	undead | undone	34
 Olggen	Brenna	Presumably put down by Brenna after turning into a zombie (reset by the Pit)	undone	34
 Freya	Olggen | Brenna	Presumably bitten by Olggen while used as a human shield by Brenna and turned into a zombie (reset by the Pit)	undead | undone	34
 Freya	Brenna	Presumably put down by Brenna after turning into a zombie (reset by the Pit)	undone	34
-<6> zombies	Simon Jackoby	Bludgeoned with a mace by Simon Jackoby (reset by the Pit)	undone	34
-<3+> zombies	Simon Jackoby	Head sliced off by Simon Jackoby (several mentioned) (reset by the Pit)	undone	34
-<18+> zombies	Simon Jackoby	Devoured by a slime brought by Simon Jackoby (half a dozen mentioned several times) (reset by the Pit)	undone	34
+<6> zombies	Simon	Bludgeoned with a mace by Simon (reset by the Pit)	undone	34
+<3+> zombies	Simon	Head sliced off by Simon (several mentioned) (reset by the Pit)	undone	34
+<18+> zombies	Simon	Devoured by a slime brought by Simon (half a dozen mentioned several times) (reset by the Pit)	undone	34
 <7,128+> Schwartzenbruck inhabitants		Murdered and/or bitten by zombies (Simon states the 72 people he saved is about 1% of the town's original population) (reset by the Pit)	undone	34
-<2> Schwartzenbruck's dwindling survivors	Simon Jackoby	Bitten by zombies and pushed into the horde with magic by Simon Jackoby (reset by the Pit)	undone	34
-<1> mercenary	Simon Jackoby	Bitten by zombies and pushed into the horde with magic by Simon Jackoby (reset by the Pit)	undone	34
-<3+> zombies	Simon Jackoby	Head crushed with a mace by Simon Jackoby (several mentioned) (reset by the Pit)	undone	34
-Simon Jackoby	Helades	Crushed to death by hundreds of pounds of stones in a trap, sent in the Pit by Helades (reset by the Pit)	undone	34
+<2> Schwartzenbruck's dwindling survivors	Simon	Bitten by zombies and pushed into the horde with magic by Simon (reset by the Pit)	undone	34
+<1> mercenary	Simon	Bitten by zombies and pushed into the horde with magic by Simon (reset by the Pit)	undone	34
+<3+> zombies	Simon	Head crushed with a mace by Simon (several mentioned) (reset by the Pit)	undone	34
+Simon	Simon | Simon??? | Helades	Crushed to death by hundreds of pounds of stones when he accidentally triggered a trap left by Simon???, sent in the Pit by Helades (reset by the Pit)	undone	34
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	35
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	35
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	35
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	35
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	35
-<1> carrion crawler	Simon Jackoby	Shot three times with a crossbow by Simon Jackoby (reset by the Pit)	undone	35
-<3+> plants	Simon Jackoby	Frozen with magic by Simon Jackoby (several mentioned) (reset by the Pit)	undone	35
-<3+> plants	Simon Jackoby	Incinerated with magic by Simon Jackoby (several mentioned) (reset by the Pit)	undone	35
-Simon Jackoby	Helades	Paralyzed and devoured alive by a blossom, sent in the Pit by Helades (reset by the Pit)	undone	35
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	35
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	35
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	35
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	35
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	35
+<1> carrion crawler	Simon	Shot three times with a crossbow by Simon (reset by the Pit)	undone	35
+<3+> plants	Simon	Frozen with magic by Simon (several mentioned) (reset by the Pit)	undone	35
+<3+> plants	Simon	Incinerated with magic by Simon (several mentioned) (reset by the Pit)	undone	35
+Simon	Helades	Paralyzed and devoured alive by a blossom, sent in the Pit by Helades (reset by the Pit)	undone	35
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	36
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	36
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	36
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	36
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	36
-<1> carrion crawler	Simon Jackoby	Crushed with magic by Simon Jackoby (reset by the Pit)	undone	36
-<1> wyvern	Simon Jackoby	Fell to its death after having its wing sliced off with magic by Simon Jackoby (reset by the Pit)	undone	36
-<1> elk	Simon Jackoby	Fell to its death after it was carried away by a wyvern that was shot out of the sky by Simon Jackoby (reset by the Pit)	undone	36
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	36
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	36
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	36
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	36
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	36
+<1> carrion crawler	Simon	Crushed with magic by Simon (reset by the Pit)	undone	36
+<1> wyvern	Simon	Fell to its death after having its wing sliced off with magic by Simon (reset by the Pit)	undone	36
+<1> elk	Simon	Fell to its death after it was carried away by a wyvern that was shot out of the sky by Simon (reset by the Pit)	undone	36
 <3+> people		Murdered by goblins (reset by the Pit)	undone	36
 <1> goblin	Kurtz	Bludgeoned with a piece of wood by Kurtz (reset by the Pit)	undone	36
-<3+> goblins	Simon Jackoby	Slain by Simon Jackoby (all mentioned) (reset by the Pit)	undone	36
+<3+> goblins	Simon	Slain by Simon (all mentioned) (reset by the Pit)	undone	36
 King Brin		Died of an illness (reset by the Pit)	undone	36
 Baron Corwin	King Brin's Son | King Brin's Brother	Died during the Succession War between the King's son and the King's brother, succeeded by his son Gregor III (reset by the Pit)	undone	36
 <2,000+> people	King Brin's Son | King Brin's Brother	Died during the Succession War between the King's son and the King's brother (thousands mentioned)	undone	36
-<3> highwaymen	Simon Jackoby	Beheaded by Simon Jackoby (reset by the Pit)	undone	36
-<1> young troll	Simon Jackoby	Incinerated with magic by Simon Jackoby (reset by the Pit)	undone	36
-<4> fire elementals	Simon Jackoby	Extinguished with an ice sword by Simon Jackoby (reset by the Pit)	undone	36
-Simon Jackoby	Helades	Incinerated in molten lava by a fire creature, sent in the Pit by Helades (reset by the Pit)	undone	36
+<3> highwaymen	Simon	Beheaded by Simon (reset by the Pit)	undone	36
+<1> young troll	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	36
+<10,000+> Ionar inhabitants	Simon???	Perished in a volcano eruption caused by Simon??? (count taken from run 43) (reset by the Pit)	undone	36
+<4> fire elementals	Simon	Extinguished with an ice sword by Simon (reset by the Pit)	undone	36
+Simon	Brogan | Helades	Incinerated in molten lava by Brogan, sent in the Pit by Helades (reset by the Pit)	undone	36
 
-<2> trouts	Simon Jackoby	Fished and gutted by Simon Jackoby (reset by the Pit)	undone	37
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	37
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	37
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	37
-King Brin's Brother	Simon Jackoby	Struck by lightning cast by Simon Jackoby (reset by the Pit)	undone	37
-<1> guard	Simon Jackoby	Struck by lightning cast by Simon Jackoby (reset by the Pit)	undone	37
+<2> trouts	Simon	Fished and gutted by Simon (reset by the Pit)	undone	37
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	37
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	37
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	37
+King Brin's Brother	Simon	Struck by lightning cast by Simon (reset by the Pit)	undone	37
+<1> guard	Simon	Struck by lightning cast by Simon (reset by the Pit)	undone	37
 <2> guards	Nedden	Murdered by goblins, left to die by Nedden (reset by the Pit)	undone	37
 Nedden	Baron Corwin	Hanged on orders from Baron Corwin (reset by the Pit)	undone	37
-<29+> goblins	Simon Jackoby | Baron Corwin	Smoked out of their cave by Simon Jackoby or already slain by one of Baron Corwin's men (previously known count from run 32) (reset by the Pit)	undone	37
+<29+> goblins	Simon | Baron Corwin	Smoked out of their cave by Simon or already slain by one of Baron Corwin's men (previously known count from run 32) (reset by the Pit)	undone	37
 King Brin		Died of an illness (reset by the Pit)	undone	37
-Earl Greyden	Simon Jackoby	Slain with magic by Simon Jackoby (reset by the Pit)	undone	37
-<3+> Earl Greyden's men	Simon Jackoby	Slain with magic by Simon Jackoby (several mentioned) (reset by the Pit)	undone	37
+Earl Greyden	Simon	Slain with magic by Simon (reset by the Pit)	undone	37
+<3+> Earl Greyden's men	Simon	Slain with magic by Simon (several mentioned) (reset by the Pit)	undone	37
 Baron Corwin	Earl Greyden	Shot with several crossbow bolts in an ambush setup by Earl Greyden (reset by the Pit)	undone	37
 <4> other barons	Earl Greyden	Shot with several crossbow bolts in an ambush setup by Earl Greyden (5 mentioned minus Baron Corwin) (reset by the Pit)	undone	37
 <4> other barons' bodyguards	Earl Greyden	Shot with several crossbow bolts in an ambush setup by Earl Greyden (5 mentioned minus Simon) (reset by the Pit)	undone	37
-Simon Jackoby	Earl Greyden | Helades	Impaled through the liver with a sword by one of Earl Greyden's men, sent in the Pit by Helades (reset by the Pit)	undone	37
+Simon	Earl Greyden | Helades	Impaled through the liver with a sword by one of Earl Greyden's men, sent in the Pit by Helades (reset by the Pit)	undone	37
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	38
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	38
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	38
-<1> mountain goat	Simon Jackoby	Pushed off a mountain and throat slit by Simon Jackoby (reset by the Pit)	undone	38
-<8> goblins	Gregor Corwin III | Simon Jackoby | Baron Corwin	Slain by Gregor Corwin III and Simon Jackoby, on orders from Baron Corwin (reset by the Pit)	undone	38
-<24+> goblins	Simon Jackoby | Baron Corwin	Suffocated via smoke inhalation in their cave due to Simon Jackoby's fire on orders from Baron Corwin (dozens mentioned) (reset by the Pit)	undone	38
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	38
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	38
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	38
+<1> mountain goat	Simon	Pushed off a mountain and throat slit by Simon (reset by the Pit)	undone	38
+<8> goblins	Gregor Corwin III | Simon | Baron Corwin	Slain by Gregor Corwin III and Simon, on orders from Baron Corwin (reset by the Pit)	undone	38
+<24+> goblins	Simon | Baron Corwin	Suffocated via smoke inhalation in their cave due to Simon's fire on orders from Baron Corwin (dozens mentioned) (reset by the Pit)	undone	38
 King Brin		Died of an illness (reset by the Pit)	undone	38
 King Brin's Son	King Brin's Brother	Assassinated on orders from King Brin's Brother (reset by the Pit)	undone	38
-<3+> defenders	Simon Jackoby	Blown up through shards and flinders by Simon Jackoby's force magic (reset by the Pit)	undone	38
-<1> man	Simon Jackoby	Drowned after being shoved in a moat by Simon Jackoby (reset by the Pit)	undone	38
-<1> man	Simon Jackoby	Stabbed in the throat with a dagger by Simon Jackoby (reset by the Pit)	undone	38
-<4> men	Simon Jackoby	Split apart by a swung drawbridge chain broken by Simon Jackoby (reset by the Pit)	undone	38
-Simon Jackoby	King Brin's Brother | Helades	Covered in molten tar and put out of his misery by King Brin's Brother's men, sent in the Pit by Helades (reset by the Pit)	undone	38
+<3+> defenders	Simon	Blown up through shards and flinders by Simon's force magic (reset by the Pit)	undone	38
+<1> man	Simon	Drowned after being shoved in a moat by Simon (reset by the Pit)	undone	38
+<1> man	Simon	Stabbed in the throat with a dagger by Simon (reset by the Pit)	undone	38
+<4> men	Simon	Split apart by a swung drawbridge chain broken by Simon (reset by the Pit)	undone	38
+Simon	King Brin's Brother | Helades	Covered in molten tar and put out of his misery by King Brin's Brother's men, sent in the Pit by Helades (reset by the Pit)	undone	38
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	39
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	39
-<6> goblins	Simon Jackoby	Slain by Simon Jackoby (previously known count) (reset by the Pit)	undone	39
-<1> goblin	Simon Jackoby	Crushed underneath his boots by Simon Jackoby (reset by the Pit)	undone	39
-<1> goblin	Simon Jackoby	Skull stabbed with a dagger by Simon Jackoby (reset by the Pit)	undone	39
-<1> goblin	Simon Jackoby	Face burned with a torch by Simon Jackoby (reset by the Pit)	undone	39
-<10+> goblins	Simon Jackoby	Slain with magic by Simon Jackoby (previously known count, minus already counted) (reset by the Pit)	undone	39
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	39
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	39
+<6> goblins	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	39
+<1> goblin	Simon	Crushed underneath his boots by Simon (reset by the Pit)	undone	39
+<1> goblin	Simon	Skull stabbed with a dagger by Simon (reset by the Pit)	undone	39
+<1> goblin	Simon	Face burned with a torch by Simon (reset by the Pit)	undone	39
+<10+> goblins	Simon	Slain with magic by Simon (previously known count, minus already counted) (reset by the Pit)	undone	39
 <12+> goblins	Baron Corwin	Slain by one of Baron Corwin's men (dozen mentioned) (reset by the Pit)	undone	39
-<4> goblins	Simon Jackoby	Slaughtered by Simon Jackoby (reset by the Pit)	undone	39
+<4> goblins	Simon	Slaughtered by Simon (reset by the Pit)	undone	39
 Trinna's husband		Died from unknown causes (reset by the Pit)	undone	39
-Simon Jackoby	Helades	Kicked on the side of the head by a skittish mule, sent in the Pit by Helades (reset by the Pit)	undone	39
+Simon	Helades	Kicked on the side of the head by a skittish mule, sent in the Pit by Helades (reset by the Pit)	undone	39
 
-<6+> rats	Simon Jackoby	Slain by Simon Jackoby (previously known count)
-<5+> bats	Simon Jackoby	Slain by Simon Jackoby (previously known count)
-<30+> skeletons	Simon Jackoby	Slain by Simon Jackoby (previously known count)
-<1> skeleton knight	Simon Jackoby	Slain by Simon Jackoby (previously known count)
-<1> carrion crawler	Simon Jackoby	Incinerated with magic by Simon Jackoby
-<1> owlbear	Simon Jackoby	Shot in the back of the head with an arrow by Simon Jackoby
-<1> owlbear	Simon Jackoby	Struck by lightning cast by Simon Jackoby
-<6+> people		Mauled by an owlbear (previously known count)
-<2> horses		Mauled by an owlbear (previously known count)
-Festauvian	Andronican	Murdered by Andronican
-<24+> men	Andronican	Murdered by Andronican using his golem (two dozens mentioned)
-<3+> children	Andronican	Sacrificed by Andronican using his golem (several mentioned)
-Andronican	Andronican | Simon Jackoby	Died of old age due to overuse of magic while fighting Simon Jackoby
-King Wilden Brin I		Died of natural causes
-King Wilden Brin II		Presumably died of natural causes
-Eddek		Murdered in a noble's intrigue
-<1> guard	Kaylee	Murdered by servants in a plot orchestrated by Kaylee
-<3+> guards	Kaylee	Murdered by servants in a plot orchestrated by Kaylee (several mentioned)
-<3+> nobles	Kaylee	Incinerated in a plot orchestrated by Kaylee (several mentioned)
-<1> servant	Simon Jackoby	Throat slit by Simon Jackoby
-<1> servant	Simon Jackoby	Run through the chest with a sword by Simon Jackoby
-<1> servant	Simon Jackoby	Struck on the head with an axe by Simon Jackoby
-<1> servant	Simon Jackoby	Beheaded with a sword by Simon Jackoby
-<1> servant	Simon Jackoby	Impaled with a sword and pushed by Simon Jackoby
-Captain Darnis		Died of a pox
-Saul		Died of a pox
-<3+> Sea Seraph crewmates		Died of a pox (several mentioned)
-<9+> people		Murdered by giant spiders (several mentioned several times)
-<1> giant spider	Simon Jackoby	Sliced in half with a cutlass by Simon Jackoby
-<24+> giant spiders	Simon Jackoby	Incinerated with magic by Simon Jackoby (dozens mentioned)
-<2+> chickens		Devoured by black swarmers (plural)
-<2+> goats		Devoured by black swarmers (plural)
-<1> black swarmer	Simon Jackoby	Swatted with a piece of firewood by Simon Jackoby
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	40
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	40
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	40
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	40
+<1> carrion crawler	Simon	Incinerated with magic by Simon (reset by the Pit)	undone	40
+<10,000+> Ionar inhabitants	Simon???	Perished in a volcano eruption caused by Simon??? (count taken from run 43) (reset by the Pit)	undone	40
+<1> owlbear	Simon	Shot in the back of the head with an arrow by Simon (reset by the Pit)	undone	40
+<1> owlbear	Simon	Struck by lightning cast by Simon (reset by the Pit)	undone	40
+<6+> people		Mauled by an owlbear (previously known count) (reset by the Pit)	undone	40
+<2> horses		Mauled by an owlbear (previously known count) (reset by the Pit)	undone	40
+Festauvian	Andronican	Murdered by Andronican (reset by the Pit)	undone	40
+<24+> men	Andronican	Murdered by Andronican using his golem (two dozens mentioned) (reset by the Pit)	undone	40
+<3+> children	Andronican	Sacrificed by Andronican using his golem (several mentioned) (reset by the Pit)	undone	40
+Andronican	Andronican | Simon	Died of old age due to overuse of magic while fighting Simon (reset by the Pit)	undone	40
+King Wilden Brin I		Died of natural causes (reset by the Pit)	undone	40
+King Wilden Brin II		Presumably died of natural causes (reset by the Pit)	undone	40
+Eddek		Murdered in a noble's intrigue (reset by the Pit)	undone	40
+<1> guard	Kaylee	Murdered by servants in a plot orchestrated by Kaylee (reset by the Pit)	undone	40
+<3+> guards	Kaylee	Murdered by servants in a plot orchestrated by Kaylee (several mentioned) (reset by the Pit)	undone	40
+<3+> nobles	Kaylee	Incinerated in a plot orchestrated by Kaylee (several mentioned) (reset by the Pit)	undone	40
+<1> servant	Simon	Throat slit by Simon (reset by the Pit)	undone	40
+<1> servant	Simon	Run through the chest with a sword by Simon (reset by the Pit)	undone	40
+<1> servant	Simon	Struck on the head with an axe by Simon (reset by the Pit)	undone	40
+<1> servant	Simon	Beheaded with a sword by Simon (reset by the Pit)	undone	40
+<1> servant	Simon	Impaled with a sword and pushed by Simon (reset by the Pit)	undone	40
+Captain Darnis		Died of the Weeping Pox (reset by the Pit)	undone	40
+Saul		Died of the Weeping Pox (reset by the Pit)	undone	40
+<3+> Sea Seraph crewmates		Died of the Weeping Pox (several mentioned) (reset by the Pit)	undone	40
+<9+> people		Murdered by giant spiders (several mentioned several times) (reset by the Pit)	undone	40
+<1> giant spider	Simon	Sliced in half with a cutlass by Simon (reset by the Pit)	undone	40
+<24+> giant spiders	Simon	Incinerated with magic by Simon (dozens mentioned) (reset by the Pit)	undone	40
+<1> black swarmer	Simon	Swatted with a piece of firewood by Simon (reset by the Pit)	undone	40
+<20,000+> black swarmers	Simon	Drained of their lifeforce with magic by Simon (tens of thousands mentioned) (reset by the Pit)	undone	40
+<3+> men		Murdered by centaurs in a raid (several mentioned) (reset by the Pit)	undone	40
+<3+> women		Murdered by centaurs in a raid (several mentioned) (reset by the Pit)	undone	40
+<3+> children		Murdered by centaurs in a raid (several mentioned) (reset by the Pit)	undone	40
+Baron Raithewait		Died from unknown causes, succeeded by his son Varten (reset by the Pit)	undone	40
+Varten Raithewait	Simon	Beheaded with magic by Simon (reset by the Pit)	undone	40
+<3+> Varten Raithewait's men	Simon	Beheaded with magic by Simon (several mentioned) (reset by the Pit)	undone	40
+Erik Raithewait		Died under mysterious circumstances (reset by the Pit)	undone	40
+<1> guard	Murphy Dreser	Crushed against the paving stones of a square by Murphy Dreser as a werewolf (reset by the Pit)	undone	40
+Murphy Dreser	Simon	Struck in the heart with a silver coin by Simon (reset by the Pit)	undone	40
+<2+> family members		Murdered by centaurs in a raid (plural) (reset by the Pit)	undone	40
+<1> woman		Murdered by centaurs in a raid (reset by the Pit)	undone	40
+<36+> family members		Murdered by centaurs in a raid (dozen families mentioned) (reset by the Pit)	undone	40
+<3+> people		Chopped into pieces (reset by the Pit)	undone	40
+<1> Aganian	Torrin	Beheaded with a blade by Torrin (reset by the Pit)	undone	40
+<1> Unspoken	Simon	Stabbed in the throat by Simon (reset by the Pit)	undone	40
+<1> Unspoken	Simon	Taken down by Simon (reset by the Pit)	undone	40
+Benna		Died of the blood sickness (reset by the Pit)	undone	40
+Aaric's other sister		Died of the blood sickness (reset by the Pit)	undone	40
+<1> ogre	Simon	Stabbed through the eye with a sword by Simon (reset by the Pit)	undone	40
+<3+> people		Devoured by an ogre (several mentioned) (reset by the Pit)	undone	40
+<3+> monsters	Anias	Slain by Anias (several mentioned) (reset by the Pit)	undone	40
+<1> dragon	Anias	Slain by Anias (reset by the Pit)	undone	40
+<1> innkeeper	Ice Fang	Incinerated by Ice Fang (reset by the Pit)	undone	40
+<3+> villagers	Ice Fang	Incinerated by Ice Fang (several mentioned) (reset by the Pit)	undone	40
+Simon	Ice Fang | Helades	Incinerated by Ice Fang, sent in the Pit by Helades (reset by the Pit)	undone	40
+
+<1> fish	Simon	Fished and cooked by Simon (reset by the Pit)	undone	41
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	41
+<6+> goblins	Simon	Head sliced off with magic by Simon (several mentioned twice) (reset by the Pit)	undone	41
+<5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	41
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	41
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	41
+<1> carrion crawler	Simon	Electrocuted with magic by Simon (reset by the Pit)	undone	41
+<10,000+> Ionar inhabitants	Simon???	Perished in a volcano eruption caused by Simon??? (count taken from run 43) (reset by the Pit)	undone	41
+<3+> spirits	Simon	Incinerated with magic by Simon (several mentioned) (reset by the Pit)	undone	41
+<1> widow		Murdered by spirits while visiting her husband's grave (reset by the Pit)	undone	41
+<1> widow's husband		Died from unknown causes and buried in a graveyard (reset by the Pit)	undone	41
+<3+> people	Blackheart	Murdered by Blackheart (several mentioned) (reset by the Pit)	undone	41
+{3} Blackheart		Slain by witch hunters three times and revived himself each time (reset by the Pit)	undone	41
+Blackheart		Executed by witch hunters who cut open his heart, buried in a graveyard, eventually dug out and burned to ashes (reset by the Pit)	undone	41
+<1> goblin	Simon	Head smashed by Simon (reset by the Pit)	undone	41
+<3+> goblins	Simon	Shot in the head with arrows by Simon (several mentioned) (reset by the Pit)	undone	41
+<2> servants	Simon	Cut down with a sword by Simon (reset by the Pit)	undone	41
+<1> servant	Simon	Blew himself up with fire magic while fighting Simon (reset by the Pit)	undone	41
+Eddek		Murdered in a noble's intrigue (reset by the Pit)	undone	41
+<3+> guards	Kaylee	Incinerated with magic by Kaylee (several mentioned) (reset by the Pit)	undone	41
+<3+> fish	Simon	Fished and cooked by Simon (several mentioned) (reset by the Pit)	undone	41
+<3+> plants	Simon	Purged with saltwater by Simon (several mentioned) (reset by the Pit)	undone	41
+<3+> large blossoms	Simon	Purged with saltwater by Simon (several mentioned) (reset by the Pit)	undone	41
+<1> main plant	Simon	Purged with saltwater by Simon (reset by the Pit)	undone	41
+<1> plump hare	Simon	Shot with a pebble by Simon (reset by the Pit)	undone	41
+Captain Darnis		Died of the Weeping Pox (reset by the Pit)	undone	41
+<1> spider god	Simon	Crushed in a cavern cave-in caused by Simon (reset by the Pit)	undone	41
+<24+> spiders	Simon	Crushed in a cavern cave-in caused by Simon (dozens mentioned) (reset by the Pit)	undone	41
+<3+> goblins		Murdered by giant spiders (several mentioned) (reset by the Pit)	undone	41
+<9+> people		Murdered by giant spiders (previously known count) (reset by the Pit)	undone	41
+Simon	Helades	Succumbed to deprivation while stuck in a cave, sent in the Pit by Helades (reset by the Pit)	undone	41
+
+<6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	42
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	42
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	42
+Riggs		Throat ripped out by a zombie (reset by the Pit)	undone	42
+<36+> zombies	Simon | Kell | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (3 dozens mentioned) (reset by the Pit)	undone	42
+<3> zombies	Simon | Kell | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (reset by the Pit)	undone	42
+<3+> zombies	Simon | Kell | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (several mentioned) (reset by the Pit)	undone	42
+Kell	Kell | Simon???	Buried in a collapsing tomb when he accidentally triggered a trap left by Simon??? (reset by the Pit)	undone	42
+<20+> centaurs	Simon	Cut in half with an invisible sword by Simon (count mentioned) (reset by the Pit)	undone	42
+<30+> men		Murdered by the centaurs (every ten mentioned) (reset by the Pit)	undone	42
+<60+> centaurs and gnolls	Simon	Slaughtered each other while being incinerated with magic and shot with arrows by Simon (count mentioned) (reset by the Pit)	undone	42
+<100+> centaur warriors	Simon	Slain by Simon (hundred mentioned) (reset by the Pit)	undone	42
+<118> centaur warriors	Simon | Bret | Jak	Slain by Simon and his band (reset by the Pit)	undone	42
+<54> colts	Simon | Bret | Jak	Slain by Simon and his band (reset by the Pit)	undone	42
+<36+> mares	Simon | Bret | Jak	Slain by Simon and his band (3 dozens mentioned) (reset by the Pit)	undone	42
+Baron Raithewait		Died from unknown causes, succeeded by his son Varten (reset by the Pit)	undone	42
+Varten Raithewait	Simon	Stabbed through the chest with a longsword by Simon (reset by the Pit)	undone	42
+<50+> centaur warriors	Simon | Bret | Jak	Shot with crossbow bolts by Simon and his band (half of a hundred mentioned) (reset by the Pit)	undone	42
+<1,000+> centaurs	Simon | Bret | Jak	Slain by Simon and his band during his second campaign as the Regent-General of the Raithewait Barony (reset by the Pit)	undone	42
+<5> condemned men	Simon	Hanged at the gallows on orders from Simon (reset by the Pit)	undone	42
+<1> minor lord	Simon	Hanged on orders from Simon (reset by the Pit)	undone	42
+<3> orcs	Simon | Bret | Jak	Slain by Simon and his band (reset by the Pit)	undone	42
+<3> orcs	Simon | Bret | Jak	Peppered with crossbow bolts by Simon and his band (reset by the Pit)	undone	42
+<2> men		Struck with lightning by an orc shaman (reset by the Pit)	undone	42
+<1> orc shaman	Simon	Struck with lightning magic by Simon (reset by the Pit)	undone	42
+<5+> orcs	Simon	Struck with lightning magic by Simon (half of 10 mentioned) (reset by the Pit)	undone	42
+<1> orc hunter	Simon | Bret | Jak	Slain by Simon and his band (reset by the Pit)	undone	42
+Varten Raithewait II		Died of a sickness (reset by the Pit)	undone	42
+Simon	Helades	Garrotted by a messenger party sent by the King, sent in the Pit by Helades (reset by the Pit)	undone	42
+
+<1> snake	Simon	Beheaded by Simon
+<2+> fat trouts	Simon	Fished and cooked by Simon (plural)
+Brul	Simon	Bisected with magic by Simon
+<15+> goblins	Simon	Slain by Simon (30 ears mentioned)
+<30+> skeletons	Simon	Slain by Simon (previously known count)
+<1> skeleton knight	Simon	Slain by Simon (previously known count)
+<1> sun-dried zombie	Simon	Struck down with a sword by Simon
+<3+> zombies	Simon	Slain by Simon (several mentioned)
+<6+> Butcher's Bill members		Murdered by zombies (dozen minus 5 survivors and Kell)
+Kell		Bitten and turned into a zombie	undead
+Kell	Garth | Simon	Put down by the Butcher's Bill members on orders from Simon
+Hodge		Bitten and turned into a zombie	undead
+Hodge	Garth | Simon	Put down with several sword stabs by the Butcher's Bill members on orders from Simon
+<1> chicken	Simon	Drained of its lifeforce using magic by Simon
+<1> chicken	Simon	Hunted and cooked by Simon
+<3+> zombies	Simon	Put down by Simon (several mentioned)
+<3> zombies	Daisy	Kicked in the head by Daisy
+<1> zombie	Simon	Head bashed in by Simon
+<3+> zombies	Simon	Put down by Simon (several mentioned)
+<3+> bandits	Simon	Murdered by Simon (several mentioned)
+<2+> beast men	Simon	Slain by Simon (plural)
+<1,000+> goblins	Simon	Slain during his first 43 runs by Simon (count mentioned)
+Andus		Died from natural causes
+<1> assassin	Simon	Brained with a candle stick by Simon
+<1> assassin	Simon	Beheaded with force magic by Simon
+<1> zombie	Simon	Put down by Simon
+<3+> villagers		Devoured by the black swarmers (several mentioned)
+<2,000+> black swarmers		Perished after their attack (thousands mentioned)
+<12+> Unspoken	Simon	Sliced into pieces with force magic by Simon (dozen mentioned)
+<1> Unspoken	Simon	Shot with arrows by Simon
+<24+> dragons	Anias	Slain by Anias in his lifetime (dozens mentioned)
+<1> innkeeper	Ice Fang	Incinerated by Ice Fang
+<3+> villagers	Ice Fang	Incinerated by Ice Fang (several mentioned)
+Ice Fang	Anias	Slain by Anias and his group
+<1> archer	Simon	Struck with lightning magic by Simon
+<2> archers	Simon	Struck with lightning magic by Simon
+<1> warrior	Simon	Beheaded with a sword by Simon
+<1> swordsman	Simon	Hand cut off and impaled through the head with a sword by Simon
+Trenton	Simon	Cut in half from clavicle to groin with a sword by Simon
+<2> men	Simon	Incinerated with fire magic by Simon
+<1> fleeing man	Simon	Struck with lightning magic by Simon
+
+
+
+
 
 
 

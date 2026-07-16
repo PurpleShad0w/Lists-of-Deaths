@@ -106,6 +106,7 @@ Chassanah
 Goliri Ardat
 Alachi Gotrum
 Andir Kazinski
+Kilnfather
 
 
 
@@ -114,6 +115,9 @@ deaths prior to loop :
 <1> Cirin woman's husband		Died during the Weeping Plague	
 <2> Cirin woman's sons		Died during the Weeping Plague	
 Sherden-Anixua Zenich	Oganj	Murdered in an ambush by Oganj	
+Manani Weshekari		Presumably perished during a deep Dungeon expedition	
+Sakelus Arexino		Shot via gunfire during the Splinter Wars	
+Isek Kalko		Vaporized in an explosion alongside a royal palace by an unknown group	
 Aldwin Rofoltin		Passed away from natural causes	
 Fria Tverinov		Died during the Weeping Plague	
 Shutur-Tarana Ihilkush		Presumably died of natural causes	
@@ -129,7 +133,9 @@ Sudomir Kandrei's wife		Died during the Weeping Plague
 <3+> people		Slaughtered each other while trapped within a Black Room (group mentioned)	
 Namira Tverinov		Died during the Weeping Plague	
 Kael Tverinov's mother		Died in childbirth	
-Awan-Temti Khumbastir
+Awan-Temti Khumbastir		Died from unknown causes	
+<12+> people	Sudomir Kandrei	Slowly tortured to death by Sudomir Kandrei in order to acquire soul perception (dozen mentioned)	
+
 
 
 
@@ -391,53 +397,65 @@ end of loop 93
 <2> giant eagles	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Slain by Quatach-Ichl during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc		94
 <2,000+> Cyoria residents	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Murdered during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc (thousands mentioned)		94
 end of loop 94
-{3+} Zorian Kazinski	Zorian Kazinski	Simulacrums created and dispelled by the original (several mentioned)	alternate	95-101
-<1> grey hunter	Zorian Kazinski | Zach Noveda	Slain by Zorian Kazinski and Zach Noveda after biting Zorian		95-101
-<1> grey hunter	Zorian Kazinski | Zach Noveda	Slain by Zorian Kazinski and Zach Noveda after breaking Zach's legs		95-101
-<1> grey hunter	Zach Noveda | Zorian Kazinski	Frozen by Zach Noveda, shredded by Zorian Kazinski and blown up by his golems		95-101
-Zorian Kazinski	Zorian Kazinski	Simulacrum dissolved himself into smoke after the grey hunter's death	alternate	95-101
-Zorian Kazinski	Zorian Kazinski	Simulacrum sent mapping the local underworld and dispelled by the original	alternate	95-101
-Zorian Kazinski	Zorian Kazinski	Simulacrum sent to arrange a trade deal with araneas and dispelled by the original	alternate	95-101
-{2+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy to attend class and dispelled by the original (plural)	alternate	95-101
-<14,000+> Cyoria residents	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Murdered during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc (thousands mentioned per loop)		95-101
+{3+} Zorian Kazinski	Zorian Kazinski	Simulacrums created and dispelled by the original (several mentioned)	alternate	95-100
+<1> grey hunter	Zorian Kazinski | Zach Noveda	Slain by Zorian Kazinski and Zach Noveda after biting Zorian		95-100
+<1> grey hunter	Zorian Kazinski | Zach Noveda	Slain by Zorian Kazinski and Zach Noveda after breaking Zach's legs		95-100
+<1> grey hunter	Zach Noveda | Zorian Kazinski	Frozen by Zach Noveda, shredded by Zorian Kazinski and blown up by his golems		95-100
+Zorian Kazinski	Zorian Kazinski	Simulacrum dissolved himself into smoke after the grey hunter's death	alternate	95-100
+Zorian Kazinski	Zorian Kazinski	Simulacrum sent mapping the local underworld and dispelled by the original	alternate	95-100
+Zorian Kazinski	Zorian Kazinski	Simulacrum sent to arrange a trade deal with araneas and dispelled by the original	alternate	95-100
+{2+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy to attend class and dispelled by the original (plural)	alternate	95-100
+<12,000+> Cyoria residents	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Murdered during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc (thousands mentioned per loop)		95-100
+end of loop 100
+Zach Noveda	Alanic Zosk | Zach Noveda	Soul ejected from body by Alanic Zosk with his consent as part of soul awareness training, triggered Zach's Marker		101
 end of loop 101
-Zach Noveda	Alanic Zosk | Zach Noveda	Soul ejected from body by Alanic Zosk with his consent as part of soul awareness training, triggered Zach's Marker		102
+{2+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy, interacting with Neolu, and dispelled by the original (plural)	alternate	102
+{2+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy, interacting with Akoja, and dispelled by the original (plural)	alternate	102
+Zorian Kazinski	Zorian Kazinski	Simulacrum sent to Koth and eventually dispelled by the original	alternate	102
+<6+> hook goblins	Zorian Kazinski	Slain by Ibasan mages as part of Zorian Kazinski's plan (3 waves mentioned)		102
+<2+> war trolls	Zach Noveda	Frozen into statues by Zach Noveda (plural)		102
 <2,000+> Cyoria residents	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Murdered during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc (thousands mentioned)		102
 end of loop 102
-{2+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy, interacting with Neolu, and dispelled by the original (plural)	alternate	103
-{2+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy, interacting with Akoja, and dispelled by the original (plural)	alternate	103
+{3+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy and eventually dispelled by the original (several mentioned)	alternate	103
 Zorian Kazinski	Zorian Kazinski	Simulacrum sent to Koth and eventually dispelled by the original	alternate	103
-<6+> hook goblins	Zorian Kazinski	Slain by Ibasan mages as part of Zorian Kazinski's plan (3 waves mentioned)		103
-<2+> war trolls	Zach Noveda	Frozen into statues by Zach Noveda (plural)		103
-<2,000+> Cyoria residents	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Murdered during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc (thousands mentioned)		103
+<1> chameleon drake	Zorian Kazinski	Hit in the mouth by a force lance by Zorian Kazinski		103
+<3+> chameleon drakes	Daimen Kazinski	Slain with magic missiles by Daimen Kazinski (several mentioned)		103
+<3+> chameleon drakes	Zach Noveda	Sliced apart with black swords by Zach Noveda (several mentioned)		103
+<3+> chameleon drakes	Daimen Kazinski	Blown up in a minefield setup by Daimen Kazinski and his group (several mentioned)		103
+<3+> chameleon drakes	Zach Noveda	Impaled with stone shards by Zach Noveda (several mentioned)		103
+<3+> chameleon drakes	Zach Noveda	Insides liquefied with red light by Zach Noveda (several mentioned)		103
+Goliri Ardat		Bitten in half by a hydra		103
+<1> hydra	Daimen Kazinski | Orissa Siqi Taramatula | Kirma | Torun | Chassanah | Goliri Ardat | Alachi Gotrum | Zorian Kazinski | Zach Noveda	Fatally wounded as a combined effort of Daimen Kazinski's group, Zorian Kazinski and Zach Noveda		103
+<12> Sudomir Kandrei's bodyguards	Zorian Kazinski | Zach Noveda	Massacred by Zorian Kazinski and Zach Noveda		103
+{3+} Zorian Kazinski	Zorian Kazinski	Simulacrums created and eventually dispelled by the original (all mentioned)	alternate	103
+<3+> Ibasan brown dogs	Zorian Kazinski	Assassinated and replaced with copies by Zorian Kazinski (several mentioned)		103
+<1> red centipede		Bludgeoned by Ibasan war trolls		103
+<3+> Ibasan leaders	Zorian Kazinski | Zach Noveda	Massacred by Zorian Kazinski and Zach Noveda (several mentioned)		103
+<9> soldiers		Slain by Ibasan forces (15 mentioned, minus 6 survivors)		103
+<1> mage	Zorian Kazinski	Struck in the face with a force lance by Zorian Kazinski's Simulacrum		103
+<3+> Ibasan soldiers	Zorian Kazinski	Sliced apart with buzzing spells by Zorian Kazinski's Simulacrum (several mentioned)		103
+<1> Ibasan commander	Zorian Kazinski	Stabbed in the eye by one of his subordinates who was puppeteered by Zorian Kazinski's Simulacrum		103
+Zorian Kazinski		Simulacrum torn through with a volley of spells sent by Ibasan mages	alternate	103
+<100+> soldiers, mercenaries and araneas		Slain by the Ibasan forces (half of 200+ mentioned)		103
+Zorian Kazinski	Zorian Kazinski	Simulacrum left in Cyoria and eventually dispelled by the original	alternate	103
+Zorian Kazinski	Zorian Kazinski	Simulacrum left in the Taramatula estate and eventually dispelled by the original	alternate	103
 end of loop 103
-{3+} Zorian Kazinski	Zorian Kazinski	Simulacrums sent to the Academy and eventually dispelled by the original (several mentioned)	alternate	104
+<5> chameleon drakes	Zach Noveda	Slaughtered by Zach Noveda		104
 Zorian Kazinski	Zorian Kazinski	Simulacrum sent to Koth and eventually dispelled by the original	alternate	104
-<1> chameleon drake	Zorian Kazinski	Hit in the mouth by a force lance by Zorian Kazinski		104
-<3+> chameleon drakes	Daimen Kazinski	Slain with magic missiles by Daimen Kazinski (several mentioned)		104
-<3+> chameleon drakes	Zach Noveda	Sliced apart with black swords by Zach Noveda (several mentioned)		104
-<3+> chameleon drakes	Daimen Kazinski	Blown up in a minefield setup by Daimen Kazinski and his group (several mentioned)		104
-<3+> chameleon drakes	Zach Noveda	Impaled with stone shards by Zach Noveda (several mentioned)		104
-<3+> chameleon drakes	Zach Noveda	Insides liquefied with red light by Zach Noveda (several mentioned)		104
-Goliri Ardat		Bitten in half by a hydra		104
-<1> hydra	Daimen Kazinski | Orissa Siqi Taramatula | Kirma | Torun | Chassanah | Goliri Ardat | Alachi Gotrum | Zorian Kazinski | Zach Noveda	Fatally wounded as a combined effort of Daimen Kazinski's group, Zorian Kazinski and Zach Noveda		104
-<12> Sudomir Kandrei's bodyguards	Zorian Kazinski | Zach Noveda	Massacred by Zorian Kazinski and Zach Noveda		104
-{3+} Zorian Kazinski	Zorian Kazinski	Simulacrums created and eventually dispelled by the original (all mentioned)	alternate	104
-<3+> Ibasan brown dogs	Zorian Kazinski	Assassinated and replaced with copies by Zorian Kazinski (several mentioned)		104
-<1> red centipede		Bludgeoned by Ibasan war trolls		104
-<3+> Ibasan leaders	Zorian Kazinski | Zach Noveda	Massacred by Zorian Kazinski and Zach Noveda (several mentioned)		104
-<9> soldiers		Slain by Ibasan forces (15 mentioned, minus 6 survivors)		104
-<1> mage	Zorian Kazinski	Struck in the face with a force lance by Zorian Kazinski's Simulacrum		104
-<3+> Ibasan soldiers	Zorian Kazinski	Sliced apart with buzzing spells by Zorian Kazinski's Simulacrum (several mentioned)		104
-<1> Ibasan commander	Zorian Kazinski	Stabbed in the eye by one of his subordinates who was puppeteered by Zorian Kazinski's Simulacrum		104
-Zorian Kazinski		Simulacrum torn through with a volley of spells sent by Ibasan mages	alternate	104
-<100+> soldiers, mercenaries and araneas		Slain by the Ibasan forces (half of 200+ mentioned)		104
-Zorian Kazinski	Zorian Kazinski	Simulacrum left in Cyoria and eventually dispelled by the original	alternate	104
-Zorian Kazinski	Zorian Kazinski	Simulacrum left in the Taramatula estate and eventually dispelled by the original	alternate	104
+<2,000+> Cyoria residents	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Murdered during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc (thousands mentioned)		104
 end of loop 104
-
-
-
+<14,000+> Cyoria residents	Quatach-Ichl | Sudomir Kandrei | Vatimah Tinc	Murdered during the Attack on Cyoria led by Quatach-Ichl, Sudomir Kandrei and Vatimah Tinc (thousands mentioned per loop)		105-111
+end of loop 111
+Zorian Kazinski	Zorian Kazinski	Simulacrum sent to Koth
+Zorian Kazinski	Zorian Kazinski	Simulacrum made to create a prototype cannon
+Zorian Kazinski		Simulacrum mangled beyond repair by a grey hunter	alternate	112
+<1> grey hunter	Zorian Kazinski | Zach Noveda	Crystallized after being shot in the head with crystal ooze essence bullets by Zorian Kazinski's Simulacrums, while distracted by the original and Zach Noveda		112
+{3} Zorian Kazinski	Zorian Kazinski	Simulacrums created to fight a grey hunter
+<2> giant brown salamanders	Silverlake	Slain and butchered by Silverlake		112
+Zorian Kazinski	Zorian Kazinski	Simulacrum sent to raid the Academy library
+Zorian Kazinski	Zorian Kazinski	Simulacrum sent to arrange a trade deal with a minor expert
+{2} Zorian Kazinski	Zorian Kazinski	Simulacrums made to upgrade the golem frames
+Zorian Kazinski	Zorian Kazinski	Simulacrum made to work on mental enhancements
 
 
 
