@@ -472,7 +472,7 @@ Captain Darnis		Died of the Weeping Pox (reset by the Pit)	undone	41
 <24+> spiders	Simon	Crushed in a cavern cave-in caused by Simon (dozens mentioned) (reset by the Pit)	undone	41
 <3+> goblins		Murdered by giant spiders (several mentioned) (reset by the Pit)	undone	41
 <9+> people		Murdered by giant spiders (previously known count) (reset by the Pit)	undone	41
-Simon	Helades	Succumbed to deprivation while stuck in a cave, sent in the Pit by Helades (reset by the Pit)	undone	41
+Simon	Simon | Helades	Succumbed to deprivation while stuck in a cave he collapsed, sent in the Pit by Helades (reset by the Pit)	undone	41
 
 <6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	42
 <30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	42
@@ -504,49 +504,55 @@ Varten Raithewait	Simon	Stabbed through the chest with a longsword by Simon (res
 Varten Raithewait II		Died of a sickness (reset by the Pit)	undone	42
 Simon	Helades	Garrotted by a messenger party sent by the King, sent in the Pit by Helades (reset by the Pit)	undone	42
 
-<1> snake	Simon	Beheaded by Simon
-<2+> fat trouts	Simon	Fished and cooked by Simon (plural)
-Brul	Simon	Bisected with magic by Simon
-<15+> goblins	Simon	Slain by Simon (30 ears mentioned)
+<1> snake	Simon	Beheaded by Simon (reset by the Pit)	undone	43
+<2+> fat trouts	Simon	Fished and cooked by Simon (plural) (reset by the Pit)	undone	43
+Brul	Simon	Bisected with magic by Simon (reset by the Pit)	undone	43
+<15+> goblins	Simon	Slain by Simon (30 ears mentioned) (reset by the Pit)	undone	43
+<30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	43
+<1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	43
+<1> sun-dried zombie	Simon	Struck down with a sword by Simon (reset by the Pit)	undone	43
+<3+> zombies	Simon	Slain by Simon (several mentioned) (reset by the Pit)	undone	43
+<6+> Butcher's Bill members		Murdered by zombies (dozen minus 5 survivors and Kell) (reset by the Pit)	undone	43
+Kell		Bitten and turned into a zombie (reset by the Pit)	undead | undone	43
+Kell	Garth | Simon	Put down by the Butcher's Bill members on orders from Simon (reset by the Pit)	undone	43
+Hodge		Bitten and turned into a zombie (reset by the Pit)	undead | undone	43
+Hodge	Garth | Simon	Put down with several sword stabs by the Butcher's Bill members on orders from Simon (reset by the Pit)	undone	43
+<1> chicken	Simon	Drained of its lifeforce using magic by Simon (reset by the Pit)	undone	43
+<1> chicken	Simon	Hunted and cooked by Simon (reset by the Pit)	undone	43
+<3+> zombies	Simon	Put down by Simon (several mentioned) (reset by the Pit)	undone	43
+<3> zombies	Daisy	Kicked in the head by Daisy (reset by the Pit)	undone	43
+<1> zombie	Simon	Head bashed in by Simon (reset by the Pit)	undone	43
+<3+> zombies	Simon	Put down by Simon (several mentioned) (reset by the Pit)	undone	43
+<3+> bandits	Simon	Murdered by Simon (several mentioned) (reset by the Pit)	undone	43
+<2+> beast men	Simon	Slain by Simon (plural) (reset by the Pit)	undone	43
+<1,000+> goblins	Simon	Slain during his first 43 runs by Simon (count mentioned) (reset by the Pit)	undone	1-43
+Andus		Died from natural causes (reset by the Pit)	undone	43
+<1> assassin	Simon	Brained with a candle stick by Simon (reset by the Pit)	undone	43
+<1> assassin	Simon	Beheaded with force magic by Simon (reset by the Pit)	undone	43
+<1> zombie	Simon	Put down by Simon (reset by the Pit)	undone	43
+<3+> villagers		Devoured by the black swarmers (several mentioned) (reset by the Pit)	undone	43
+<2,000+> black swarmers		Perished after their attack (thousands mentioned) (reset by the Pit)	undone	43
+<12+> Unspoken	Simon	Sliced into pieces with force magic by Simon (dozen mentioned) (reset by the Pit)	undone	43
+<1> Unspoken	Simon	Shot with arrows by Simon (reset by the Pit)	undone	43
+<24+> dragons	Anias	Slain by Anias in his lifetime (dozens mentioned) (reset by the Pit)	undone	43
+<1> innkeeper	Ice Fang	Incinerated by Ice Fang (reset by the Pit)	undone	43
+<3+> villagers	Ice Fang	Incinerated by Ice Fang (several mentioned) (reset by the Pit)	undone	43
+Ice Fang	Anias	Slain by Anias and his group (reset by the Pit)	undone	43
+<1> archer	Simon	Struck with lightning magic by Simon (reset by the Pit)	undone	43
+<5+> archers and warriors	Simon	Struck with lightning magic or stabbed with a sword by Simon (dozen mentioned, minus others and Trenton) (reset by the Pit)	undone	43
+<1> warrior	Simon	Beheaded with a sword by Simon (reset by the Pit)	undone	43
+<1> swordsman	Simon	Hand cut off and impaled through the head with a sword by Simon (reset by the Pit)	undone	43
+Trenton	Simon	Cut in half from clavicle to groin with a sword by Simon (reset by the Pit)	undone	43
+<2> men	Simon	Incinerated with fire magic by Simon (reset by the Pit)	undone	43
+<1> fleeing man	Simon	Struck with lightning magic by Simon (reset by the Pit)	undone	43
+Simon	Helades	Throat ripped out and blood drained by a vampire, sent in the Pit by Helades (reset by the Pit)	undone	43
+
 <30+> skeletons	Simon	Slain by Simon (previously known count)
 <1> skeleton knight	Simon	Slain by Simon (previously known count)
-<1> sun-dried zombie	Simon	Struck down with a sword by Simon
-<3+> zombies	Simon	Slain by Simon (several mentioned)
-<6+> Butcher's Bill members		Murdered by zombies (dozen minus 5 survivors and Kell)
-Kell		Bitten and turned into a zombie	undead
-Kell	Garth | Simon	Put down by the Butcher's Bill members on orders from Simon
-Hodge		Bitten and turned into a zombie	undead
-Hodge	Garth | Simon	Put down with several sword stabs by the Butcher's Bill members on orders from Simon
-<1> chicken	Simon	Drained of its lifeforce using magic by Simon
-<1> chicken	Simon	Hunted and cooked by Simon
-<3+> zombies	Simon	Put down by Simon (several mentioned)
-<3> zombies	Daisy	Kicked in the head by Daisy
-<1> zombie	Simon	Head bashed in by Simon
-<3+> zombies	Simon	Put down by Simon (several mentioned)
-<3+> bandits	Simon	Murdered by Simon (several mentioned)
-<2+> beast men	Simon	Slain by Simon (plural)
-<1,000+> goblins	Simon	Slain during his first 43 runs by Simon (count mentioned)
-Andus		Died from natural causes
-<1> assassin	Simon	Brained with a candle stick by Simon
-<1> assassin	Simon	Beheaded with force magic by Simon
-<1> zombie	Simon	Put down by Simon
-<3+> villagers		Devoured by the black swarmers (several mentioned)
-<2,000+> black swarmers		Perished after their attack (thousands mentioned)
-<12+> Unspoken	Simon	Sliced into pieces with force magic by Simon (dozen mentioned)
-<1> Unspoken	Simon	Shot with arrows by Simon
-<24+> dragons	Anias	Slain by Anias in his lifetime (dozens mentioned)
-<1> innkeeper	Ice Fang	Incinerated by Ice Fang
-<3+> villagers	Ice Fang	Incinerated by Ice Fang (several mentioned)
-Ice Fang	Anias	Slain by Anias and his group
-<1> archer	Simon	Struck with lightning magic by Simon
-<2> archers	Simon	Struck with lightning magic by Simon
-<1> warrior	Simon	Beheaded with a sword by Simon
-<1> swordsman	Simon	Hand cut off and impaled through the head with a sword by Simon
-Trenton	Simon	Cut in half from clavicle to groin with a sword by Simon
-<2> men	Simon	Incinerated with fire magic by Simon
-<1> fleeing man	Simon	Struck with lightning magic by Simon
-
-
+<1> undead	Simon	Put down with a mace by Simon
+<3+> undead	Simon	Put down with a mace by Simon (several mentioned)
+<1> rabbit	Simon	Hunted and cooked by Simon
+<1> fish	Simon	Hunted and cooked by Simon
 
 
 
