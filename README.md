@@ -6,6 +6,7 @@
 - - **reincarnated** - this death was nullified when the character was reborn with their memories.
 - - **undone**       - this death was nullified via time travel.
 - - **non-canon**    - this death happened, but is not considered canon when it comes to the character's status.
+- - **clone**        - this death happened to a clone or copy of a character.
 - - **alternate**    - this death happened to a different version of the character, usually within an alternate universe.
 - **dependent** - the character may or may not be deceased depending on certain factors.
 - - **determinant** - this death happening depends upon a player's choice.
@@ -28,7 +29,7 @@
 
 | universe                     | entry                                                                           | deaths              |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|
-| **\***                       | **\***                                                                          | **318,133,015,696** |
+| **\***                       | **\***                                                                          | **386,133,031,623** |
 | **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     |
@@ -100,6 +101,8 @@
 | Dr. Stone                    | Dr. Stone                                                                       | 19                  |
 | **Dragon's Dogma**           | **\***                                                                          | **3,934**           |
 | Dragon's Dogma               | Dragon's Dogma Dark Arisen                                                      | 3,934               |
+| **Déjà Vu**                  | **\***                                                                          | **68,000,015,927**  |
+| Déjà Vu                      | Do You Ever Get That Feeling of Déjà Vu                                         | 68,000,015,927      |
 | **Elden Ring**               | **\***                                                                          | **511**             |
 | Elden Ring                   | Elden Ring                                                                      | 511                 |
 | **Final Fantasy**            | **\***                                                                          | **235**             |
