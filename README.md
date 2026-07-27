@@ -29,7 +29,7 @@
 
 | universe                     | entry                                                                           | deaths              |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|
-| **\***                       | **\***                                                                          | **386,133,031,623** |
+| **\***                       | **\***                                                                          | **506,483,274,638** |
 | **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     |
@@ -101,8 +101,8 @@
 | Dr. Stone                    | Dr. Stone                                                                       | 19                  |
 | **Dragon's Dogma**           | **\***                                                                          | **3,934**           |
 | Dragon's Dogma               | Dragon's Dogma Dark Arisen                                                      | 3,934               |
-| **Déjà Vu**                  | **\***                                                                          | **68,000,015,927**  |
-| Déjà Vu                      | Do You Ever Get That Feeling of Déjà Vu                                         | 68,000,015,927      |
+| **Déjà Vu**                  | **\***                                                                          | **188,350,258,942** |
+| Déjà Vu                      | Do You Ever Get That Feeling of Déjà Vu                                         | 188,350,258,942     |
 | **Elden Ring**               | **\***                                                                          | **511**             |
 | Elden Ring                   | Elden Ring                                                                      | 511                 |
 | **Final Fantasy**            | **\***                                                                          | **235**             |
