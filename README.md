@@ -29,7 +29,7 @@
 
 | universe                     | entry                                                                           | deaths              |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|
-| **\***                       | **\***                                                                          | **506,483,274,638** |
+| **\***                       | **\***                                                                          | **558,277,886,860** |
 | **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     |
@@ -170,6 +170,9 @@
 | Monster Hunter               | Monster Hunter World Iceborne / Event Quests                                    | 269                 |
 | Monster Hunter               | Monster Hunter World Iceborne / Optional Quests                                 | 384                 |
 | Monster Hunter               | Monster Hunter World Iceborne / Special Assignments                             | 15                  |
+| **Mother of Learning**       | **\***                                                                          | **51,794,612,222**  |
+| Mother of Learning           | Mother of Learning                                                              | 50,986,610,566      |
+| Mother of Learning           | Mother of Learning The AU Chapters                                              | 808,001,656         |
 | **Nasuverse**                | **\***                                                                          | **1,180,239,447**   |
 | Nasuverse                    | Fate / Apocrypha                                                                | 31                  |
 | Nasuverse                    | Fate / Grand Order / -First Order-                                              | 7                   |
