@@ -8,7 +8,7 @@ King Wilden Brin I / King Brin
 Duke Brin / King Brin's Brother
 King Wilden Brin II / King Brin's Son / Prince Brin
 Anias / Red Knight
-Freya / Frey
+Freya / Frey / Red Widow
 Simon / Simon Jackoby / Ennis
 Simon's doppelgänger
 
@@ -86,11 +86,11 @@ Simon	Helades	Froze to death while sleeping in the mountains, sent in the Pit by
 <15+> skeletons	Simon	Skulls crushed with a mace by Simon (rest of previously known count) (reset by the Pit)	undone	11
 Simon	Helades	Run through with a sword by a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	11
 
-<72+> rats	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
-<60+> bats	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
-<72> goblins	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
-<360+> skeletons	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12-23
-{12} Simon	Helades	Killed several times in a duel against a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	12-23
+<72+> rats	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12 to 23
+<60+> bats	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12 to 23
+<72> goblins	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12 to 23
+<360+> skeletons	Simon	Slain by Simon (previously known count * 12) (reset by the Pit)	undone	12 to 23
+{12} Simon	Helades	Killed several times in a duel against a skeleton knight, sent in the Pit by Helades (reset by the Pit)	undone	12 to 23
 
 <6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	24
 <5+> bats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	24
@@ -156,8 +156,8 @@ Simon	Brenna | Helades	Turned into a zombie after being bitten on the neck by Br
 Gotrick	Simon	Devoured by Simon as a zombie, then turned as well (reset by the Pit)	undead | undone	28
 <400+> people		Bitten and turned into zombies (hundreds mentioned twice) (reset by the Pit)	undead | undone	28
 <200+> zombies		Slain by a band of adventurers (hundreds mentioned) (reset by the Pit)	undone	28
-<4> adventurers		Devoured by zombies (count taken from run 34, minus Kell) (reset by the Pit)	undone	28
-Kell		Devoured by zombies (reset by the Pit)	undone	28
+<4> adventurers		Devoured by zombies (count taken from run 34, minus Kel) (reset by the Pit)	undone	28
+Kel		Devoured by zombies (reset by the Pit)	undone	28
 <200+> zombies		Eventually whittled down by farmers and villagers (hundreds mentioned) (reset by the Pit)	undone	28
 <3+> people	Simon	Devoured by Simon as a zombie (several mentioned) (reset by the Pit)	undone	28
 Simon	Helades	Put down with a fire spell by a mage, sent in the Pit by Helades (reset by the Pit)	undone	28
@@ -442,9 +442,9 @@ Aaric's other sister		Died of the blood sickness (reset by the Pit)	undone	40
 <3+> people		Devoured by an ogre (several mentioned) (reset by the Pit)	undone	40
 <3+> monsters	Anias	Slain by Anias (several mentioned) (reset by the Pit)	undone	40
 <1> dragon	Anias	Slain by Anias (reset by the Pit)	undone	40
-<1> innkeeper	Ice Fang	Incinerated by Ice Fang (reset by the Pit)	undone	40
-<3+> villagers	Ice Fang	Incinerated by Ice Fang (several mentioned) (reset by the Pit)	undone	40
-Simon	Ice Fang | Helades	Incinerated by Ice Fang, sent in the Pit by Helades (reset by the Pit)	undone	40
+<1> innkeeper	Icefang	Incinerated by Icefang (reset by the Pit)	undone	40
+<3+> villagers	Icefang	Incinerated by Icefang (several mentioned) (reset by the Pit)	undone	40
+Simon	Icefang | Helades	Incinerated by Icefang, sent in the Pit by Helades (reset by the Pit)	undone	40
 
 <1> fish	Simon	Fished and cooked by Simon (reset by the Pit)	undone	41
 <6+> rats	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	41
@@ -482,10 +482,10 @@ Simon	Simon | Helades	Succumbed to deprivation while stuck in a cave he collapse
 <30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	42
 <1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	42
 Riggs		Throat ripped out by a zombie (reset by the Pit)	undone	42
-<36+> zombies	Simon | Kell | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (3 dozens mentioned) (reset by the Pit)	undone	42
-<3> zombies	Simon | Kell | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (reset by the Pit)	undone	42
-<3+> zombies	Simon | Kell | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (several mentioned) (reset by the Pit)	undone	42
-Kell	Kell | Simon's doppelgänger	Buried in a collapsing tomb when he accidentally triggered a trap left by Simon's doppelgänger (reset by the Pit)	undone	42
+<36+> zombies	Simon | Kel | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (3 dozens mentioned) (reset by the Pit)	undone	42
+<3> zombies	Simon | Kel | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (reset by the Pit)	undone	42
+<3+> zombies	Simon | Kel | Frey | Hodge | Garth	Put down by Simon and the Butcher's Bill members (several mentioned) (reset by the Pit)	undone	42
+Kel	Kel | Simon's doppelgänger	Buried in a collapsing tomb when he accidentally triggered a trap left by Simon's doppelgänger (reset by the Pit)	undone	42
 <20+> centaurs	Simon	Cut in half with an invisible sword by Simon (count mentioned) (reset by the Pit)	undone	42
 <30+> men		Murdered by the centaurs (every ten mentioned) (reset by the Pit)	undone	42
 <60+> centaurs and gnolls	Simon	Slaughtered each other while being incinerated with a word of power and shot with arrows by Simon (count mentioned) (reset by the Pit)	undone	42
@@ -516,9 +516,10 @@ Brul	Simon	Bisected with a word of power by Simon (reset by the Pit)	undone	43
 <1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	43
 <1> sun-dried zombie	Simon	Struck down with a sword by Simon (reset by the Pit)	undone	43
 <3+> zombies	Simon	Slain by Simon (several mentioned) (reset by the Pit)	undone	43
-<6+> Butcher's Bill members		Murdered by zombies (dozen minus 5 survivors and Kell) (reset by the Pit)	undone	43
-Kell		Bitten and turned into a zombie (reset by the Pit)	undead | undone	43
-Kell	Garth | Simon	Put down by the Butcher's Bill members on orders from Simon (reset by the Pit)	undone	43
+<6+> Butcher's Bill members		Murdered by zombies (dozen minus 5 survivors and Kel) (reset by the Pit)	undone	43
+Kel		Bitten and turned into a zombie (reset by the Pit)	undead | undone	43
+Kel	Garth | Simon	Put down by the Butcher's Bill members on orders from Simon (reset by the Pit)	undone	43
+Frey	Kel | Simon	Bitten by Kel and eventually turned into a vampire via Simon's use of words of power (reset by the Pit)	undead | undone	43
 Hodge		Bitten and turned into a zombie (reset by the Pit)	undead | undone	43
 Hodge	Garth | Simon	Put down with several sword stabs by the Butcher's Bill members on orders from Simon (reset by the Pit)	undone	43
 <1> chicken	Simon	Drained of its lifeforce using a word of power by Simon (reset by the Pit)	undone	43
@@ -538,9 +539,9 @@ Hodge	Garth | Simon	Put down with several sword stabs by the Butcher's Bill memb
 <12+> Unspoken	Simon	Sliced into pieces with a force word of power by Simon (dozen mentioned) (reset by the Pit)	undone	43
 <1> Unspoken	Simon	Shot with arrows by Simon (reset by the Pit)	undone	43
 <24+> dragons	Anias	Slain by Anias in his lifetime (dozens mentioned) (reset by the Pit)	undone	43
-<1> innkeeper	Ice Fang	Incinerated by Ice Fang (reset by the Pit)	undone	43
-<3+> villagers	Ice Fang	Incinerated by Ice Fang (several mentioned) (reset by the Pit)	undone	43
-Ice Fang	Anias	Slain by Anias and his group (reset by the Pit)	undone	43
+<1> innkeeper	Icefang	Incinerated by Icefang (reset by the Pit)	undone	43
+<3+> villagers	Icefang	Incinerated by Icefang (several mentioned) (reset by the Pit)	undone	43
+Icefang	Anias	Slain by Anias and his group (reset by the Pit)	undone	43
 <1> archer	Simon	Struck with a lightning word of power by Simon (reset by the Pit)	undone	43
 <5+> archers and warriors	Simon	Struck with lightning words of power or stabbed with a sword by Simon (dozen mentioned, minus others and Trenton) (reset by the Pit)	undone	43
 <1> warrior	Simon	Beheaded with a sword by Simon (reset by the Pit)	undone	43
@@ -548,7 +549,7 @@ Ice Fang	Anias	Slain by Anias and his group (reset by the Pit)	undone	43
 Trenton	Simon	Cut in half from clavicle to groin with a sword by Simon (reset by the Pit)	undone	43
 <2> men	Simon	Incinerated with a fire word of power by Simon (reset by the Pit)	undone	43
 <1> fleeing man	Simon	Struck with a lightning word of power by Simon (reset by the Pit)	undone	43
-Simon	Helades	Throat ripped out and blood drained by a vampire, sent in the Pit by Helades (reset by the Pit)	undone	43
+Simon	Hidaran | Freya | Helades	Throat ripped out and blood drained by Hidaran, led by Freya, sent in the Pit by Helades (reset by the Pit)	undone	43
 
 <30+> skeletons	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	44
 <1> skeleton knight	Simon	Slain by Simon (previously known count) (reset by the Pit)	undone	44
@@ -623,11 +624,74 @@ Leo	Simon	Throat slit and lifeforce drained with a dagger by Simon (reset by the
 <200+> Murani soldiers	Simon	Slain by Simon (hundreds mentioned) (reset by the Pit)	undone	45
 Simon	Simon | Helades	Died of old age and/or exhaustion after using decades of his life through words of power, sent in the Pit by Helades (reset by the Pit)	undone	45
 
-
-
-
-
-
+<1> goblin	Simon	Drained of its lifeforce by Simon
+<10+> goblins	Simon	Slaughtered and drained by Simon (several packs of 3 or 4)
+<3+> goblins	Simon	Slaughtered in an ambush and drained by Simon (several mentioned)
+<1> goblin shaman	Simon	Beheaded and drained by Simon
+<30+> skeletons	Simon	Slain by Simon (previously known count)
+<1> skeleton knight	Simon	Slain by Simon (previously known count)
+Anias	Icefang | Simon	Head and shoulders devoured by Icefang when Simon exposed Anias to him
+<50+> caravan men	Icefang | Simon	Incinerated and devoured by Icefang when Simon exposed them to him (count taken from run 40)
+<24+> horses and oxen	Icefang | Simon	Incinerated and devoured by Icefang when Simon exposed them to him (dozens mentioned)
+Hidaran	Simon	Impaled with two wooden stakes by Simon
+<1> guard	Simon	Stabbed in the trachea with a sword by Simon
+<4+> men	Simon	Shot with a lightning arrow by Simon (minimum counted)
+<1> man	Simon	Shot in the neck with an arrow by Simon
+<4> men	Simon	Cut down by Simon
+<8> men	Simon	Shot with a lightning arrow by Simon
+<2+> men	Simon	Crushed by doors shattered by Simon (plural)
+<2+> prisoners		Blood drained by vampires
+Gavarall	Simon	Staked in the heart by Simon
+Prince	Simon	Staked in the heart by Simon
+Simon	Freya | Helades	Turned into a vampire when Freya forcefully fed him her blood, sent in the Pit by Helades (reset by the Pit)	undead | undone	46
+<2+> victims	Freya	Drained of their blood by Freya (plural)
+<3+> victims	Freya	Devoured by Freya in front of Simon (several mentioned)
+Emma and Ara's father	Freya	Slaughtered by Freya in front of his daughters
+Emma and Ara's mother	Freya	Slaughtered by Freya in front of her daughters
+<1> guard	Simon	Neck bitten and blood drained by Simon
+<1> guard	Simon	Stabbed in the throat with a sword by Simon
+<1> guard	Simon	Devoured by Simon
+<1> guard	Simon	Eliminated and devoured by Simon
+<2> prisoners	Simon | Ara | Freya	Devoured by Simon, fed to him by Ara, led by Freya
+Emma		Died of old age
+Ara	Freya	Turned into a vampire by Freya	undead
+<3+> handsome men	Freya	Murdered and devoured by Freya (several mentioned)
+<3+> Unspoken	Freya	Devoured by Freya (several mentioned)
+<4> prisoners	Simon | Ara | Freya	Ripped to pieces and devoured by Simon, fed to him by Ara, led by Freya
+<1> soldier	Simon | Ara | Freya	Drained of his blood by Simon on orders from Ara, led by Freya
+<1> soldier	Simon | Ara | Freya	Stabbed in the throat by Simon on orders from Ara, led by Freya
+<1> soldier	Simon | Ara | Freya	Neck snapped by Simon on orders from Ara, led by Freya
+<1> warlock	Simon | Ara | Freya	Throat ripped out by Simon on orders from Ara, led by Freya
+<3+> soldiers	Simon | Ara | Freya	Incinerated by their warlock's death-activated word of power triggered by Simon on orders from Ara, led by Freya (several mentioned)
+<1> soldier	Simon | Ara | Freya	Stabbed in the eyes by Simon on orders from Ara, led by Freya
+<1> soldier	Simon | Ara | Freya	Stabbed in the guts by Simon on orders from Ara, led by Freya
+<3+> soldiers	Simon | Ara | Freya	Slaughtered by Simon on orders from Ara, led by Freya (several mentioned)
+<1> captain	Simon | Ara | Freya	Slaughtered by Simon on orders from Ara, led by Freya
+<3+> survivors	Simon | Ara | Freya	Hunted down and drained by Simon on orders from Ara, led by Freya (several mentioned)
+<24+> goblins	Simon	Slaughtered and drained by Simon (dozens mentioned)
+<1> scout	Simon | Ara | Freya	Neck snapped and torn to pieces by Simon on orders from Ara, led by Freya
+<24+> soldiers	Simon | Ara | Freya	Crushed with an avalanche of rocks triggered by Simon on orders from Ara, led by Freya (dozens mentioned)
+<1> grizzly bear	Simon	Stabbed in the spine and drained of its blood by Simon
+<2+> sentries	Simon | Ara | Freya	Murdered and impaled on tree branches by Simon on orders from Ara, led by Freya (plural)
+<9+> soldiers	Simon | Ara | Freya	Slaughtered by Simon on orders from Ara, led by Freya (several groups mentioned)
+<6+> soldiers	Simon | Ara | Freya	Slaughtered by Simon on orders from Ara, led by Freya (multiple patrols mentioned)
+<2+> mages	Simon | Ara | Freya	Slaughtered by Simon on orders from Ara, led by Freya (plural)
+Jubar	Simon | Ara | Freya	Beheaded by Simon on orders from Ara, led by Freya
+<2> young mages	Simon | Ara | Freya	Slaughtered by Simon on orders from Ara, led by Freya
+<200+> soldiers	Simon | Ara | Freya	Slaughtered by Simon on orders from Ara, led by Freya (hundreds mentioned)
+<2+> goblins	Simon	Drained of their blood by Simon (plural)
+<2+> bears	Simon	Drained of their blood by Simon (plural)
+<2+> wolves	Simon	Drained of their blood by Simon (plural)
+<2+> goats	Simon	Drained of their blood by Simon (plural)
+<2+> deer	Simon	Drained of their blood by Simon (plural)
+<29+> goblins	Simon	Slaughtered within the silver mines by Simon (previously known count from run 32)
+<3+> warlocks	Simon	Slaughtered by Simon (several mentioned)
+<6+> soldiers	Simon	Slaughtered by Simon (minimum counted)
+<3+> beatsmen	Simon	Slaughtered and drained of their blood by Simon (several mentioned)
+<4+> beatsmen	Simon	Slaughtered and devoured by Simon (pack mentioned)
+<2+> watchmen	Simon	Murdered via traps and sabotage by Simon (plural)
+<24+> soldiers	Simon	Murdered via traps and sabotage by Simon (dozens mentioned)
+<2+> warlocks	Simon	Murdered by Simon (plural)
 
 
 
