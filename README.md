@@ -29,9 +29,9 @@
 
 | universe                     | entry                                                                           | deaths              | named_deaths        | unique_deaths   |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|---------------------|-----------------|
-| **\***                       | **\***                                                                          | **558,277,886,860** | **300,102,150,620** | **5,205**       |
-| **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** | **300,000,010,141** | **95**          |
-| A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               | 31                  | 31              |
+| **\***                       | **\***                                                                          | **558,277,886,860** | **300,102,150,626** | **5,211**       |
+| **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** | **300,000,010,143** | **97**          |
+| A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               | 33                  | 33              |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     | 300,000,010,086     | 39              |
 | A Certain Magical Index      | A Certain Scientific Railgun                                                    | 10,040              | 13                  | 14              |
 | A Certain Magical Index      | Side Stories                                                                    | 25                  | 11                  | 11              |
@@ -125,10 +125,10 @@
 | Infamous                     | Infamous Festival of Blood                                                      | 4                   | 4                   | 3               |
 | Infamous                     | Infamous First Light                                                            | 3                   | 3                   | 3               |
 | Infamous                     | Infamous Second Son                                                             | 5                   | 5                   | 5               |
-| **Jojo's Bizarre Adventure** | **\***                                                                          | **175**             | **143**             | **130**         |
+| **Jojo's Bizarre Adventure** | **\***                                                                          | **175**             | **144**             | **131**         |
 | Jojo's Bizarre Adventure     | Battle Tendency                                                                 | 13                  | 13                  | 13              |
 | Jojo's Bizarre Adventure     | Diamond is Unbreakable                                                          | 32                  | 32                  | 27              |
-| Jojo's Bizarre Adventure     | Phantom Blood                                                                   | 56                  | 24                  | 22              |
+| Jojo's Bizarre Adventure     | Phantom Blood                                                                   | 56                  | 25                  | 23              |
 | Jojo's Bizarre Adventure     | Stardust Crusaders                                                              | 22                  | 22                  | 20              |
 | Jojo's Bizarre Adventure     | Stone Ocean                                                                     | 22                  | 22                  | 21              |
 | Jojo's Bizarre Adventure     | Vento Aureo                                                                     | 30                  | 30                  | 27              |
@@ -218,7 +218,7 @@
 | Project Moon                 | Limbus Company / Observation Logs                                               | 39                  | 39                  | 14              |
 | Project Moon                 | Limbus Company / Prologue Selva Oscura                                          | 30                  | 12                  | 14              |
 | Project Moon                 | Lobotomy Corporation                                                            | 12                  | 12                  | 12              |
-| **Re Zero**                  | **\***                                                                          | **100,159,743**     | **100,014,456**     | **298**         |
+| **Re Zero**                  | **\***                                                                          | **100,159,743**     | **100,014,459**     | **301**         |
 | Re Zero                      | Re IF / Ayamatsu                                                                | 10,603              | 10,593              | 38              |
 | Re Zero                      | Re IF / Kasaneru                                                                | 100,001,524         | 100,001,262         | 18              |
 | Re Zero                      | Re IF / Oboreru                                                                 | 126,710             | 9                   | 18              |
@@ -228,7 +228,7 @@
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week             | 31                  | 5                   | 4               |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 3 Return to the Royal Capital    | 194                 | 70                  | 30              |
 | Re Zero                      | Re Zero -Starting Life in Another World- / Arc 4 The Everlasting Contract       | 833                 | 108                 | 31              |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 5 The Stars That Engrave History | 336                 | 19                  | 17              |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 5 The Stars That Engrave History | 336                 | 22                  | 20              |
 | Re Zero                      | Re Zero Ex / Volume 1 The Dream the Lion King Saw                               | 9                   | 9                   | 8               |
 | Re Zero                      | Re Zero Ex / Volume 2 Sword Demon Love Song                                     | 3,569               | 6                   | 3               |
 | Re Zero                      | Re Zero Ex / Volume 4 The Travelogue of the Finest                              | 2,005               | 2                   | 2               |
