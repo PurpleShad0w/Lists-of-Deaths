@@ -29,8 +29,8 @@
 
 | universe                     | entry                                                                           | deaths              | named_deaths        | unique_deaths   |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|---------------------|-----------------|
-| **\***                       | **\***                                                                          | **558,277,886,860** | **300,102,150,626** | **5,211**       |
-| **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** | **300,000,010,143** | **97**          |
+| **\***                       | **\***                                                                          | **558,277,886,860** | **300,102,150,626** | **4,395**       |
+| **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** | **300,000,010,143** | **95**          |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               | 33                  | 33              |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     | 300,000,010,086     | 39              |
 | A Certain Magical Index      | A Certain Scientific Railgun                                                    | 10,040              | 13                  | 14              |
@@ -59,19 +59,19 @@
 | Assassin's Creed             | Assassin's Creed II                                                             | 94                  | 28                  | 28              |
 | Assassin's Creed             | Assassin's Creed Revelations                                                    | 20                  | 20                  | 19              |
 | Assassin's Creed             | Novelizations                                                                   | 6                   | 6                   | 6               |
-| **Attack on Titan**          | **\***                                                                          | **2,837,951**       | **139**             | **142**         |
+| **Attack on Titan**          | **\***                                                                          | **2,837,951**       | **139**             | **138**         |
 | Attack on Titan              | Attack on Titan                                                                 | 2,837,951           | 139                 | 142             |
 | **Attorney of the Arcane**   | **\***                                                                          | **18**              | **18**              | **17**          |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                                          | 18                  | 18                  | 17              |
 | **Barry**                    | **\***                                                                          | **145**             | **47**              | **47**          |
 | Barry                        | Barry                                                                           | 145                 | 47                  | 47              |
-| **Blasphemous**              | **\***                                                                          | **1,793**           | **62**              | **49**          |
+| **Blasphemous**              | **\***                                                                          | **1,793**           | **62**              | **47**          |
 | Blasphemous                  | Blasphemous                                                                     | 761                 | 39                  | 29              |
 | Blasphemous                  | Blasphemous 2                                                                   | 1,030               | 21                  | 18              |
 | Blasphemous                  | Blasphemous The Kneeling                                                        | 2                   | 2                   | 2               |
 | **Bloodstained**             | **\***                                                                          | **1,167**           | **72**              | **60**          |
 | Bloodstained                 | Bloodstained Ritual of the Night                                                | 1,167               | 72                  | 60              |
-| **Clair Obscur**             | **\***                                                                          | **589**             | **250**             | **248**         |
+| **Clair Obscur**             | **\***                                                                          | **589**             | **250**             | **242**         |
 | Clair Obscur                 | Clair Obscur Expedition 33                                                      | 589                 | 250                 | 248             |
 | **Claymore**                 | **\***                                                                          | **80**              | **80**              | **74**          |
 | Claymore                     | Claymore                                                                        | 80                  | 80                  | 74              |
@@ -91,7 +91,7 @@
 | Danganronpa                  | Danganronpa V3 Killing Harmony                                                  | 25                  | 25                  | 20              |
 | Danganronpa                  | Danganronpa Zero                                                                | 11                  | 11                  | 11              |
 | Danganronpa                  | Kirigiriso                                                                      | 6                   | 6                   | 4               |
-| **Dark Souls**               | **\***                                                                          | **529**             | **249**             | **213**         |
+| **Dark Souls**               | **\***                                                                          | **529**             | **249**             | **209**         |
 | Dark Souls                   | Dark Souls                                                                      | 192                 | 56                  | 51              |
 | Dark Souls                   | Dark Souls II                                                                   | 169                 | 101                 | 90              |
 | Dark Souls                   | Dark Souls III                                                                  | 168                 | 92                  | 72              |
@@ -107,7 +107,7 @@
 | Elden Ring                   | Elden Ring                                                                      | 511                 | 248                 | 226             |
 | **Final Fantasy**            | **\***                                                                          | **235**             | **25**              | **25**          |
 | Final Fantasy                | Final Fantasy XIII                                                              | 235                 | 25                  | 25              |
-| **Future Diary**             | **\***                                                                          | **44**              | **44**              | **70**          |
+| **Future Diary**             | **\***                                                                          | **44**              | **44**              | **42**          |
 | Future Diary                 | Future Diary                                                                    | 44                  | 44                  | 70              |
 | **Gantz**                    | **\***                                                                          | **701**             | **121**             | **70**          |
 | Gantz                        | Gantz                                                                           | 701                 | 121                 | 70              |
@@ -118,14 +118,14 @@
 | Hollow Knight                | Hollow Knight Silksong                                                          | 2,857               | 60                  | 54              |
 | **Hunter × Hunter**          | **\***                                                                          | **5,663,910**       | **150**             | **150**         |
 | Hunter × Hunter              | Hunter × Hunter                                                                 | 5,663,910           | 150                 | 150             |
-| **Infamous**                 | **\***                                                                          | **39**              | **39**              | **37**          |
+| **Infamous**                 | **\***                                                                          | **39**              | **39**              | **34**          |
 | Infamous                     | Comics                                                                          | 4                   | 4                   | 4               |
 | Infamous                     | Infamous                                                                        | 10                  | 10                  | 10              |
 | Infamous                     | Infamous 2                                                                      | 13                  | 13                  | 12              |
 | Infamous                     | Infamous Festival of Blood                                                      | 4                   | 4                   | 3               |
 | Infamous                     | Infamous First Light                                                            | 3                   | 3                   | 3               |
 | Infamous                     | Infamous Second Son                                                             | 5                   | 5                   | 5               |
-| **Jojo's Bizarre Adventure** | **\***                                                                          | **175**             | **144**             | **131**         |
+| **Jojo's Bizarre Adventure** | **\***                                                                          | **175**             | **144**             | **130**         |
 | Jojo's Bizarre Adventure     | Battle Tendency                                                                 | 13                  | 13                  | 13              |
 | Jojo's Bizarre Adventure     | Diamond is Unbreakable                                                          | 32                  | 32                  | 27              |
 | Jojo's Bizarre Adventure     | Phantom Blood                                                                   | 56                  | 25                  | 23              |
@@ -137,7 +137,7 @@
 | **Just Cause**               | **\***                                                                          | **28**              | **28**              | **27**          |
 | Just Cause                   | Just Cause 3                                                                    | 15                  | 15                  | 14              |
 | Just Cause                   | Just Cause 4                                                                    | 13                  | 13                  | 13              |
-| **Kingdom Hearts**           | **\***                                                                          | **484,727**         | **106**             | **139**         |
+| **Kingdom Hearts**           | **\***                                                                          | **484,727**         | **106**             | **81**          |
 | Kingdom Hearts               | Kingdom Hearts                                                                  | 6,881               | 10                  | 12              |
 | Kingdom Hearts               | Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage-                       | 854                 | 0                   | 0               |
 | Kingdom Hearts               | Kingdom Hearts 358 2 Days                                                       | 782                 | 1                   | 2               |
@@ -170,10 +170,10 @@
 | Monster Hunter               | Monster Hunter World Iceborne / Event Quests                                    | 269                 | 0                   | 0               |
 | Monster Hunter               | Monster Hunter World Iceborne / Optional Quests                                 | 384                 | 0                   | 0               |
 | Monster Hunter               | Monster Hunter World Iceborne / Special Assignments                             | 15                  | 0                   | 0               |
-| **Mother of Learning**       | **\***                                                                          | **51,794,612,222**  | **105,252**         | **224**         |
+| **Mother of Learning**       | **\***                                                                          | **51,794,612,222**  | **105,252**         | **120**         |
 | Mother of Learning           | Mother of Learning                                                              | 50,986,610,566      | 103,613             | 118             |
 | Mother of Learning           | Mother of Learning The AU Chapters                                              | 808,001,656         | 1,639               | 106             |
-| **Nasuverse**                | **\***                                                                          | **1,180,239,447**   | **426**             | **516**         |
+| **Nasuverse**                | **\***                                                                          | **1,180,239,447**   | **426**             | **217**         |
 | Nasuverse                    | Fate / Apocrypha                                                                | 31                  | 31                  | 47              |
 | Nasuverse                    | Fate / Grand Order / -First Order-                                              | 7                   | 7                   | 18              |
 | Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Free Quests   | 53                  | 5                   | 12              |
@@ -193,7 +193,7 @@
 | Nasuverse                    | TYPE-MOON Material Books & Lore                                                 | 1,180,232,630       | 60                  | 94              |
 | **Ozark**                    | **\***                                                                          | **225**             | **39**              | **39**          |
 | Ozark                        | Ozark                                                                           | 225                 | 39                  | 39              |
-| **Project Moon**             | **\***                                                                          | **383,315**         | **408**             | **345**         |
+| **Project Moon**             | **\***                                                                          | **383,315**         | **408**             | **238**         |
 | Project Moon                 | Library of Ruina                                                                | 380,408             | 151                 | 133             |
 | Project Moon                 | Limbus Company / Canto I The Outcast                                            | 157                 | 20                  | 18              |
 | Project Moon                 | Limbus Company / Canto II The Unloving                                          | 230                 | 3                   | 3               |
@@ -218,7 +218,7 @@
 | Project Moon                 | Limbus Company / Observation Logs                                               | 39                  | 39                  | 14              |
 | Project Moon                 | Limbus Company / Prologue Selva Oscura                                          | 30                  | 12                  | 14              |
 | Project Moon                 | Lobotomy Corporation                                                            | 12                  | 12                  | 12              |
-| **Re Zero**                  | **\***                                                                          | **100,159,743**     | **100,014,459**     | **301**         |
+| **Re Zero**                  | **\***                                                                          | **100,159,743**     | **100,014,459**     | **145**         |
 | Re Zero                      | Re IF / Ayamatsu                                                                | 10,603              | 10,593              | 38              |
 | Re Zero                      | Re IF / Kasaneru                                                                | 100,001,524         | 100,001,262         | 18              |
 | Re Zero                      | Re IF / Oboreru                                                                 | 126,710             | 9                   | 18              |
@@ -255,17 +255,17 @@
 | Staffer Series               | Staffer Reborn                                                                  | 7                   | 7                   | 1               |
 | **Star Wars**                | **\***                                                                          | **56**              | **56**              | **56**          |
 | Star Wars                    | Star Wars Jedi Fallen Order                                                     | 56                  | 56                  | 56              |
-| **The Evil Within**          | **\***                                                                          | **714**             | **57**              | **54**          |
+| **The Evil Within**          | **\***                                                                          | **714**             | **57**              | **51**          |
 | The Evil Within              | Comics                                                                          | 6                   | 6                   | 6               |
 | The Evil Within              | The Evil Within                                                                 | 557                 | 28                  | 25              |
 | The Evil Within              | The Evil Within 2                                                               | 151                 | 23                  | 23              |
 | **The Golden Idol**          | **\***                                                                          | **106**             | **89**              | **88**          |
 | The Golden Idol              | The Case of the Golden Idol                                                     | 45                  | 32                  | 32              |
 | The Golden Idol              | The Rise of the Golden Idol                                                     | 61                  | 57                  | 56              |
-| **The Perfect Run**          | **\***                                                                          | **4,024,539,690**   | **2,010,930**       | **118**         |
+| **The Perfect Run**          | **\***                                                                          | **4,024,539,690**   | **2,010,930**       | **89**          |
 | The Perfect Run              | The Perfect Run                                                                 | 4,011,539,231       | 2,010,628           | 83              |
 | The Perfect Run              | The Perfect Run Bad Runs                                                        | 13,000,459          | 302                 | 35              |
-| **The World Ends with You**  | **\***                                                                          | **6,231**           | **54**              | **38**          |
+| **The World Ends with You**  | **\***                                                                          | **6,231**           | **54**              | **36**          |
 | The World Ends with You      | NEO The World Ends with You                                                     | 6,118               | 28                  | 21              |
 | The World Ends with You      | The World Ends with You                                                         | 113                 | 26                  | 17              |
 | **Tokyo Ghoul**              | **\***                                                                          | **2,762**           | **140**             | **136**         |
@@ -277,7 +277,7 @@
 | Watch Dogs                   | Watch Dogs 2                                                                    | 8                   | 8                   | 8               |
 | Watch Dogs                   | Watch Dogs Dark Clouds                                                          | 4                   | 4                   | 4               |
 | Watch Dogs                   | Watch Dogs Legion                                                               | 26                  | 26                  | 20              |
-| **Zero Escape**              | **\***                                                                          | **6,000,000,221**   | **206**             | **51**          |
+| **Zero Escape**              | **\***                                                                          | **6,000,000,221**   | **206**             | **43**          |
 | Zero Escape                  | Nine Hours, Nine Persons, Nine Doors                                            | 24                  | 24                  | 13              |
 | Zero Escape                  | Virtue's Last Reward                                                            | 51                  | 51                  | 17              |
 | Zero Escape                  | Zero Time Dilemma                                                               | 6,000,000,146       | 131                 | 21              |
