@@ -3,7 +3,7 @@ character	killed by	death	type	cycle
 
 characters / aliases :
 
-Mirian Castrella
+Mirian Castrella / Niluri
 Lily
 Sefora Seneca
 Nicolus Sacristar
@@ -44,14 +44,14 @@ Wolden
 Beatrice
 Ethwarn
 Ada
-Gerard Wardrieu
+Gerard Wardrieu / First Akanan Spy
 Quintus Palamas
 Ferrandus
 Moliner
 Timmon
 Hanaran
 Bao
-Idras
+Idras / Third Akanan Spy
 Specter / Adria Gavell's Impostor
 Marovim
 Jondar Kinsman
@@ -59,14 +59,25 @@ Desert Rose
 Pardia
 Irabi
 Sylvester Aurum
-Ayland
+Ayland / Second Akanan Spy
+Markus
+Sulvorath (other time traveler)
+Thanvil
+Lecne
+Arenthia
+Pelnu
+Sethra
+Maruce
+Ravatha
+Numo
+Atroxcidi
 
 
 
 
 lore :
 
-thousands of people killed in the attack (everyone in Torrviol, less than 20k)
+thousands of people killed in the attack (everyone in Torrviol, less than 20k), every cycle except 48
 attack led by Emera Cearsia
 everyone dies when moon crashes
 <X> Torrviol inhabitants		Caught in artillery bombardment by Akanan forces during the Attack on Torrviol or incinerated by the Divine Monument's explosion (thousands mentioned each cycle)
@@ -80,6 +91,8 @@ Nicolus and Nurea die in a train crash
 Valen dies fighting in the Kiroscent Dome
 Lily dies in the fields presumably by soldiers
 Gerard Wardrieu - Presumably yanked off a roof by Mirian Castrella each cycle after cycle 15 except 25
+Jondar Kinsman - Assassinated by a Baracueli man
+Arenthia - Executed via firing squad at the Temple of the Four before cycle 65
 
 
 
@@ -87,11 +100,16 @@ Lily's grandmother		Died from unknown causes
 Lily's grandfather		Murdered by a frost scarabite		
 Rolart Sacristar II		Died from unknown causes		
 Virmont		Died from unknown causes		
-Adria Gavell		Shot in the back of the head by '…iokli…unn'
+Adria Gavell	Specter	Shot in the back of the head and impersonated by Specter		
 Solvir	Atroxcidi	Murdered by Atroxcidi during the Unification Wars		
 <3+> Yanez family members		Murdered by overzealous Luminate Order priests (several mentioned)		
 <2,000> workers		Blown up alongside a Ferrabridge factory by a leyline eruption (count mentioned)		
 Valen's father		Died from unknown causes		
+Ghautleimane		Died from unknown causes		
+Yohan		Died from unknown causes		
+<3> archmagi		Died in the Labyrinth as part of the Expedition of Archmagi		
+<10> support arcanists		Died in the Labyrinth as part of the Expedition of Archmagi		
+<20> soldiers		Died in the Labyrinth as part of the Expedition of Archmagi		
 
 
 
@@ -153,7 +171,7 @@ Mirian Castrella	Gerard Wardrieu	Electrocuted with a lightning spell by Gerard W
 Gerard Wardrieu	Mirian Castrella	Fell to his death after being yanked off a roof by Mirian Castrella
 Idras	Song Jei	Shot through the torso with a beam of black and red fire by Song Jei
 <1> bog lion	Song Jei	Shot with a disintegration ray by Song Jei
-Wolden		Assassinated
+Wolden		Assassinated by Akanan spies
 Quintus Palamas
 Hanaran		Presumably killed during the Attack on Torrviol or incinerated by the Divine Monument's explosion
 Lily		incinerated by the Divine Monument's explosion
@@ -210,7 +228,92 @@ Mirian Castrella	Mirian Castrella	Accidentally crashed herself into the side of 
 
 {6} Mirian Castrella	Emera Cearsia	Caught and thrown into an airship's brig, eventually incinerated alongside the airship by the Divine Monument's explosion, or tossed overboard an airship by Emera Cearsia (cycle reset)	undone	37 to 42
 
+{3+} Alexus Sacristar		Assassinated by Akanans during several cycles between 26 and 47
 {5} Mirian Castrella		Caught in artillery bombardment by Akanan forces during the Attack on Torrviol or incinerated by the Divine Monument's explosion (cycle count mentioned in cycle 48) (cycle reset)	undone	43 to 47
+
+<6> Akanans	Eskier Cassius | Medius Luspire | Mirian Castrella	Speared in the heart by Eskier Cassius and hit with spells by Medius Luspire on orders from Mirian Castrella
+<3+> Republic's Justice crew members	Emera Cearsia | Mirian Castrella	Shot with a salvo of explosive shells by the Might of Liberty, helmed by Emera Cearsia, orchestrated by Mirian Castrella (several mentioned)
+<1> Might of Liberty crewman	Mirian Castrella	Shot in the chest with an incineration ray by Mirian Castrella
+<1> Might of Liberty auramancer	Mirian Castrella	Crushed with a chunk of warped metal by Mirian Castrella
+<4> Might of Liberty crewmen	Eskier Cassius | Mirian Castrella	Charred with lightning by Eskier Cassius on orders from Mirian Castrella
+<12+> Might of Liberty crewmen	Medius Luspire | Mirian Castrella	Murdered by Medius Luspire on orders from Mirian Castrella (3 squads mentioned)
+<8+> Might of Liberty crewmen	Song Jei | Eskier Cassius | Mirian Castrella	Murdered by Song Jei and Eskier Cassius on orders from Mirian Castrella (2 squads mentioned)
+<1> Might of Liberty gunman	Mirian Castrella	Shot with a force lifted gun by Mirian Castrella
+Song Jei	Emera Cearsia	Shot by a Might of Liberty gunman, led by Emera Cearsia
+<12+> Might of Liberty crewmen	Mirian Castrella	Torn apart with an artillery piece by Mirian Castrella (dozen mentioned)
+Emera Cearsia	Mirian Castrella	Fatally wounded with an artillery piece by Mirian Castrella
+Illiyia Torres	Emera Cearsia	Murdered by Might of Liberty crewmen, led by Emera Cearsia
+Ghellia Marva	Emera Cearsia	Presumably murdered by Might of Liberty crewmen, led by Emera Cearsia
+Valen		Murdered during the Attack on Torrviol
+Nurea March	Sulvorath	Murdered by Sulvorath
+Mirian Castrella	Sulvorath	Shot with a pistol by Sulvorath (cycle reset)	undone	48
+
+Gerard Wardrieu	Mirian Castrella	Fell to his death after being yanked off a roof by Mirian Castrella
+Song Jei	Sulvorath	Arm cut off and presumably murdered by Sulvorath
+Mirian Castrella	Sulvorath	Shot through the back with a fire ray and then a gun by Sulvorath (cycle reset)	undone	49
+
+Gerard Wardrieu	Mirian Castrella	Fell to his death after being yanked off a roof by Mirian Castrella
+Mirian Castrella	Sulvorath	Assassinated while sleeping by Sulvorath (cycle reset)	undone	50
+
+Gerard Wardrieu	Mirian Castrella	Fell to his death after being yanked off a roof by Mirian Castrella
+Mirian Castrella	Sulvorath	Blown up with arcane energy by a trap setup by Sulvorath (cycle reset)	undone	51
+
+Nicolus Sacristar	Sulvorath	Assassinated by Sulvorath
+Mirian Castrella	Sulvorath	Shot through the back with a fire ray and then a rifle by Sulvorath (cycle reset)	undone	52
+
+<1> stonemole	Specter	Withered with a necromancy curse by Specter
+<1> moon flicker	Specter	Withered with a necromancy curse by Specter
+Mirian Castrella	Specter | Sulvorath	Murdered with a necromancy curse by Specter on orders from Sulvorath (cycle reset)	undone	53
+
+Mirian Castrella	Mirian Castrella | Specter | Sulvorath	Blew apart her own head with a fireball by biting down on a wand, to prevent herself from being killed with a necromancy curse by Specter on orders from Sulvorath (cycle reset)	undone	54
+
+Arenthia		Executed via firing squad at the Temple of the Four
+<3> pigeons	Lecne	Withered with a necromancy curse by Lecne
+<1> garden plant	Mirian Castrella	Soul extracted by Mirian Castrella
+<3+> roaches	Mirian Castrella	Impaled with force spikes and souls extracted by Mirian Castrella (several mentioned)
+<3+> roaches	Lecne	Smashed with his hands and soul extracted by Lecne (several mentioned)
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	55
+
+Arenthia		Executed via firing squad at the Temple of the Four
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	56
+
+Arenthia		Executed via firing squad at the Temple of the Four
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	57
+
+Arenthia		Executed via firing squad at the Temple of the Four
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	58
+
+Arenthia		Executed via firing squad at the Temple of the Four
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	59
+
+Arenthia		Executed via firing squad at the Temple of the Four
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	60
+
+{2} Arenthia		Executed via firing squad at the Temple of the Four
+{2} Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	61 to 62
+
+<12> cockroaches	Mirian Castrella	Slain and souls extracted by Mirian Castrella
+<1> rat	Mirian Castrella	Slain and soul extracted by Mirian Castrella
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	63
+
+Arenthia		Executed via firing squad at the Temple of the Four
+Lecne		Incinerated when the Divir moon crashed down on Enteria
+Mirian Castrella		Incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	64
+
+<1> chickadee	Mirian Castrella	Slain and soul extracted by Mirian Castrella
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	65
+
+<2+> young drakes	Numo | Arenthia | Mirian Castrella	Smuggled and slain by Numo on orders from Arenthia and Mirian Castrella during the cycles (plural)
+<2+> scarabites	Numo | Arenthia | Mirian Castrella	Smuggled and slain by Numo on orders from Arenthia and Mirian Castrella during the cycles (plural)
+<2+> cockatrices	Numo | Arenthia | Mirian Castrella	Smuggled and slain by Numo on orders from Arenthia and Mirian Castrella during the cycles (plural)
+<2+> lightning scorpions	Numo | Arenthia | Mirian Castrella	Smuggled and slain by Numo on orders from Arenthia and Mirian Castrella during the cycles (plural)
+{4} Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	66 to 69
+
+<1> young drake	Numo | Arenthia | Mirian Castrella	Guillotined by Numo on orders from Arenthia and Mirian Castrella
+Mirian Castrella		Presumably incinerated when the Divir moon crashed down on Enteria (cycle reset)	undone	70
+
+<1> pig	Specter | Mirian Castrella	Incinerated by a trap setup by Specter, sent there to trigger it by Mirian Castrella
+
 
 
 
