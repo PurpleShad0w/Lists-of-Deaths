@@ -26,6 +26,17 @@ Reggie
 Lee
 Roxie
 Lara
+Jordan
+Lukas Lewandowski
+Garrett
+Hannah Barker
+Samuel Wheeler
+Bella
+Oliver
+Ethan
+Peter
+Ethan Jacobs / Winston Ashwood
+Tory
 
 
 NPCs :
@@ -51,6 +62,43 @@ Jocelyn
 Celia Dane
 Eugene
 Taron Bellows
+Rudy
+Jake
+Roberta
+Edgar Barns
+Norman Barns
+Nicholas Hesper
+Austin
+Pietro
+Jaime
+Thadeus
+Gary
+Gerald Hesper
+Corey
+Martha Hesper
+Walter Akers
+Douglas Akers / Old Man Akers
+Timothy Akers
+Mark
+Theodore Akers
+Brent
+Esther Akers
+Jeffrey
+Cooky
+Constance Barlow
+Gloria
+Nancy Cartwright
+Truman Mentes
+Rowe
+Bethany Mercer
+Logan Mercer
+Paul Kimble
+Sherry Mercer
+Steven Mercer
+Rolf
+Barb
+Thornton Thomas
+KRSL Commander
 
 
 killers :
@@ -60,6 +108,8 @@ Suzy Snyder
 Simon Halle / Astralist
 Grotesque Leader
 Mysterious Gentleman
+Unknowable Host
+Mercer Poltergeist / Mercer-Psychokinetic Entity / Distortion
 
 
 others :
@@ -67,12 +117,23 @@ others :
 Cindy Martens
 
 
+storylines :
+
+The Final Straw II
+The Astralist
+Delta Epsilon Delta
+The Grotesque
+Antemortem
+Even More Stories from the Campfire: Fatal Folktales
+Subject of Inquiry
+
+
 lore :
 
 Riley Lawrence's father		Died from unknown causes		
 Riley Lawrence's mother		Died from unknown causes		
 Riley Lawrence's grandfather		Died from natural causes		
-Riley Lawrence's grandmother		Died from natural causes		
+Molly Lawrence		Died from natural causes		
 <36+> people	Astralist	Souls separated from their body using the Mirror of Stars by the Astralist (three dozens mentioned) (eventually resurrected as zombies possessed by the Astralist)	undead	The Astralist
 Anastasia Halle	Simon Halle | Anastasia Halle	Soul willingly separated from her body using the Mirror of Stars by Simon Halle (eventually resurrected as a zombie possessed by the Astralist)	undead	The Astralist
 Chuck Treglio	Astralist	Soul separated from his body using the Mirror of Stars by the Astralist (eventually resurrected as a zombie possessed by the Astralist)	undead	The Astralist
@@ -80,8 +141,13 @@ Wilbur Jenkins	Astralist	Soul separated from his body using the Mirror of Stars 
 Bartholomew Geist
 <3+> Roxie's friends	Rulekeeper	Murdered by the Rulekeeper (several mentioned)		
 <400+> unintelligent Grotesques	Donald	Smashed with a hammer by Donald (hundreds upon hundreds mentioned)		The Grotesque
-Sean Cano		Died of cancer
-
+Sean Cano		Died of cancer		
+Unknowable Host		Died from unknown causes		Even More Stories from the Campfire: Fatal Folktales
+Eloise Mercer		Died from unknown causes		Subject of Inquiry
+Cosmo Mercer		Died from unknown causes		Subject of Inquiry
+Silvia Mercer		Died from unknown causes		Subject of Inquiry
+Barret		Died from unknown causes		Subject of Inquiry
+<1> bank assailant	Distortion | Paul Kimble	Murdered by the Distortion, accidentally summoned by Paul Kimble		Subject of Inquiry
 
 
 deaths :
@@ -104,9 +170,9 @@ Camden Tran	Nathan	Stabbed multiple times with a knife by Nathan (resurrected at
 Evan	Nathan	Stabbed with a knife by Nathan (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
 Nathan	Anna Reed | Antoine Stone | Riley Lawrence	Drowned in a pool he fell in when Anna Reed struck him with a nightstand, after falling on his own knife when pushed on a decrepit balcony by Antoine Stone, lured there by Riley Lawrence (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
 
-Ruck Johnson	Evan	Stabbed with a knife by Evan in a previous storyline (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
-Ruck Johnson	Evan	Stabbed with a knife by Evan in a previous storyline (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
-Ruck Johnson		Stabbed with a knife by one of the football players in a previous storyline (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
+Ruck Johnson	Evan	Stabbed with a knife by Evan in a previous version of the storyline (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
+Ruck Johnson	Evan	Stabbed with a knife by Evan in a previous version of the storyline (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
+Ruck Johnson		Stabbed with a knife by one of the football players in a previous version of the storyline (resurrected at the end of the storyline)	revived	Delta Epsilon Delta
 
 <1> Grotesque	Arthur Clayton	Head blown off with a shotgun by Arthur Clayton (resurrected at the end of the storyline)	revived	The Grotesque
 <1> Grotesque	Arthur Clayton	Arm blown off with a shotgun by Arthur Clayton (resurrected at the end of the storyline)	revived	The Grotesque
@@ -138,6 +204,50 @@ Riley Lawrence	Arthur Clayton | Valorie Choi | Riley Lawrence | Grotesque Leader
 Grotesque Leader	Arthur Clayton | Valorie Choi | Riley Lawrence	Shot to pieces by Arthur Clayton and Valorie Choi after being lit on fire with a molotov cocktail by Riley Lawrence (resurrected at the end of the storyline)	revived	The Grotesque
 
 Mysterious Gentleman	Eugene	Shot in the head with a shotgun by Eugene (resurrected at the end of the storyline)	revived	Antemortem
+
+Gerald Hesper	Corey | Unknowable Host | Kimberly Madison	Drowned within the flooded mine when Corey broke the water pump on orders from the Unknowable Host, after being trapped in an elevator by Kimberly Madison (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<3> Gerald Hesper's guards	Corey | Unknowable Host | Kimberly Madison	Drowned within the flooded mine when Corey broke the water pump on orders from the Unknowable Host, after being trapped in an elevator by Kimberly Madison (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<3> settlers	Unknowable Host | Douglas Akers	Murdered by Cloven Women on orders from the Unknowable Host, due to Douglas Akers' wish (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+Jeffrey	Unknowable Host | Douglas Akers	Crushed by a Cloven Woman on orders from the Unknowable Host, due to Douglas Akers' wish (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<1> man	Unknowable Host | Douglas Akers	Crushed in the darkness by a Cloven Woman on orders from the Unknowable Host, due to Douglas Akers' wish (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<3+> men	Unknowable Host | Douglas Akers	Crushed in the darkness by Cloven Women on orders from the Unknowable Host, due to Douglas Akers' wish (several mentioned) (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<1> red-bearded man	Unknowable Host | Douglas Akers	Head stomped on by a Cloven Woman on orders from the Unknowable Host, due to Douglas Akers' wish (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<3+> men	Unknowable Host | Douglas Akers	Stomped on by Cloven Women on orders from the Unknowable Host, due to Douglas Akers' wish (several mentioned) (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+Walter Akers	Unknowable Host | Douglas Akers	Chest stomped on by a Cloven Woman on orders from the Unknowable Host, due to Douglas Akers' wish (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<1> Cloven Woman	Riley Lawrence | Dina Cano	Shot in the eye with a musket by Riley Lawrence and stabbed through the back with a pitchfork by Dina Cano (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<3+> Lord's Glory settlers	Unknowable Host | Douglas Akers	Stomped on by Cloven Women on orders from the Unknowable Host, due to Douglas Akers' wish (several mentioned) (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+<60+> Lord's Glory men	Unknowable Host | Douglas Akers	Murdered by Cloven Women on orders from the Unknowable Host, due to Douglas Akers' wish (2 men for every woman, 30 women mentioned) (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+Rudy	Unknowable Host	Torn to pieces by the Unknowable Host's possessed (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+Jake	Unknowable Host	Torn to pieces by the Unknowable Host's possessed (resurrected at the end of the storyline)	revived	Even More Stories from the Campfire: Fatal Folktales
+
+Barb	Distortion	Murdered by the Distortion (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<1> Camden's supervisor	Distortion	Chest and ribs destroyed by the Distortion (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<1> lab tech	Distortion	Murdered by the Distortion (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<3> lab techs	Distortion	Murdered by the Distortion (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<3+> lab techs	Distortion	Murdered by the Distortion (several mentioned) (resurrected at the end of the storyline)	revived	Subject of Inquiry
+Rowe	Distortion	Murdered by the Distortion (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<3+> employees	Distortion	Murdered by the Distortion (several mentioned) (resurrected at the end of the storyline)	revived	Subject of Inquiry
+Truman Mentes	Distortion	Throat slashed and stomach gouged open by the Distortion (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<30+> KRSL employees	Distortion	Murdered by the Distortion (count mentioned) (resurrected at the end of the storyline)	revived	Subject of Inquiry
+Riley Lawrence	Distortion | Riley Lawrence	Throat bitten out by the Distortion, orchestrated by himself as a sacrifice play (resurrected at the end of the storyline)	revived	Subject of Inquiry
+Paul Kimble	Distortion | Riley Lawrence	Murdered by the Distortion via Riley Lawrence's attack (resurrected at the end of the storyline)	revived	Subject of Inquiry
+Nancy Cartwright	Distortion	Murdered by the Distortion (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<3+> KRSL agents	Distortion	Murdered by the Distortion (several mentioned) (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<1> KRSL agent	Antoine Stone	Shot in the face with a handgun by Antoine Stone (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<1> KRSL agent	Antoine Stone	Shot in the neck with a handgun by Antoine Stone (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<3> KRSL agents	Distortion | Anna Reed	Cut into ribbons by the Distortion, orchestrated by Anna Reed (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<2> KRSL agents	Distortion | Anna Reed	Skewered by the Distortion, orchestrated by Anna Reed (resurrected at the end of the storyline)	revived	Subject of Inquiry
+Anna Reed	KRSL Commander	Shot in the head by a KRSL agent on orders from the KRSL Commander (resurrected at the end of the storyline)	revived	Subject of Inquiry
+<3> KRSL agents	KRSL Commander	Shot in the head by the KRSL Commander (resurrected at the end of the storyline)	revived	Subject of Inquiry
+KRSL Commander	KRSL Commander	Shot in the head by one of the KRSL agents on his own indirect orders (resurrected at the end of the storyline)	revived	Subject of Inquiry
+
+Lukas Lewandowski		Died in an unknown storyline to obtain his aspect (resurrected at the end of the storyline)	revived	
+
+
+
+
+
+
 
 
 
