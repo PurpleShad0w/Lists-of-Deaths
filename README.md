@@ -29,7 +29,7 @@
 
 | universe                     | entry                                                                           | deaths              | named_deaths        | unique_deaths   |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|---------------------|-----------------|
-| **\***                       | **\***                                                                          | **558,277,886,860** | **300,102,150,626** | **4,395**       |
+| **\***                       | **\***                                                                          | **558,277,887,402** | **300,102,150,896** | **4,439**       |
 | **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** | **300,000,010,143** | **95**          |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               | 33                  | 33              |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     | 300,000,010,086     | 39              |
@@ -105,8 +105,9 @@
 | Déjà Vu                      | Do You Ever Get That Feeling of Déjà Vu                                         | 188,350,258,942     | 4,780               | 60              |
 | **Elden Ring**               | **\***                                                                          | **511**             | **248**             | **226**         |
 | Elden Ring                   | Elden Ring                                                                      | 511                 | 248                 | 226             |
-| **Final Fantasy**            | **\***                                                                          | **235**             | **25**              | **25**          |
-| Final Fantasy                | Final Fantasy XIII                                                              | 235                 | 25                  | 25              |
+| **Final Fantasy**            | **\***                                                                          | **777**             | **295**             | **69**          |
+| Final Fantasy                | Final Fantasy XIII                                                              | 237                 | 27                  | 27              |
+| Final Fantasy                | Final Fantasy XIII-2                                                            | 540                 | 268                 | 42              |
 | **Future Diary**             | **\***                                                                          | **44**              | **44**              | **42**          |
 | Future Diary                 | Future Diary                                                                    | 44                  | 44                  | 70              |
 | **Gantz**                    | **\***                                                                          | **701**             | **121**             | **70**          |
