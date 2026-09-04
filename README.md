@@ -29,11 +29,11 @@
 
 | universe                     | entry                                                                           | deaths              | named_deaths        | unique_deaths   |
 |------------------------------|---------------------------------------------------------------------------------|---------------------|---------------------|-----------------|
-| **\***                       | **\***                                                                          | **558,277,887,402** | **300,102,150,896** | **4,439**       |
+| **\***                       | **\***                                                                          | **558,479,957,671** | **300,102,151,804** | **4,771**       |
 | **A Certain Magical Index**  | **\***                                                                          | **301,083,119,748** | **300,000,010,143** | **95**          |
 | A Certain Magical Index      | A Certain Magical Index                                                         | 4,648               | 33                  | 33              |
 | A Certain Magical Index      | A Certain Magical Index New Testament                                           | 301,083,105,035     | 300,000,010,086     | 39              |
-| A Certain Magical Index      | A Certain Scientific Railgun                                                    | 10,040              | 13                  | 14              |
+| A Certain Magical Index      | A Certain Scientific Railgun                                                    | 10,040              | 13                  | 12              |
 | A Certain Magical Index      | Side Stories                                                                    | 25                  | 11                  | 11              |
 | **AI The Somnium Files**     | **\***                                                                          | **33**              | **29**              | **23**          |
 | AI The Somnium Files         | AI The Somnium Files                                                            | 25                  | 21                  | 15              |
@@ -60,7 +60,7 @@
 | Assassin's Creed             | Assassin's Creed Revelations                                                    | 20                  | 20                  | 19              |
 | Assassin's Creed             | Novelizations                                                                   | 6                   | 6                   | 6               |
 | **Attack on Titan**          | **\***                                                                          | **2,837,951**       | **139**             | **138**         |
-| Attack on Titan              | Attack on Titan                                                                 | 2,837,951           | 139                 | 142             |
+| Attack on Titan              | Attack on Titan                                                                 | 2,837,951           | 139                 | 138             |
 | **Attorney of the Arcane**   | **\***                                                                          | **18**              | **18**              | **17**          |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                                          | 18                  | 18                  | 17              |
 | **Barry**                    | **\***                                                                          | **145**             | **47**              | **47**          |
@@ -72,7 +72,7 @@
 | **Bloodstained**             | **\***                                                                          | **1,167**           | **72**              | **60**          |
 | Bloodstained                 | Bloodstained Ritual of the Night                                                | 1,167               | 72                  | 60              |
 | **Clair Obscur**             | **\***                                                                          | **589**             | **250**             | **242**         |
-| Clair Obscur                 | Clair Obscur Expedition 33                                                      | 589                 | 250                 | 248             |
+| Clair Obscur                 | Clair Obscur Expedition 33                                                      | 589                 | 250                 | 242             |
 | **Claymore**                 | **\***                                                                          | **80**              | **80**              | **74**          |
 | Claymore                     | Claymore                                                                        | 80                  | 80                  | 74              |
 | **Code Geass**               | **\***                                                                          | **35,000,058**      | **58**              | **54**          |
@@ -105,11 +105,14 @@
 | Déjà Vu                      | Do You Ever Get That Feeling of Déjà Vu                                         | 188,350,258,942     | 4,780               | 60              |
 | **Elden Ring**               | **\***                                                                          | **511**             | **248**             | **226**         |
 | Elden Ring                   | Elden Ring                                                                      | 511                 | 248                 | 226             |
-| **Final Fantasy**            | **\***                                                                          | **777**             | **295**             | **69**          |
-| Final Fantasy                | Final Fantasy XIII                                                              | 237                 | 27                  | 27              |
-| Final Fantasy                | Final Fantasy XIII-2                                                            | 540                 | 268                 | 42              |
+| **Final Fantasy**            | **\***                                                                          | **202,071,046**     | **652**             | **399**         |
+| Final Fantasy                | XIII / Final Fantasy XIII                                                       | 237                 | 27                  | 27              |
+| Final Fantasy                | XIII / Final Fantasy XIII-2                                                     | 545                 | 273                 | 44              |
+| Final Fantasy                | XIII / Lightning Returns Final Fantasy XIII                                     | 200,068,428         | 243                 | 241             |
+| Final Fantasy                | XV / Final Fantasy XV                                                           | 2,001,818           | 95                  | 76              |
+| Final Fantasy                | XV / Kingsglaive Final Fantasy XV                                               | 18                  | 14                  | 14              |
 | **Future Diary**             | **\***                                                                          | **44**              | **44**              | **42**          |
-| Future Diary                 | Future Diary                                                                    | 44                  | 44                  | 70              |
+| Future Diary                 | Future Diary                                                                    | 44                  | 44                  | 42              |
 | **Gantz**                    | **\***                                                                          | **701**             | **121**             | **70**          |
 | Gantz                        | Gantz                                                                           | 701                 | 121                 | 70              |
 | **Golden Kamuy**             | **\***                                                                          | **77**              | **77**              | **77**          |
@@ -121,8 +124,8 @@
 | Hunter × Hunter              | Hunter × Hunter                                                                 | 5,663,910           | 150                 | 150             |
 | **Infamous**                 | **\***                                                                          | **39**              | **39**              | **34**          |
 | Infamous                     | Comics                                                                          | 4                   | 4                   | 4               |
-| Infamous                     | Infamous                                                                        | 10                  | 10                  | 10              |
-| Infamous                     | Infamous 2                                                                      | 13                  | 13                  | 12              |
+| Infamous                     | Infamous                                                                        | 10                  | 10                  | 9               |
+| Infamous                     | Infamous 2                                                                      | 13                  | 13                  | 11              |
 | Infamous                     | Infamous Festival of Blood                                                      | 4                   | 4                   | 3               |
 | Infamous                     | Infamous First Light                                                            | 3                   | 3                   | 3               |
 | Infamous                     | Infamous Second Son                                                             | 5                   | 5                   | 5               |
@@ -139,19 +142,19 @@
 | Just Cause                   | Just Cause 3                                                                    | 15                  | 15                  | 14              |
 | Just Cause                   | Just Cause 4                                                                    | 13                  | 13                  | 13              |
 | **Kingdom Hearts**           | **\***                                                                          | **484,727**         | **106**             | **81**          |
-| Kingdom Hearts               | Kingdom Hearts                                                                  | 6,881               | 10                  | 12              |
+| Kingdom Hearts               | Kingdom Hearts                                                                  | 6,881               | 10                  | 10              |
 | Kingdom Hearts               | Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage-                       | 854                 | 0                   | 0               |
-| Kingdom Hearts               | Kingdom Hearts 358 2 Days                                                       | 782                 | 1                   | 2               |
-| Kingdom Hearts               | Kingdom Hearts Birth by Sleep                                                   | 16,387              | 7                   | 9               |
-| Kingdom Hearts               | Kingdom Hearts Chain of Memories                                                | 15                  | 7                   | 14              |
+| Kingdom Hearts               | Kingdom Hearts 358 2 Days                                                       | 782                 | 1                   | 1               |
+| Kingdom Hearts               | Kingdom Hearts Birth by Sleep                                                   | 16,387              | 7                   | 7               |
+| Kingdom Hearts               | Kingdom Hearts Chain of Memories                                                | 15                  | 7                   | 7               |
 | Kingdom Hearts               | Kingdom Hearts Dark Road / Enemy Album                                          | 84,000              | 0                   | 0               |
 | Kingdom Hearts               | Kingdom Hearts Dark Road / Events                                               | 319                 | 0                   | 0               |
 | Kingdom Hearts               | Kingdom Hearts Dark Road / Main Quests                                          | 2,312               | 11                  | 11              |
 | Kingdom Hearts               | Kingdom Hearts Dark Road / Mission Boards                                       | 343,536             | 0                   | 0               |
 | Kingdom Hearts               | Kingdom Hearts Dark Road / Tower of Trials                                      | 500                 | 0                   | 0               |
-| Kingdom Hearts               | Kingdom Hearts Dream Drop Distance                                              | 3,757               | 14                  | 23              |
-| Kingdom Hearts               | Kingdom Hearts II                                                               | 6,218               | 24                  | 29              |
-| Kingdom Hearts               | Kingdom Hearts III                                                              | 19,166              | 32                  | 39              |
+| Kingdom Hearts               | Kingdom Hearts Dream Drop Distance                                              | 3,757               | 14                  | 13              |
+| Kingdom Hearts               | Kingdom Hearts II                                                               | 6,218               | 24                  | 23              |
+| Kingdom Hearts               | Kingdom Hearts III                                                              | 19,166              | 32                  | 29              |
 | **Life is Strange**          | **\***                                                                          | **70**              | **70**              | **48**          |
 | Life is Strange              | Life is Strange                                                                 | 70                  | 70                  | 48              |
 | **Little Nightmares**        | **\***                                                                          | **78**              | **16**              | **16**          |
@@ -175,35 +178,35 @@
 | Mother of Learning           | Mother of Learning                                                              | 50,986,610,566      | 103,613             | 118             |
 | Mother of Learning           | Mother of Learning The AU Chapters                                              | 808,001,656         | 1,639               | 106             |
 | **Nasuverse**                | **\***                                                                          | **1,180,239,447**   | **426**             | **217**         |
-| Nasuverse                    | Fate / Apocrypha                                                                | 31                  | 31                  | 47              |
-| Nasuverse                    | Fate / Grand Order / -First Order-                                              | 7                   | 7                   | 18              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Free Quests   | 53                  | 5                   | 12              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Interludes    | 268                 | 27                  | 43              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Main Quests   | 117                 | 9                   | 18              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Okeanos - Free Quests  | 91                  | 5                   | 11              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Okeanos - Main Quests  | 284                 | 23                  | 41              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Orleans - Free Quests  | 74                  | 5                   | 11              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Orleans - Interludes   | 321                 | 15                  | 28              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Orleans - Main Quests  | 337                 | 25                  | 39              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Septem - Free Quests   | 82                  | 6                   | 10              |
-| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Septem - Main Quests   | 288                 | 17                  | 36              |
-| Nasuverse                    | Fate / Prototype Fragments of Sky Silver                                        | 16                  | 16                  | 23              |
-| Nasuverse                    | Fate / Zero                                                                     | 604                 | 28                  | 43              |
+| Nasuverse                    | Fate / Apocrypha                                                                | 31                  | 31                  | 31              |
+| Nasuverse                    | Fate / Grand Order / -First Order-                                              | 7                   | 7                   | 7               |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Free Quests   | 53                  | 5                   | 5               |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Interludes    | 268                 | 27                  | 20              |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Fuyuki - Main Quests   | 117                 | 9                   | 8               |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Okeanos - Free Quests  | 91                  | 5                   | 5               |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Okeanos - Main Quests  | 284                 | 23                  | 21              |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Orleans - Free Quests  | 74                  | 5                   | 5               |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Orleans - Interludes   | 321                 | 15                  | 15              |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Orleans - Main Quests  | 337                 | 25                  | 21              |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Septem - Free Quests   | 82                  | 6                   | 5               |
+| Nasuverse                    | Fate / Grand Order / Arc 1 Observer on Timeless Temple / Septem - Main Quests   | 288                 | 17                  | 17              |
+| Nasuverse                    | Fate / Prototype Fragments of Sky Silver                                        | 16                  | 16                  | 15              |
+| Nasuverse                    | Fate / Zero                                                                     | 604                 | 28                  | 28              |
 | Nasuverse                    | Fate / Zero Another Story Heart of Freaks                                       | 4,018               | 4                   | 2               |
-| Nasuverse                    | Fate / stay night                                                               | 226                 | 143                 | 40              |
-| Nasuverse                    | TYPE-MOON Material Books & Lore                                                 | 1,180,232,630       | 60                  | 94              |
+| Nasuverse                    | Fate / stay night                                                               | 226                 | 143                 | 28              |
+| Nasuverse                    | TYPE-MOON Material Books & Lore                                                 | 1,180,232,630       | 60                  | 60              |
 | **Ozark**                    | **\***                                                                          | **225**             | **39**              | **39**          |
 | Ozark                        | Ozark                                                                           | 225                 | 39                  | 39              |
 | **Project Moon**             | **\***                                                                          | **383,315**         | **408**             | **238**         |
-| Project Moon                 | Library of Ruina                                                                | 380,408             | 151                 | 133             |
-| Project Moon                 | Limbus Company / Canto I The Outcast                                            | 157                 | 20                  | 18              |
+| Project Moon                 | Library of Ruina                                                                | 380,408             | 151                 | 132             |
+| Project Moon                 | Limbus Company / Canto I The Outcast                                            | 157                 | 20                  | 16              |
 | Project Moon                 | Limbus Company / Canto II The Unloving                                          | 230                 | 3                   | 3               |
-| Project Moon                 | Limbus Company / Canto III The Unconfronting                                    | 244                 | 29                  | 20              |
-| Project Moon                 | Limbus Company / Canto IV The Unchanging                                        | 244                 | 12                  | 13              |
+| Project Moon                 | Limbus Company / Canto III The Unconfronting                                    | 244                 | 29                  | 18              |
+| Project Moon                 | Limbus Company / Canto IV The Unchanging                                        | 244                 | 12                  | 12              |
 | Project Moon                 | Limbus Company / Canto IX The Unsevering                                        | 109                 | 13                  | 13              |
-| Project Moon                 | Limbus Company / Canto V The Evil Defining                                      | 350                 | 25                  | 21              |
-| Project Moon                 | Limbus Company / Canto VI The Heartbreaking                                     | 275                 | 29                  | 19              |
-| Project Moon                 | Limbus Company / Canto VII The Dream Ending                                     | 261                 | 22                  | 24              |
+| Project Moon                 | Limbus Company / Canto V The Evil Defining                                      | 350                 | 25                  | 19              |
+| Project Moon                 | Limbus Company / Canto VI The Heartbreaking                                     | 275                 | 29                  | 14              |
+| Project Moon                 | Limbus Company / Canto VII The Dream Ending                                     | 261                 | 22                  | 22              |
 | Project Moon                 | Limbus Company / Canto VIII The Surrendered Witnessing                          | 284                 | 11                  | 9               |
 | Project Moon                 | Limbus Company / Identity Stories                                               | 1                   | 1                   | 1               |
 | Project Moon                 | Limbus Company / Intervallo I Hell's Chicken                                    | 72                  | 0                   | 0               |
@@ -212,32 +215,32 @@
 | Project Moon                 | Limbus Company / Intervallo III Yield My Flesh to Claim Their Bones             | 96                  | 1                   | 1               |
 | Project Moon                 | Limbus Company / Intervallo IV Murder on the WARP Express                       | 88                  | 4                   | 4               |
 | Project Moon                 | Limbus Company / Intervallo IV Timekilling Time                                 | 44                  | 1                   | 1               |
-| Project Moon                 | Limbus Company / Intervallo V LCB Regular Check-up                              | 70                  | 12                  | 14              |
+| Project Moon                 | Limbus Company / Intervallo V LCB Regular Check-up                              | 70                  | 12                  | 12              |
 | Project Moon                 | Limbus Company / Intervallo V Nocturnal Sweeping                                | 72                  | 2                   | 2               |
 | Project Moon                 | Limbus Company / Intervallo VI Spring Cultivation                               | 7                   | 4                   | 4               |
 | Project Moon                 | Limbus Company / Intervallo VII Twining Threads                                 | 73                  | 1                   | 1               |
-| Project Moon                 | Limbus Company / Observation Logs                                               | 39                  | 39                  | 14              |
-| Project Moon                 | Limbus Company / Prologue Selva Oscura                                          | 30                  | 12                  | 14              |
-| Project Moon                 | Lobotomy Corporation                                                            | 12                  | 12                  | 12              |
-| **Re Zero**                  | **\***                                                                          | **100,159,743**     | **100,014,459**     | **145**         |
-| Re Zero                      | Re IF / Ayamatsu                                                                | 10,603              | 10,593              | 38              |
-| Re Zero                      | Re IF / Kasaneru                                                                | 100,001,524         | 100,001,262         | 18              |
-| Re Zero                      | Re IF / Oboreru                                                                 | 126,710             | 9                   | 18              |
-| Re Zero                      | Re IF / Sasageru                                                                | 516                 | 516                 | 42              |
-| Re Zero                      | Re IF / Tsugihagu                                                               | 50                  | 21                  | 42              |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 1 The Tumultuous First Day       | 7                   | 7                   | 8               |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week             | 31                  | 5                   | 4               |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 3 Return to the Royal Capital    | 194                 | 70                  | 30              |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 4 The Everlasting Contract       | 833                 | 108                 | 31              |
-| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 5 The Stars That Engrave History | 336                 | 22                  | 20              |
+| Project Moon                 | Limbus Company / Observation Logs                                               | 39                  | 39                  | 12              |
+| Project Moon                 | Limbus Company / Prologue Selva Oscura                                          | 30                  | 12                  | 12              |
+| Project Moon                 | Lobotomy Corporation                                                            | 12                  | 12                  | 11              |
+| **Re Zero**                  | **\***                                                                          | **100,159,743**     | **100,015,010**     | **147**         |
+| Re Zero                      | Re IF / Ayamatsu                                                                | 10,603              | 10,593              | 19              |
+| Re Zero                      | Re IF / Kasaneru                                                                | 100,001,524         | 100,001,298         | 10              |
+| Re Zero                      | Re IF / Oboreru                                                                 | 126,710             | 9                   | 9               |
+| Re Zero                      | Re IF / Sasageru                                                                | 516                 | 516                 | 21              |
+| Re Zero                      | Re IF / Tsugihagu                                                               | 50                  | 21                  | 21              |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 1 The Tumultuous First Day       | 7                   | 7                   | 4               |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 2 The Turbulent Week             | 31                  | 5                   | 2               |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 3 Return to the Royal Capital    | 194                 | 70                  | 20              |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 4 The Everlasting Contract       | 833                 | 623                 | 21              |
+| Re Zero                      | Re Zero -Starting Life in Another World- / Arc 5 The Stars That Engrave History | 336                 | 22                  | 16              |
 | Re Zero                      | Re Zero Ex / Volume 1 The Dream the Lion King Saw                               | 9                   | 9                   | 8               |
 | Re Zero                      | Re Zero Ex / Volume 2 Sword Demon Love Song                                     | 3,569               | 6                   | 3               |
 | Re Zero                      | Re Zero Ex / Volume 4 The Travelogue of the Finest                              | 2,005               | 2                   | 2               |
 | Re Zero                      | Re Zero Ex / Volume 5 The Tale of the Scarlet Princess                          | 1,007               | 802                 | 11              |
-| Re Zero                      | Re Zero Ex / Volume 6 Sword Demon Battle Ballad                                 | 11,261              | 8                   | 9               |
+| Re Zero                      | Re Zero Ex / Volume 6 Sword Demon Battle Ballad                                 | 11,261              | 8                   | 8               |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 1                                                   | 4                   | 4                   | 3               |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 10                                                  | 16                  | 2                   | 2               |
-| Re Zero                      | Re Zero Tanpenshuu / Volume 11                                                  | 4                   | 1                   | 2               |
+| Re Zero                      | Re Zero Tanpenshuu / Volume 11                                                  | 4                   | 1                   | 1               |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 12                                                  | 17                  | 3                   | 3               |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 13                                                  | 1,010               | 1,000               | 1               |
 | Re Zero                      | Re Zero Tanpenshuu / Volume 3                                                   | 3                   | 1                   | 1               |
