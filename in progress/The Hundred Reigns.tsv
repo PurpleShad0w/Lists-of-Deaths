@@ -2,13 +2,20 @@ character	killed by	death	type	reign
 
 groups :
 
-Prince of Spiders	Silk | Velvet
+Prince of Spiders	Verney-Valravn | Silk | Velvet
 is it actually every weaver ? just the 'twins' ? only verney ?
 
 Eole-Tiamut	Eole | Tiamut
 Casval-Nodens	Casval Ashmodai | Nodens
 Verney-Valravn	Thomas Verney | Valravn
 Anna-Helel	Anna Paimon | Helel
+Borsh-Ygnolark	Borsh Deathmonger | Ygnolark
+Shin-Mastemo	Shin-Drazil | Mastemo
+Tiamut-Melusine	Tiamut | Melusine
+Chrom-Hashtur	Chrom Cruak | Hashtur
+
+Dominators	Helel | Mithras | Valravn | Nodens | Hashtur | Tiamut
+Destroyers	Asterion | Shin-Drazil | Exodeos | Isfet
 
 characters / aliases :
 
@@ -61,7 +68,7 @@ Ludwig Bert
 Edric Albert / Albert of Magvolia
 Amadeus Voltobauta / Voltobauta of Valne
 Granny Radhag / Granny Radhag of Uyo
-Borsh Fleshmonger / Lorak of the Silverfang Tribe
+Borsh Fleshmonger / Lorak of the Silverfang Tribe / Borsh Deathmonger
 Chrom Cruak / Chrom Cruak of Navarre
 Thomas Verney / Verney of Lore / Count of Demise
 
@@ -82,7 +89,6 @@ Grius
 Azulbolla / Azulbolla, the Azure Dragon
 Phoenix / Phoenix, the Vermillion Bird
 Alcyone Hyades
-Carlo of Muse
 Lysandra / Oracle of Illusea
 Ulmos the Slime / Ulmos the Pictomancer
 Nora
@@ -93,21 +99,22 @@ Edward
 Dorian
 Satine Renais / Satine of Magvolia
 Robert Flauros
-Gregory the Juggler
-Grimm the Acrobat
+Gregory / Gregory the Juggler
+Grimm / Grimm the Acrobat
 Anselma Flauros / Lutzelfrau / Anselma Malphas
 Mebbeth
-Asterion / Minotaur
-Scorpion
-Archer
+Asterion / Minotaur / Asterion, the Maze of Time
+Isfet / Scorpion / Isfet, the Poisoned Gift
+Algozoa / Archer / Algozoa, the Last Predator
 Exodeos / Scales / Exodeos, the Scales of Emptiness
 Lotan / Crab / Lotan, the Isolator
 Nodens / Goatfish / Nodens, the Painbringer / Nodens, the Flayer of Worlds
 Helel / Maiden / Helel, the Maiden of Control
-Mithras / Lion
+Mithras / Lion / Mithras, the War Lion
 Shin-Drazil / Water-Carrier
 Valravn / Twins / Valravn, the Uncanny Twins
-Tiamut / Twin-Tailed Fish
+Tiamut / Twin-Tailed Fish / Two-Tailed Fish
+Hashtur / Ram
 
 
 Anaximander
@@ -142,9 +149,9 @@ Moryo
 Onishogun
 Horse-Eater Ogre
 Maleagant of Gorre / Sellsword Duke (deceased)
-Agrat
+Agrat / Second Nightqueen
 Pallian
-Melusine of Kitezh
+Melusine / Melusine of Kitezh
 Echidna Redhand
 Persephone
 Junon
@@ -165,6 +172,14 @@ Gavial
 Ben
 Uther of Lore
 Marraco
+Dessin
+Ygnolark / Lord of Runes
+Solon
+Parallelos / Parallelos, the Curator
+Clive
+Pendragon / Pendragon, Bravery's Wings
+Fenris
+Phul / Phul, the Vainglorious
 
 
 
@@ -174,6 +189,8 @@ previous Overlord reigns :
 Simon thinks one of Mardok's deaths was due to Belzemine killing him
 
 {12} Gargauth
+
+Melusine	Gargauth	Devoured by Gargauth (undone via the Crimson Throne)	undone	Gargauth's reigns
 
 Mardok Endymion	Gargauth	Eaten alive by Gargauth (soul preserved within the Crimson Throne)	physical	
 Gargauth	Balzam Magnos | Euphemia Magnos-Agares	Gutted and beheaded during a fight against Balzam Magnos and Euphemia Magnos-Agares (soul preserved within the Crimson Throne)	physical	
@@ -190,7 +207,7 @@ Balzam Magnos		Murdered during the Cocagne Affair (undone via the Crimson Throne
 Balzam Magnos		Murdered while having sex with succubi (undone via the Crimson Throne)	undone	Balzam's reigns
 {5} Balzam Magnos		Murdered several times by Paladins (undone via the Crimson Throne)	undone	Balzam's reigns
 {4} Balzam Magnos	Berwick Lich	Murdered several times by the Berwick Lich (undone via the Crimson Throne)	undone	Balzam's reigns
-{3} Balzam Magnos	Carlo of Muse	Murdered several times by a musan sniper (undone via the Crimson Throne)	undone	Balzam's reigns
+{3} Balzam Magnos	Musan Sniper	Shot several times by the Musan Sniper (undone via the Crimson Throne)	undone	Balzam's reigns
 {2} Balzam Magnos	Euphemia Magnos-Agares	Murdered several times by Euphemia Magnos-Agares (undone via the Crimson Throne)	undone	Balzam's reigns
 Balzam Magnos	Norbelle Magnos	Fed to one of her Eidolons by Norbelle Magnos (undone via the Crimson Throne)	undone	Balzam's reigns
 Balzam Magnos		Murdered via a public execution (undone via the Crimson Throne)	undone	Balzam's reigns
@@ -205,6 +222,7 @@ Dassein Magnos	Simon Magnos	Impaled on his giant horns by Simon Magnos (undone v
 Thalas Magnos	Simon Magnos | Thalas Magnos	Impaled by Simon Magnos after pushing Balzam out of the way, sacrificing himself (undone via the Crimson Throne)	undone	Balzam's reigns
 Simon Magnos	Balzam Magnos	Strangled to death by Balzam Magnos (undone via the Crimson Throne)	undone	Balzam's reigns
 Frea	Simon Magnos	Skull bashed with a morning star by Simon Magnos (undone via the Crimson Throne)	undone	Balzam's reigns
+Melusine	Balzam Magnos	Devoured by Balzam Magnos (undone via the Crimson Throne)	undone	Balzam's reigns
 
 Balzam Magnos	Louis Magnos | Patriate Malphas | Oracle of Illusea	Slashed from shoulder to navel with the Mana Sword by Louis Magnos, sword smuggled in by Patriate Malphas on orders from the Oracle of Illusea		
 Sha	Louis Magnos	Throat slit by Louis Magnos		
@@ -212,12 +230,13 @@ Sha	Louis Magnos	Throat slit by Louis Magnos
 
 lore :
 
-more than a million people live in the capital
+over a million live in the capital Marthrone
 Firewand possibly killed several times by the Overlords as an XP source ?
 millions die in the Civil War
 Eidolons dying only banishes them from this plane of existence temporarily
 Vouivre counted hundreds of thousands of troops under her command
 reign 24 whole world destroyed by the paradox ?
+every world that outlives Simon might be erased or not
 
 
 
@@ -296,6 +315,7 @@ Valravn	Elios Magnos	Body destroyed by Elios Magnos, the then-current Rogue and 
 <1> then-current Ranger	Valravn	Lacerated by Valravn		
 <1> then-current Warrior	Helel	Murdered by Helel		
 Mana Goddess	Mana Goddess	Sacrificed herself by using her own lifeforce to seal Helel		
+Agrat's daughter	Agrat	Strangled to death by Agrat		
 
 
 
@@ -307,8 +327,8 @@ Ishtar ???
 
 loops and deaths :
 
-Simon Magnos		Incinerated by ??? (undone via the Crimson Throne)	undone	1
-killed by Patriate Malphas ???
+Simon Magnos	Patriate Malphas | Oracle of Illusea	Blown up by Patriate Malphas on orders from the Oracle of Illusea (undone via the Crimson Throne)	undone	1
+Patriate Malphas	Patriate Malphas | Oracle of Illusea	Blew himself up on orders from the Oracle of Illusea (undone via the Crimson Throne)	undone	1
 
 Simon Magnos	Simon Magnos | Overlord	Strangled by his own Overlord Class when he tried revealing his secret to Lauriane (undone via the Crimson Throne)	undone	2
 
@@ -676,7 +696,7 @@ Eole	Louis Magnos	Murdered by Louis Magnos (undone via the Crimson Throne)	undon
 Belzemine	Louis Magnos | Nodens	Put down by Louis Magnos after being polymorphed by Nodens (undone via the Crimson Throne)	undone	20
 Simon Magnos	Louis Magnos	Impaled with the Mana Sword and two copies of it by Louis Magnos (undone via the Crimson Throne)	undone	20
 
-Simon Magnos		Murdered when the Abyss' baleful eye stared at him (undone via the Crimson Throne)	undone	21
+Simon Magnos	Parallelos	Murdered when stared at by Parallelos (undone via the Crimson Throne)	undone	21
 
 Simon Magnos	???
 death ?
@@ -745,8 +765,8 @@ Valravn	Frea | Belzemine | Simon Magnos | Richard of Lore	Perished when its host
 Renal	Alcyone Hyades	Slain by Alcyone Hyades and her group (undone via the Crimson Throne)	undone	24
 <3+> mimics	Simon Magnos	Devoured by Simon Magnos' undead goats (several mentioned) (undone via the Crimson Throne)	undone	24
 Belzemine	Belzemine	Sacrificed herself by returning the divine lifeforce she inherited from the Mana Mother to repair Helel's seal (undone via the Crimson Throne)	undone	24
-Simon Magnos' dracozombie	Mel | Simon Magnos | Frea	Slain by Mel on orders from Simon Magnos, on request from Frea, and resurrected afterwards (undone via the Crimson Throne)	undone	24
-Simon Magnos' dracozombie	Satine Renais | Simon Magnos | Frea	Slain by Satine Renais on orders from Simon Magnos, on request from Frea, and resurrected afterwards (undone via the Crimson Throne)	undone	24
+Simon Magnos' dracozombie	Mel | Simon Magnos | Frea	Slain by Mel on orders from Simon Magnos, on request from Frea, and resurrected afterwards (undone via the Crimson Throne)	revived | undone	24
+Simon Magnos' dracozombie	Satine Renais | Simon Magnos | Frea	Slain by Satine Renais on orders from Simon Magnos, on request from Frea, and resurrected afterwards (undone via the Crimson Throne)	revived | undone	24
 <3+> orcs	Simon Magnos | Alphonse of Lore | Frea | Mel | Satine Renais	Slain by Simon Magnos and Alphonse of Lore's party (several mentioned) (undone via the Crimson Throne)	undone	24
 <3+> goblinoids	Simon Magnos | Alphonse of Lore | Frea | Mel | Satine Renais	Slain by Simon Magnos and Alphonse of Lore's party (several mentioned) (undone via the Crimson Throne)	undone	24
 <1> giant antlion	Simon Magnos | Alphonse of Lore | Frea | Mel | Satine Renais	Slain by Simon Magnos and Alphonse of Lore's party (undone via the Crimson Throne)	undone	24
@@ -757,6 +777,120 @@ Simon Magnos' dracozombie	Satine Renais | Simon Magnos | Frea	Slain by Satine Re
 Marraco	Frea | Satine Renais | Alphonse of Lore | Mel | Simon Magnos	Heart blasted with Nova by Frea while buffed by Satine Renais, scales torn out by Alphonse of Lore and wings slashed by Mel, while under psychic attack by Simon Magnos (undone via the Crimson Throne)	undone	24
 Carbuncle	Simon Magnos	Collapsed in on himself into a hole of miasma due to the paradox of his summoning by Simon Magnos (later revived due to his nature as an Eidolon) (undone via the Crimson Throne)	revived | undone	24
 Simon Magnos	Lysandra	Heart torn from his chest by Lysandra (undone via the Crimson Throne)	undone	24
+
+Duchar Honorius		Died from unknown causes (undone via the Crimson Throne)	undone	25
+Simon Magnos' dracozombie	Lotan	Torn to pieces by Lotan, later resurrected (undone via the Crimson Throne)	revived | undone	25
+<36+> monsters	Simon Magnos	Slaughtered by Simon Magnos (three dozens mentioned) (undone via the Crimson Throne)	undone	25
+<9+> monsters	Simon Magnos	Slaughtered by Simon Magnos (several patrols mentioned) (undone via the Crimson Throne)	undone	25
+<3+> monsters	Simon Magnos	Slain via Dreadful Aura's Instadeath effect by Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> monsters	Simon Magnos	Torn out by their undead comrades on orders from Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> monsters	Borsh-Ygnolark	Hit with stray beams by Borsh-Ygnolark (several mentioned) (undone via the Crimson Throne)	undone	25
+<24+> monsters	Borsh-Ygnolark | Simon Magnos	Slaughtered by Borsh-Ygnolark while under commands and used as a distraction by Simon Magnos (dozens mentioned) (undone via the Crimson Throne)	undone	25
+<3+> monsters	Simon Magnos	Consumed by Simon Magnos' Darkflare (several mentioned) (undone via the Crimson Throne)	undone	25
+Dessin	Simon Magnos | Borsh-Ygnolark	Drained of its lifeforce by Simon Magnos after being fatally wounded by Borsh-Ygnolark (undone via the Crimson Throne)	undone	25
+Simon Magnos' dracozombie	Borsh-Ygnolark | Simon Magnos	Blown up by Borsh-Ygnolark while used as a living shield by Simon Magnos, later resurrected (undone via the Crimson Throne)	revived | undone	25
+Borsh Deathmonger	Borsh-Ygnolark | Simon Magnos	Blew himself up alongside his Domain as Borsh-Ygnolark to prevent being branded by Simon Magnos (undone via the Crimson Throne)	undone	25
+Ygnolark	Borsh-Ygnolark | Simon Magnos	Blew himself up alongside his Domain as Borsh-Ygnolark to prevent being branded by Simon Magnos (undone via the Crimson Throne)	undone	25
+<3+> fiends	Simon Magnos	Splattered into a bloody smear by Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> soldiers	Simon Magnos	Slain by Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	25
+<2+> dragons	Algozoa	Hunted to extinction by Algozoa (plural) (undone via the Crimson Throne)	undone	25
+<200+> warriors	Destroyers	Incinerated by fire elementals led by the Destroyers (hundreds mentioned) (undone via the Crimson Throne)	undone	25
+<2,000+> people	Oracle of Illusea	Caught in an explosion at Castle Frightwall caused when the Oracle of Illusea cast Goddess' Judgment (thousands mentioned) (undone via the Crimson Throne)	undone	25
+<3+> animals	Algozoa	Shot with countless arrows by Algozoa (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> undead thralls	Algozoa	Blown up with a projectile by Algozoa (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> beasts	Simon Magnos	Incinerated via Simon Magnos' Edict of Wounded Earth (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> servants	Simon Magnos	Drained of their lifeforce through their Devil Brands by Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	25
+Algozoa	Simon Magnos | Agrat	Brain incinerated with Hellfire Gaze by Simon Magnos, orchestrated by Agrat (returned to its crystal) (undone via the Crimson Throne)	physical | undone	25
+Agrat	Simon Magnos	Head blown off with Darkflare by Simon Magnos (undone via the Crimson Throne)	undone	25
+Lysandra	Elios Magnos	Murdered by Elios Magnos while trying to close Illusea's rift (undone via the Crimson Throne)	undone	25
+Alphonse of Lore		Died from unknown causes (undone via the Crimson Throne)	undone	25
+Alcyone Hyades		Died from unknown causes (undone via the Crimson Throne)	undone	25
+<3+> refugees	Asterion	Exterminated by Asterion's Instadeath aura (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> refugees	Simon Magnos | Asterion	Accidentally crushed by Simon Magnos when he was hurled across Frightwall by Asterion (several mentioned) (undone via the Crimson Throne)	undone	25
+Patriate Malphas	Patriate Malphas | Oracle of Illusea	Blew himself up on orders from the Oracle of Illusea (undone via the Crimson Throne)	undone	25
+Lauriane Magnos		Died during the War that broke out over the Overlord's succession (undone via the Crimson Throne)	undone	25
+Louis Magnos		Died during the War that broke out over the Overlord's succession (undone via the Crimson Throne)	undone	25
+Thalas Magnos		Died during the War that broke out over the Overlord's succession (undone via the Crimson Throne)	undone	25
+Dassein Magnos		Died during the War that broke out over the Overlord's succession (undone via the Crimson Throne)	undone	25
+Norbelle Magnos		Died during the War that broke out over the Overlord's succession (undone via the Crimson Throne)	undone	25
+Euphemia Magnos-Agares		Died during the War that broke out over the Overlord's succession (undone via the Crimson Throne)	undone	25
+<200+> elves	Simon Magnos | Mardok Endymion | Gargauth | Balzam Magnos	Slain via Simon Magnos' Lord of Dark Instadeath while possessed by the previous Overlords (hundreds mentioned) (undone via the Crimson Throne)	undone	25
+<3+> elementals	Simon Magnos | Mardok Endymion | Gargauth | Balzam Magnos	Slain via Simon Magnos' Lord of Dark Instadeath while possessed by the previous Overlords (several mentioned) (undone via the Crimson Throne)	undone	25
+Gargauth	Simon Magnos	Head ripped off by Simon Magnos (instantly regrown from Simon) (undone via the Crimson Throne)	revived | undone	25
+Isfet	Mardok Endymion | Gargauth | Simon Magnos	Vaporized via Hellfire Gaze and dragonflames fired by Mardok Endymion and Gargauth's heads while possessing Simon Magnos (returned to its crystal) (undone via the Crimson Throne)	physical | undone	25
+Exodeos	Mardok Endymion | Gargauth | Simon Magnos	Vaporized via Hellfire Gaze and dragonflames fired by Mardok Endymion and Gargauth's heads while possessing Simon Magnos (returned to its crystal) (undone via the Crimson Throne)	physical | undone	25
+<3+> soldiers	Simon Magnos | Mardok Endymion | Gargauth | Balzam Magnos	Vaporized via Hellfire Gaze by Simon Magnos and the previous Overlords (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> dragonkin	Simon Magnos | Tiamut-Melusine	Crushed themselves against Simon Magnos on orders from Tiamut-Melusine (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> undead	Simon Magnos | Tiamut-Melusine	Crushed themselves against Simon Magnos on orders from Tiamut-Melusine (several mentioned) (undone via the Crimson Throne)	undone	25
+<3+> Dominators' army soldiers	Simon Magnos | Mardok Endymion | Gargauth | Balzam Magnos	Annihilated with a blast of miasma by Simon Magnos and the previous Overlords (several mentioned) (undone via the Crimson Throne)	undone	25
+Tiamut	Simon Magnos | Mardok Endymion | Gargauth | Balzam Magnos	Cleaved into a thousand pieces by Simon Magnos while possessed by the previous Overlords (returned to its crystal) (undone via the Crimson Throne)	physical | undone	25
+Melusine	Simon Magnos | Mardok Endymion | Gargauth | Balzam Magnos	Cleaved into a thousand pieces by Simon Magnos while possessed by the previous Overlords (undone via the Crimson Throne)	undone	25
+Lotan	Mardok Endymion | Gargauth | Simon Magnos	Torn in half by Mardok Endymion and Gargauth's heads while possessing Simon Magnos (returned to its crystal) (undone via the Crimson Throne)	physical | undone	25
+Nodens	Gargauth | Simon Magnos	Vaporized with dragonfire by Gargauth's head while possessing Simon Magnos (returned to its crystal) (undone via the Crimson Throne)	physical | undone	25
+Valravn	Gargauth | Simon Magnos	Vaporized with dragonfire by Gargauth's head while possessing Simon Magnos (returned to its crystal) (undone via the Crimson Throne)	physical | undone	25
+<2,000+> people	Asterion	Slain by Asterion during his destruction of Frightwall (thousands mentioned) (undone via the Crimson Throne)	undone	25
+Mardok Endymion		Vaporized via Goddess' Judgment by the Moon elves (returned to the void between time)	physical	25
+Gargauth		Vaporized via Goddess' Judgment by the Moon elves (returned to the void between time)	physical	25
+Balzam Magnos		Vaporized via Goddess' Judgment by the Moon elves (returned to the void between time)	physical	25
+Simon Magnos		Vaporized via Goddess' Judgment by the Moon elves (undone via the Crimson Throne)	undone	25
+
+Simon Magnos	???
+no death
+
+Simon Magnos' dracozombie	Simon Magnos	Blown up with Darkflare by Simon Magnos, later resurrected (undone via the Crimson Throne)	revived | undone	27
+<3+> goats	Simon Magnos	Blew themselves up alongside the Attic on orders from Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	27
+<3+> lesser beasts of Hell	Simon Magnos | Agrat | Justine Eligos	Heads bashed in with a mace by Simon Magnos, summoned by Agrat and Justine Eligos (several mentioned) (undone via the Crimson Throne)	undone	27
+<3+> raw matter elementals	Simon Magnos | Agrat | Justine Eligos	Heads bashed in with a mace by Simon Magnos, summoned by Agrat and Justine Eligos (several mentioned) (undone via the Crimson Throne)	undone	27
+<3+> familiars	Simon Magnos | Agrat | Justine Eligos	Heads bashed in with a mace by Simon Magnos, summoned by Agrat and Justine Eligos (several mentioned) (undone via the Crimson Throne)	undone	27
+Patriate Malphas	Simon Magnos' dracozombie | Simon Magnos	Melted via noxious fumes by Simon Magnos' dracozombie on his orders (undone via the Crimson Throne)	undone	27
+<3+> conspirators	Simon Magnos' dracozombie | Simon Magnos	Melted via noxious fumes by Simon Magnos' dracozombie on his orders (several mentioned) (undone via the Crimson Throne)	undone	27
+Clive	Gourmand | Simon Magnos	Beheaded with a scythe by Gourmand on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<1> prisoner	Simon Magnos | Duchar Honorius	Flesh and lifeforce devoured by abyssal spirits summoned by Simon Magnos, testing a spell created by Duchar Honorius (undone via the Crimson Throne)	undone	27
+<2,000+> Rosanne sailors	Ronah Andras | Simon Magnos	Slaughtered in an air force bombardment led by Ronah Andras on orders from Simon Magnos (thousands mentioned) (undone via the Crimson Throne)	undone	27
+<3+> Monoceros Guild members	Gourmand | Grimm | Gremory | Simon Magnos	Slaughtered by Gourmand's troupe on orders from Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	27
+<48> Endymion soldiers		Slain by Monoceros Guild members during the Battle of Rosanne (undone via the Crimson Throne)	undone	27
+<400+> airship crew	Pendragon	Destroyed alongside their airships by dracolisks led by Pendragon (2 airships mentioned, presumably manned by at least two hundred soldiers each given info from reign 8) (undone via the Crimson Throne)	undone	27
+<200+> airship crew	Pendragon	Destroyed alongside their airship by Pendragon (1 airship mentioned, presumably manned by at least two hundred soldiers given info from reign 8) (undone via the Crimson Throne)	undone	27
+<600+> airship crew	Lysandra	Destroyed alongside their airship by the tempest summoned by the elven archmage on orders from Lysandra (several airships mentioned, presumably manned by at least two hundred soldiers each given info from reign 8) (undone via the Crimson Throne)	undone	27
+<400+> airship crew	Simon Magnos | Lysandra	Destroyed alongside their airship by Frightwall's descent controlled by Simon Magnos, caused by the tempest summoned by the elven archmage on orders from Lysandra (airships mentioned, presumably manned by at least two hundred soldiers each given info from reign 8) (undone via the Crimson Throne)	undone	27
+<2> dracolisks	Thalas Magnos | Simon Magnos	Slaughtered by Thalas Magnos on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<1> Ninja	Thalas Magnos | Simon Magnos	Slaughtered by Thalas Magnos on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<1> goblin spellcaster	Thalas Magnos | Simon Magnos	Slaughtered by Thalas Magnos on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<1> male scalefolk Dancer Vassal	Thalas Magnos | Simon Magnos	Slaughtered by Thalas Magnos on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<1> Pendragon's summoner	Thalas Magnos | Simon Magnos	Slaughtered by Thalas Magnos on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<1> vestal	Louis Magnos | Simon Magnos	Skewered by Louis Magnos on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<3+> priests	Louis Magnos | Simon Magnos	Skewered by Louis Magnos on orders from Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	27
+<20,000+> Casmene soldiers	Lysandra	Caught in the tempest summoned by the elven archmage on orders from Lysandra (thousands mentioned, stated to be almost as many as slain by the airships) (undone via the Crimson Throne)	undone	27
+Ronah Andras	Lysandra	Caught in the tempest summoned by the elven archmage on orders from Lysandra (undone via the Crimson Throne)	undone	27
+<400+> Ronah's airship crew	Lysandra	Caught in the tempest summoned by the elven archmage on orders from Lysandra (airships mentioned, presumably manned by at least two hundred soldiers each given info from reign 8) (undone via the Crimson Throne)	undone	27
+<20,000+> Casmene soldiers	Louis Magnos | Maublanc Paimon | Ronah Andras | Simon Magnos	Slain during the Battle of Casmene led by Louis Magnos, Maublanc Paimon and Ronah Andras on orders from Simon Magnos (ten-to-one casualty ratio mentioned, at least 2000 losses on Simon's side from the airships lost) (undone via the Crimson Throne)	undone	27
+Simon Magnos' dracozombie	Leonard Decarabia | Ygnolark | Simon Magnos	Slain by Leonard Decarabia while fused with Ygnolark on orders from Simon Magnos and resurrected afterwards (undone via the Crimson Throne)	revived | undone	27
+Simon Magnos' dracozombie	Meredith d'Ose | Fenris | Simon Magnos	Slain by Meredith d'Ose while fused with Fenris on orders from Simon Magnos and resurrected afterwards (undone via the Crimson Throne)	revived | undone	27
+<200+> Magvolia beasts		Died from unknown causes, eventually used as material for undead abominations by Duchar Honorius (hundreds mentioned) (undone via the Crimson Throne)	undone	27
+<3+> imps	Crafter	Slain by the Golden Champion, created by the Crafter (several mentioned) (undone via the Crimson Throne)	undone	27
+<200+> airship crew	Louis Magnos | Simon Magnos	Destroyed alongside their airship by Louis Magnos on orders from Simon Magnos (1 airship mentioned, presumably manned by at least two hundred soldiers given info from reign 8) (undone via the Crimson Throne)	undone	27
+<200+> airship crew	Louis Magnos | Simon Magnos	Massacred by Louis Magnos on orders from Simon Magnos (1 airship mentioned, presumably manned by at least two hundred soldiers given info from reign 8) (undone via the Crimson Throne)	undone	27
+<600+> airship crew	Simon Magnos	Destroyed alongside their airship by Simon Magnos' Dreadful Aura (3 airships mentioned, presumably manned by at least two hundred soldiers each given info from reign 8) (undone via the Crimson Throne)	undone	27
+<3+> flying monsters	Crafter	Annihilated with beams shot by the Golden Champion, created by the Crafter (several mentioned) (undone via the Crimson Throne)	undone	27
+<3+> soldiers	Simon Magnos | Louis Magnos | Leanan | Crafter	Caught in the molten gold released by the Golden Champion's destruction at the hands of Simon Magnos, Louis Magnos and Leanan, as a safety measure created by the Crafter (several mentioned) (undone via the Crimson Throne)	undone	27
+<3+> undead	Simon Magnos | Louis Magnos | Leanan | Crafter	Caught in the molten gold released by the Golden Champion's destruction at the hands of Simon Magnos, Louis Magnos and Leanan, as a safety measure created by the Crafter (several mentioned) (undone via the Crimson Throne)	undone	27
+Vayan	Lauriane Magnos | Dassein Magnos	Slain by Lauriane Magnos and Dassein Magnos (later revived due to his nature as an Eidolon) (undone via the Crimson Throne)	revived | undone	27
+Culebre	Lauriane Magnos | Dassein Magnos	Slain by Lauriane Magnos and Dassein Magnos (later revived due to his nature as an Eidolon) (undone via the Crimson Throne)	revived | undone	27
+Carbuncle	Lauriane Magnos | Dassein Magnos	Slain by Lauriane Magnos and Dassein Magnos (later revived due to his nature as an Eidolon) (undone via the Crimson Throne)	revived | undone	27
+<3+> Musan civilians	Simon Magnos	Transformed into slimes and perished via Simon Magnos' Edict of Eerie Storms (several mentioned) (undone via the Crimson Throne)	undone	27
+Anaximander	Lauriane Magnos	Died of the anti-elf viral agent developed by Lauriane Magnos (undone via the Crimson Throne)	undone	27
+<3+> elves	Lauriane Magnos	Died of the anti-elf viral agent developed by Lauriane Magnos (several mentioned) (undone via the Crimson Throne)	undone	27
+<3+> pegasi knights	Simon Magnos	Blown up with Darkflare by Simon Magnos (several mentioned) (undone via the Crimson Throne)	undone	27
+Satine Renais	Frea | Carbuncle | Simon Magnos	Blasted by Frea's Nova spell redirected by Carbuncle on orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+Simon Magnos' dracozombie	Frea	Skull pulverized with a wave of power by Frea, later resurrected (undone via the Crimson Throne)	revived | undone	27
+Frea	Simon Magnos	Torn apart with Magic Eraser by Simon Magnos (undone via the Crimson Throne)	undone	27
+Hector Honorius	Louis Magnos	Soul-possessed helmet shattered into pieces by Louis Magnos (undone via the Crimson Throne)	undone	27
+Richard of Lore	Louis Magnos | Lauriane Magnos | Simon Magnos	Crushed by boulders during the collapse of the Kish Sanctuary orchestrated by Louis Magnos and Lauriane Magnos, acting on indirect orders from Simon Magnos (undone via the Crimson Throne)	undone	27
+<1,000+> Kish Sanctuary residents	Louis Magnos | Lauriane Magnos | Simon Magnos	Crushed by boulders during the collapse of the Kish Sanctuary orchestrated by Louis Magnos and Lauriane Magnos, acting on indirect orders from Simon Magnos (1 thousand mentioned) (undone via the Crimson Throne)	undone	27
+Simon Magnos	Louis Magnos | Musan Sniper	Impaled with several Mana Sword replicas by Louis Magnos and eventually shot in the head by the Musan Sniper (undone via the Crimson Throne)	undone	27
+
+
+
 
 
 

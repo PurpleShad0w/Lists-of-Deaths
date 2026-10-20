@@ -49,11 +49,13 @@
 | Slay the Princess            | used wiki                                                                                |
 | Staffer Series               | wrote while playing                                                                      |
 | Star Wars                    | used wiki                                                                                |
+| Talentless Nana              | wrote while reading                                                                      |
 | The Evil Within              | used wiki                                                                                |
 | The Golden Idol              | used wiki                                                                                |
 | The Perfect Run              | wrote while reading                                                                      |
 | The World Ends with You      | used wiki                                                                                |
 | Tokyo Ghoul                  | used wiki, will read                                                                     |
 | Tomb Raider                  | used wiki                                                                                |
+| Usogui                       | wrote while reading                                                                      |
 | Watch Dogs                   | used wiki                                                                                |
 | Zero Escape                  | used wiki                                                                                |
